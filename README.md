@@ -6,6 +6,7 @@
 |---|---|
 | `targets_spec.md` | リスト作成の仕様（対象・件数・除外・形式） |
 | `templates.json` | フォーム文面（業種別 A/B） |
+| `sender.json` | 送信者情報（佐竹 h.satake@deex.co.jp）。フォーム入力と返信先に使う |
 | `targets.json` | 送付先リスト（作成予定） |
 | `send.js` | 送信スクリプト（渡邉さんの実装を Windows 向けに調整予定） |
 | `results.jsonl` | 送付結果の台帳 |

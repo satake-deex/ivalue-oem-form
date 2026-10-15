@@ -1,0 +1,15 @@
+{
+  "_note": "フォームに入力する送信者情報。send.js はここから読み込む。空欄（\"\"）が残っているうちは本番送信しない。",
+  "company": "deex",
+  "company_kana": "",
+  "last_name": "佐竹",
+  "first_name": "",
+  "last_name_kana": "サタケ",
+  "first_name_kana": "",
+  "email": "h.satake@deex.co.jp",
+  "tel": "",
+  "zip": "",
+  "address": "",
+  "department": "",
+  "position": ""
+}

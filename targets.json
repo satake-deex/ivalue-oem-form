@@ -4278,5 +4278,4005 @@
     "employees": "",
     "business": "一般商業印刷・パンフレット・ポスター・チラシ・チケット",
     "has_web": false
+  },
+  {
+    "company": "株式会社ウィザップ",
+    "domain": "wizup.jp",
+    "url": "https://www.wizup.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "67名",
+    "business": "商業印刷・ホームページ制作・グッズ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社太陽プリント",
+    "domain": "taiyouprint.co.jp",
+    "url": "https://www.taiyouprint.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "",
+    "business": "商業印刷・ポスター・プリントウェア",
+    "has_web": false
+  },
+  {
+    "company": "高速印刷株式会社",
+    "domain": "kousoku-print.jp",
+    "url": "https://www.kousoku-print.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "77名",
+    "business": "商業印刷・Web制作・動画制作・イベント企画",
+    "has_web": true
+  },
+  {
+    "company": "プログラフ株式会社",
+    "domain": "prograf.co.jp",
+    "url": "https://prograf.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "40名",
+    "business": "グラフィックデザイン・各種印刷・加工",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ディモルギア",
+    "domain": "dimiourgia.jp",
+    "url": "https://dimiourgia.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "31名",
+    "business": "ブランディング・グラフィック・Web・動画・イベント",
+    "has_web": true
+  },
+  {
+    "company": "AGN株式会社",
+    "domain": "agn.co.jp",
+    "url": "https://www.agn.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "48名",
+    "business": "印刷・イベント・映像・Web制作・広告代理",
+    "has_web": true
+  },
+  {
+    "company": "株式会社プレスメディア",
+    "domain": "pressmedia.co.jp",
+    "url": "https://pressmedia.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "84名",
+    "business": "印刷・Webサイト制作・動画制作・VRコンテンツ",
+    "has_web": true
+  },
+  {
+    "company": "三条印刷株式会社",
+    "domain": "sanjo-prn.co.jp",
+    "url": "https://sanjo-prn.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "89名",
+    "business": "商業印刷・デジタルメディアデザイン・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ニイガタ",
+    "domain": "niigatainsatsu.co.jp",
+    "url": "https://niigatainsatsu.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "48名",
+    "business": "総合印刷・企画・デザイン・制作",
+    "has_web": false
+  },
+  {
+    "company": "株式会社大創",
+    "domain": "daisou-print.co.jp",
+    "url": "https://www.daisou-print.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "11名",
+    "business": "商業印刷・出版・名刺・封筒・チラシ",
+    "has_web": false
+  },
+  {
+    "company": "笹勇印刷株式会社",
+    "domain": "sasayu.co.jp",
+    "url": "http://www.sasayu.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "",
+    "business": "商業印刷全般",
+    "has_web": false
+  },
+  {
+    "company": "サクラ印刷株式会社",
+    "domain": "sakura-print.co.jp",
+    "url": "https://www.sakura-print.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "25名",
+    "business": "商業印刷・チラシ・DM・ポスター・ホームページ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社柏崎インサツ",
+    "domain": "k-print.co.jp",
+    "url": "https://k-print.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "20名",
+    "business": "商業印刷・新聞印刷・ネット通販印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社佐渡中央印刷所",
+    "domain": "sadochuo.com",
+    "url": "https://sadochuo.com/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "12名",
+    "business": "商業印刷・チラシ・ポスター・パンフレット",
+    "has_web": false
+  },
+  {
+    "company": "西巻印刷株式会社",
+    "domain": "nishimaki.co.jp",
+    "url": "http://nishimaki.co.jp/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "60名",
+    "business": "企画デザイン・パッケージ・販促ツール・商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社エムプリント",
+    "domain": "emu-pri.com",
+    "url": "https://emu-pri.com/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "1名",
+    "business": "印刷物デザイン・Webサイト制作・グッズプリント",
+    "has_web": true
+  },
+  {
+    "company": "有限会社中央印刷所",
+    "domain": "chuo-printing.com",
+    "url": "https://www.chuo-printing.com/",
+    "segment": "printing",
+    "pref": "新潟県",
+    "employees": "",
+    "business": "商業印刷・カタログ・チラシ・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社グラフ",
+    "domain": "e-graph.co.jp",
+    "url": "https://www.e-graph.co.jp/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "34名",
+    "business": "総合広告・印刷・マーケティング・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "いおざき印刷株式会社",
+    "domain": "io-print.com",
+    "url": "https://io-print.com/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "20名",
+    "business": "企画デザイン・オフセット印刷・デジタル印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社すがの印刷",
+    "domain": "sugano.co.jp",
+    "url": "https://www.sugano.co.jp/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "46名",
+    "business": "商業印刷・出版・ホームページ・AR・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "キクラ印刷株式会社",
+    "domain": "kikura.co.jp",
+    "url": "https://kikura.co.jp/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "30名",
+    "business": "商業印刷・カタログ・パンフレット・デジタルカタログ",
+    "has_web": false
+  },
+  {
+    "company": "アドブレンド株式会社",
+    "domain": "ad-blend.com",
+    "url": "https://www.ad-blend.com/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "8名",
+    "business": "Webデザイン・印刷デザイン・サイン・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "有限会社データサット",
+    "domain": "datasat.co.jp",
+    "url": "https://www.datasat.co.jp/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "",
+    "business": "DM企画制作・パンフレット・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "エース・プリントデザイン",
+    "domain": "ace-printdesign.jp",
+    "url": "https://ace-printdesign.jp/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "",
+    "business": "オンデマンド印刷・名刺・ポスター・Webサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サカイ印刷",
+    "domain": "sakai-insatsu.co.jp",
+    "url": "https://www.sakai-insatsu.co.jp/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "14名",
+    "business": "オフセット印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社富士印刷",
+    "domain": "fuji-print.co.jp",
+    "url": "https://www.fuji-print.co.jp/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "7名",
+    "business": "印刷・製本",
+    "has_web": false
+  },
+  {
+    "company": "株式会社第一印房",
+    "domain": "daiichi-inbou.co.jp",
+    "url": "https://www.daiichi-inbou.co.jp/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社印刷の栄文社",
+    "domain": "p-eibunsha.com",
+    "url": "https://p-eibunsha.com/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社タニグチ印刷",
+    "domain": "taniguchiprint.com",
+    "url": "http://www.taniguchiprint.com/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "神島印刷株式会社",
+    "domain": "kamijima-print.co.jp",
+    "url": "https://www.kamijima-print.co.jp/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "田中昭文堂印刷株式会社",
+    "domain": "shobundo.co.jp",
+    "url": "https://www.shobundo.co.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "46名",
+    "business": "印刷全般・Webサイト制作・学会イベント事務局代行",
+    "has_web": true
+  },
+  {
+    "company": "株式会社栄光プリント",
+    "domain": "eiko-p.co.jp",
+    "url": "https://www.eiko-p.co.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "30名",
+    "business": "印刷・マルチメディア・情報処理",
+    "has_web": false
+  },
+  {
+    "company": "株式会社キャスト西野",
+    "domain": "castweb.co.jp",
+    "url": "https://www.castweb.co.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "15名",
+    "business": "印刷・Webサイト制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社丸藤",
+    "domain": "marufuji-gr.co.jp",
+    "url": "https://www.marufuji-gr.co.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "12名",
+    "business": "総合印刷・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ユーアート",
+    "domain": "youart.co.jp",
+    "url": "https://www.youart.co.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "15名",
+    "business": "デザイン・印刷・カッティング技術",
+    "has_web": false
+  },
+  {
+    "company": "株式会社共栄",
+    "domain": "p-kyoei.co.jp",
+    "url": "http://www.p-kyoei.co.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ウイル・コーポレーション",
+    "domain": "well-corp.jp",
+    "url": "https://www.well-corp.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "40名",
+    "business": "商業印刷・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社キタガワ印刷",
+    "domain": "n-river.co.jp",
+    "url": "http://n-river.co.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ショセキ",
+    "domain": "syoseki.co.jp",
+    "url": "https://www.syoseki.co.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "",
+    "business": "印刷・製本・ポスター・チラシ",
+    "has_web": false
+  },
+  {
+    "company": "株式会社山代印刷",
+    "domain": "yamashiroinsatsu.co.jp",
+    "url": "https://yamashiroinsatsu.co.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "",
+    "business": "商業印刷・ウェアプリント・グッズプリント",
+    "has_web": false
+  },
+  {
+    "company": "株式会社そうごう",
+    "domain": "ssl.sougo.jp",
+    "url": "https://ssl.sougo.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "",
+    "business": "印刷・加工・倉庫・物流",
+    "has_web": false
+  },
+  {
+    "company": "株式会社KASAMA",
+    "domain": "kasama-jp.com",
+    "url": "https://kasama-jp.com/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "",
+    "business": "通帳印刷・クリアファイル印刷・オリジナルグッズ",
+    "has_web": false
+  },
+  {
+    "company": "イシダ印刷",
+    "domain": "isd-print.com",
+    "url": "https://isd-print.com/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "",
+    "business": "商業印刷・オリジナルプリント",
+    "has_web": false
+  },
+  {
+    "company": "小林太一印刷所",
+    "domain": "kobayashi-print.co.jp",
+    "url": "https://www.kobayashi-print.co.jp/",
+    "segment": "printing",
+    "pref": "石川県",
+    "employees": "",
+    "business": "記念誌・自費出版・パンフレット・名刺・AR印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ホーコーズ",
+    "domain": "good-hoko.com",
+    "url": "https://www.good-hoko.com/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "27名",
+    "business": "サイン・印刷・地図制作・Webデザイン・システム開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ワタナベ印刷",
+    "domain": "watanabe-insatsu.com",
+    "url": "https://www.watanabe-insatsu.com/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "商業印刷・DM発送代行・ワンストップサービス",
+    "has_web": false
+  },
+  {
+    "company": "伊部印刷株式会社",
+    "domain": "ibeinsatsu.co.jp",
+    "url": "https://ibeinsatsu.co.jp/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "冊子印刷・カタログ・パンフレット",
+    "has_web": false
+  },
+  {
+    "company": "有限会社ファイン",
+    "domain": "fineltd.jp",
+    "url": "https://www.fineltd.jp/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "印刷・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "有限会社コピーエクスプレス",
+    "domain": "copyexpress.jp",
+    "url": "https://www.copyexpress.jp/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "印刷・コピー・冊子・ポスター・封筒・名刺",
+    "has_web": false
+  },
+  {
+    "company": "岡崎印刷有限会社",
+    "domain": "okazakiinsatu.com",
+    "url": "http://www.okazakiinsatu.com/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "若越印刷株式会社",
+    "domain": "jakuetsu-print.com",
+    "url": "http://www.jakuetsu-print.com/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社竹内印刷",
+    "domain": "takeuchi-insatsu.ecnet.jp",
+    "url": "http://www.takeuchi-insatsu.ecnet.jp/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "チャンスメーカー株式会社",
+    "domain": "chancemaker.co.jp",
+    "url": "https://www.chancemaker.co.jp/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社マツイ印刷",
+    "domain": "insatsuyasan.com",
+    "url": "https://www.insatsuyasan.com/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "印刷通販・ネット印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社峡南堂印刷所",
+    "domain": "kyonandoprint.co.jp",
+    "url": "https://kyonandoprint.co.jp/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "総合印刷・企画デザイン・Web制作・ネット広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社オズプリンティング",
+    "domain": "ozp.jp",
+    "url": "https://ozp.jp/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷・ホームページ制作・デジタルコンテンツ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社三愛印刷",
+    "domain": "sanai.info",
+    "url": "http://www.sanai.info/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷・サイト構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アド・ステーション",
+    "domain": "adstation.co.jp",
+    "url": "https://adstation.co.jp/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "会社案内・パンフレット・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ヨネヤ",
+    "domain": "yoneya.co.jp",
+    "url": "http://www.yoneya.co.jp/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "15名",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社大宣堂印刷",
+    "domain": "daisendo-press.com",
+    "url": "http://www.daisendo-press.com/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社島田プロセス",
+    "domain": "shimada-pro.com",
+    "url": "http://shimada-pro.com/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷・環境印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社佐野印刷",
+    "domain": "sano-print.co.jp",
+    "url": "https://www.sano-print.co.jp/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷・広告",
+    "has_web": false
+  },
+  {
+    "company": "株式会社エンドレス",
+    "domain": "endless-print.co.jp",
+    "url": "https://www.endless-print.co.jp/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社まいづる印刷",
+    "domain": "maizuruinsatsu.com",
+    "url": "https://maizuruinsatsu.com/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社平和プリント社",
+    "domain": "heiwa-print.co.jp",
+    "url": "https://www.heiwa-print.co.jp/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社相模堂印刷",
+    "domain": "sagamido.co.jp",
+    "url": "https://www.sagamido.co.jp/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "亜細亜印刷株式会社",
+    "domain": "asia-p.co.jp",
+    "url": "http://www.asia-p.co.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "70名",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "中外印刷株式会社",
+    "domain": "chugai-printing.co.jp",
+    "url": "http://www.chugai-printing.co.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "三和印刷株式会社",
+    "domain": "sanwaprinting.jp",
+    "url": "http://www.sanwaprinting.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社日美印刷",
+    "domain": "nichibi-p.com",
+    "url": "http://www.nichibi-p.com/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "16名",
+    "business": "型抜き印刷・商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "川越印刷株式会社",
+    "domain": "kawagoeinsatsu.com",
+    "url": "https://www.kawagoeinsatsu.com/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "オフセット印刷・商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社アルプス印刷",
+    "domain": "alps-p.com",
+    "url": "https://www.alps-p.com/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "松澤印刷株式会社",
+    "domain": "matsuzawa.co.jp",
+    "url": "https://www.matsuzawa.co.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社佐久印刷所",
+    "domain": "sakuinsatsu.jp",
+    "url": "https://www.sakuinsatsu.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "28名",
+    "business": "商業印刷・出版",
+    "has_web": false
+  },
+  {
+    "company": "杉本印刷株式会社",
+    "domain": "sugimoto-print.co.jp",
+    "url": "https://sugimoto-print.co.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "商業印刷・カタログ・ポスター・製本",
+    "has_web": false
+  },
+  {
+    "company": "有限会社伸和印刷",
+    "domain": "p-shinwa.co.jp",
+    "url": "https://p-shinwa.co.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社大和印刷",
+    "domain": "daiwa3.co.jp",
+    "url": "https://www.daiwa3.co.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "10名",
+    "business": "オフセット印刷",
+    "has_web": false
+  },
+  {
+    "company": "矢沢印刷株式会社",
+    "domain": "yazawa-print.co.jp",
+    "url": "https://www.yazawa-print.co.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "商業印刷・Japan Color認証",
+    "has_web": false
+  },
+  {
+    "company": "株式会社岐阜文芸社",
+    "domain": "bungeisya.co.jp",
+    "url": "https://www.bungeisya.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社トヨトモ",
+    "domain": "toyotomo.co.jp",
+    "url": "https://toyotomo.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "90名",
+    "business": "総合印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社慶進社",
+    "domain": "keishinsha.co.jp",
+    "url": "http://www.keishinsha.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社サン・ライン",
+    "domain": "s-line.co.jp",
+    "url": "http://www.s-line.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "合名会社朝日堂印刷",
+    "domain": "asahidoh-p.com",
+    "url": "http://asahidoh-p.com/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "8名",
+    "business": "シルクスクリーンUV・オフセット印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社アイアムエンタープライズ",
+    "domain": "iamenterprise.biz",
+    "url": "http://www.iamenterprise.biz/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "印刷・青写真複写・データ電子化・Web制作・製本",
+    "has_web": true
+  },
+  {
+    "company": "株式会社イナバ印刷社",
+    "domain": "ppinaba.co.jp",
+    "url": "http://www.ppinaba.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "那加印刷株式会社",
+    "domain": "naka-p.info",
+    "url": "https://www.naka-p.info/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ダイキュー",
+    "domain": "daiq-pri.co.jp",
+    "url": "http://www.daiq-pri.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "西濃印刷株式会社",
+    "domain": "seino-print.co.jp",
+    "url": "https://www.seino-print.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "日新印刷株式会社",
+    "domain": "nisshin-print.co.jp",
+    "url": "https://www.nisshin-print.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "三工印刷株式会社",
+    "domain": "sanko-print.co.jp",
+    "url": "https://www.sanko-print.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "八千代印刷株式会社",
+    "domain": "yachiyo-p.com",
+    "url": "http://www.yachiyo-p.com/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "ナガハシ印刷株式会社",
+    "domain": "nagahasi.com",
+    "url": "http://www.nagahasi.com/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "20名",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社トップ",
+    "domain": "kktop.co.jp",
+    "url": "http://www.kktop.co.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "春日印刷工業株式会社",
+    "domain": "kasugaprint.co.jp",
+    "url": "https://kasugaprint.co.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "星光社印刷株式会社",
+    "domain": "spdigital.net",
+    "url": "https://www.spdigital.net/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社黎明社",
+    "domain": "reimeisha.co.jp",
+    "url": "https://www.reimeisha.co.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社三島印刷",
+    "domain": "mishima-print.co.jp",
+    "url": "https://www.mishima-print.co.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "56名",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社やまもと印刷工業",
+    "domain": "yamamoto-print.jp",
+    "url": "https://www.yamamoto-print.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "商業印刷・名刺・チラシ・パンフレット・カタログ",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ヨシモト印刷社",
+    "domain": "yoshimoto-p.jp",
+    "url": "https://yoshimoto-p.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "フレキソ印刷・食品包装印刷",
+    "has_web": false
+  },
+  {
+    "company": "研文社印刷株式会社",
+    "domain": "kenbunsha.co.jp",
+    "url": "http://www.kenbunsha.co.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "書籍印刷・商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社川崎印刷紙工",
+    "domain": "kawasaki-insatsu.com",
+    "url": "http://kawasaki-insatsu.com/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "商業印刷・紙工",
+    "has_web": false
+  },
+  {
+    "company": "株式会社アイエルシー",
+    "domain": "ail-c.com",
+    "url": "https://ail-c.com/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "印刷・AR・アプリ開発・トータルメディアサービス",
+    "has_web": true
+  },
+  {
+    "company": "有限会社クドウ・クリエイト",
+    "domain": "kudocreate.jp",
+    "url": "https://kudocreate.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "商業印刷・名刺・封筒・チラシ・冊子",
+    "has_web": false
+  },
+  {
+    "company": "文光堂印刷株式会社",
+    "domain": "bunkodo-print.co.jp",
+    "url": "https://www.bunkodo-print.co.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "商業印刷・チラシ・パンフレット・冊子",
+    "has_web": false
+  },
+  {
+    "company": "有限会社サカエ印刷",
+    "domain": "sakae-print.co.jp",
+    "url": "https://www.sakae-print.co.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社荒川印刷",
+    "domain": "arkw.co.jp",
+    "url": "https://www.arkw.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "59名",
+    "business": "商業印刷・ホームページ制作・電子書籍制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社界文社",
+    "domain": "kaibunsha.com",
+    "url": "https://www.kaibunsha.com/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "14名",
+    "business": "商業印刷・パンフレット・カタログ・DM",
+    "has_web": false
+  },
+  {
+    "company": "愛知印刷株式会社",
+    "domain": "aichiprn.com",
+    "url": "https://www.aichiprn.com/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "25名",
+    "business": "商業印刷・乗車券印刷・Web制作・販促品企画",
+    "has_web": true
+  },
+  {
+    "company": "共生印刷株式会社",
+    "domain": "kyosei.jp",
+    "url": "https://www.kyosei.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "42名",
+    "business": "商業印刷・プロモーション・イベント・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社マルワ",
+    "domain": "maruwanet.co.jp",
+    "url": "http://www.maruwanet.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "29名",
+    "business": "商業印刷・企画・制作・配送ワンストップ",
+    "has_web": false
+  },
+  {
+    "company": "合資会社誠進社",
+    "domain": "seishinsya.co.jp",
+    "url": "https://seishinsya.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "25名",
+    "business": "デザイン・印刷・製本・サイン・ホームページ作成",
+    "has_web": true
+  },
+  {
+    "company": "木野瀬印刷株式会社",
+    "domain": "kinose.co.jp",
+    "url": "https://www.kinose.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "90名",
+    "business": "商業印刷・Web制作・AR・映像・クロスメディア",
+    "has_web": true
+  },
+  {
+    "company": "大三屋印刷株式会社",
+    "domain": "ohmiya-printing.co.jp",
+    "url": "https://www.ohmiya-printing.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "広告印刷・チラシ・DM発送代行・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "有限会社杉野印刷",
+    "domain": "sugino-insatsu.com",
+    "url": "https://www.sugino-insatsu.com/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷・AR印刷・ポスティング",
+    "has_web": false
+  },
+  {
+    "company": "有限会社伊藤印刷",
+    "domain": "ito-insatsu.co.jp",
+    "url": "http://www.ito-insatsu.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷・自分史印刷",
+    "has_web": false
+  },
+  {
+    "company": "共和印刷株式会社",
+    "domain": "kpweb.co.jp",
+    "url": "http://www.kpweb.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "豊橋合同印刷株式会社",
+    "domain": "tgd.co.jp",
+    "url": "https://tgd.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "あいち印刷株式会社",
+    "domain": "aichi-pr.co.jp",
+    "url": "https://www.aichi-pr.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "90名",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "ブラザー印刷株式会社",
+    "domain": "brother-p.com",
+    "url": "https://brother-p.com/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "20名",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ヨシノ印刷",
+    "domain": "yoshino-print.co.jp",
+    "url": "http://www.yoshino-print.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "17名",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社上郷印刷",
+    "domain": "kamigo.com",
+    "url": "http://www.kamigo.com/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社岡田印刷",
+    "domain": "okada-printing.com",
+    "url": "https://okada-printing.com/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社シンセイ印刷",
+    "domain": "ndprint.jp",
+    "url": "https://ndprint.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "精文堂印刷株式会社",
+    "domain": "seibundo-print.com",
+    "url": "https://www.seibundo-print.com/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社新興印刷社",
+    "domain": "shinko-print.net",
+    "url": "http://shinko-print.net/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社KWIX",
+    "domain": "kwix.co.jp",
+    "url": "https://www.kwix.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "鈴置印刷株式会社",
+    "domain": "suzuokip.co.jp",
+    "url": "https://www.suzuokip.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "安城印刷株式会社",
+    "domain": "a-print.co.jp",
+    "url": "http://www.a-print.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社水野印刷工芸",
+    "domain": "mideco.jp",
+    "url": "https://mideco.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社イチマルイチ",
+    "domain": "ichimaru-ichi.co.jp",
+    "url": "https://www.ichimaru-ichi.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ヴィジカ",
+    "domain": "visica.co.jp",
+    "url": "https://www.visica.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社富山印刷",
+    "domain": "toyamaprint.com",
+    "url": "http://www.toyamaprint.com/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社アヤト",
+    "domain": "ayato.co.jp",
+    "url": "https://ayato.co.jp/",
+    "segment": "printing",
+    "pref": "富山県",
+    "employees": "",
+    "business": "PP封筒印刷・選挙ポスター・圧着ハガキ",
+    "has_web": false
+  },
+  {
+    "company": "株式会社山扇印刷",
+    "domain": "yamaoogi-insatsu.com",
+    "url": "https://yamaoogi-insatsu.com/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "青柳印刷株式会社",
+    "domain": "aoyagi-insatsu.com",
+    "url": "https://aoyagi-insatsu.com/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "秋山プロセス株式会社",
+    "domain": "akipro.co.jp",
+    "url": "https://www.akipro.co.jp/",
+    "segment": "printing",
+    "pref": "山梨県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "協同印刷株式会社",
+    "domain": "kyodoprint.co.jp",
+    "url": "https://www.kyodoprint.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社サラニ",
+    "domain": "sarani.co.jp",
+    "url": "https://www.sarani.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "高山印刷株式会社",
+    "domain": "takayama-print.co.jp",
+    "url": "https://www.takayama-print.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "山都印刷株式会社",
+    "domain": "santo-print.co.jp",
+    "url": "https://www.santo-print.co.jp/",
+    "segment": "printing",
+    "pref": "岐阜県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社オノウエ印刷",
+    "domain": "op-onoue.co.jp",
+    "url": "https://op-onoue.co.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社飯田写真印刷",
+    "domain": "iida-photo.co.jp",
+    "url": "https://www.iida-photo.co.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "商業印刷・写真印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社宮澤印刷",
+    "domain": "miyazawa-print.co.jp",
+    "url": "https://www.miyazawa-print.co.jp/",
+    "segment": "printing",
+    "pref": "長野県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "大沢印刷株式会社",
+    "domain": "osawa-p.jp",
+    "url": "https://osawa-p.jp/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社サカエマーク",
+    "domain": "sakaemark.co.jp",
+    "url": "https://www.sakaemark.co.jp/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "商業印刷・マーク印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社神谷",
+    "domain": "kamiya-print.co.jp",
+    "url": "https://www.kamiya-print.co.jp/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社野村印刷",
+    "domain": "nomura-print.co.jp",
+    "url": "https://www.nomura-print.co.jp/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社ナカオ印刷",
+    "domain": "nakao-print.co.jp",
+    "url": "https://www.nakao-print.co.jp/",
+    "segment": "printing",
+    "pref": "福井県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "桐屋印刷株式会社",
+    "domain": "kiriya-print.co.jp",
+    "url": "https://www.kiriya-print.co.jp/",
+    "segment": "printing",
+    "pref": "静岡県",
+    "employees": "",
+    "business": "総合印刷・デザイン・Web構築",
+    "has_web": true
+  },
+  {
+    "company": "有限会社第一プリント社",
+    "domain": "daiichi-print.co.jp",
+    "url": "http://www.daiichi-print.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "マツモト印刷株式会社",
+    "domain": "printing.co.jp",
+    "url": "https://www.printing.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "グランドマーキング株式会社",
+    "domain": "grandmarking.co.jp",
+    "url": "https://www.grandmarking.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "ステッカー・シール制作・デザイン・商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "サンワフォーム印刷株式会社",
+    "domain": "sanwa-fp.co.jp",
+    "url": "https://www.sanwa-fp.co.jp/",
+    "segment": "printing",
+    "pref": "愛知県",
+    "employees": "",
+    "business": "フォーム印刷・商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "水九印刷株式会社",
+    "domain": "mizuku.co.jp",
+    "url": "https://www.mizuku.co.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "30名",
+    "business": "商業印刷・封筒印刷・オンデマンド印刷・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "阿竹印刷工業株式会社",
+    "domain": "atake.co.jp",
+    "url": "https://atake.co.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "23名",
+    "business": "商業印刷・デザイン・漫画制作・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイリック",
+    "domain": "airic.jp",
+    "url": "https://www.airic.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "11名",
+    "business": "BPO事業・オフセット印刷・デジタル印刷・物流事業",
+    "has_web": false
+  },
+  {
+    "company": "富士印刷株式会社",
+    "domain": "fujiprn.co.jp",
+    "url": "https://www.fujiprn.co.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "85名",
+    "business": "企画制作・印刷加工・在庫管理・デリバリー",
+    "has_web": false
+  },
+  {
+    "company": "三宅印刷株式会社",
+    "domain": "miyake-insatsu.com",
+    "url": "https://www.miyake-insatsu.com/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "25名",
+    "business": "印刷物制作・製造・チラシ印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社アイブレーン",
+    "domain": "ibrain.mie-net.ne.jp",
+    "url": "https://ibrain.mie-net.ne.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "47名",
+    "business": "総合印刷・デザイン・ホームページ制作・動画制作・販促グッズ",
+    "has_web": true
+  },
+  {
+    "company": "伊藤印刷株式会社",
+    "domain": "ito-pto.jp",
+    "url": "https://ito-pto.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "35名",
+    "business": "商業印刷・冊子・パンフレット・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "早川印刷株式会社",
+    "domain": "hayakawa-insatsu.co.jp",
+    "url": "https://hayakawa-insatsu.co.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "13名",
+    "business": "伝票印刷・カラー印刷・製本・パンフレット",
+    "has_web": false
+  },
+  {
+    "company": "上野印刷株式会社",
+    "domain": "ueno-pri.co.jp",
+    "url": "https://www.ueno-pri.co.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "13名",
+    "business": "商業印刷・パンフレット・ポスター・ホームページ制作・サーバーホスティング",
+    "has_web": true
+  },
+  {
+    "company": "千巻印刷産業株式会社",
+    "domain": "chimaki.co.jp",
+    "url": "https://chimaki.co.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "25名",
+    "business": "印刷物企画制作・Webサイト制作・Web広告・動画制作・イベント企画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社一誠堂",
+    "domain": "printi.co.jp",
+    "url": "http://www.printi.co.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "35名",
+    "business": "圧着ハガキ印刷・デザイン・製本加工",
+    "has_web": false
+  },
+  {
+    "company": "有限会社三協印刷",
+    "domain": "sankyoprinting.co.jp",
+    "url": "https://sankyoprinting.co.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "",
+    "business": "商業印刷・チラシ・名刺・封筒・伝票",
+    "has_web": false
+  },
+  {
+    "company": "光出版印刷株式会社",
+    "domain": "hikari-web.jp",
+    "url": "http://hikari-web.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "",
+    "business": "総合印刷・大判印刷・製本・自費出版・看板・Web企画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アサプリ",
+    "domain": "asapri.co.jp",
+    "url": "https://www.asapri.co.jp/",
+    "segment": "printing",
+    "pref": "三重県",
+    "employees": "59名",
+    "business": "ホームページ制作・グラフィックデザイン・印刷・製本・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "宮川印刷株式会社",
+    "domain": "miyagawainsatsu.co.jp",
+    "url": "https://www.miyagawainsatsu.co.jp/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "商業印刷・オフセット印刷",
+    "has_web": false
+  },
+  {
+    "company": "博善社印刷株式会社",
+    "domain": "hakuzenp.co.jp",
+    "url": "https://www.hakuzenp.co.jp/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "22名",
+    "business": "商業印刷・パンフレット・ステッカー・ポスター・動画制作",
+    "has_web": false
+  },
+  {
+    "company": "谷口印刷株式会社",
+    "domain": "taniguchi-printing.com",
+    "url": "https://www.taniguchi-printing.com/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "印刷物・Webサイトの企画・デザイン・製版・オフセット印刷・製本",
+    "has_web": true
+  },
+  {
+    "company": "近江印刷株式会社",
+    "domain": "omi-in.co.jp",
+    "url": "https://www.omi-in.co.jp/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "62名",
+    "business": "商業印刷・ビジネスフォーム印刷・特殊印刷・デザイン企画・Web・動画・広告代理",
+    "has_web": true
+  },
+  {
+    "company": "株式会社冨士印刷",
+    "domain": "fuji-pri.co.jp",
+    "url": "https://www.fuji-pri.co.jp/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "チラシ・パンフレット・ポスター・フリーペーパー印刷",
+    "has_web": false
+  },
+  {
+    "company": "明文舎印刷商事株式会社",
+    "domain": "meibun.com",
+    "url": "https://meibun.com/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "100名",
+    "business": "総合印刷・出版・企画デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社メイクアド",
+    "domain": "make-ad.net",
+    "url": "http://www.make-ad.net/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "オンデマンド印刷・名刺・封筒・パンフレット・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社カンプリ近江",
+    "domain": "kanpuri.co.jp",
+    "url": "https://www.kanpuri.co.jp/oumi/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "オフセット印刷・コピー・スキャニング・CAD出力",
+    "has_web": false
+  },
+  {
+    "company": "サンライズ出版株式会社",
+    "domain": "sunrise-pub.co.jp",
+    "url": "https://www.sunrise-pub.co.jp/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "9名",
+    "business": "出版・自費出版・印刷・書籍企画制作",
+    "has_web": false
+  },
+  {
+    "company": "奥野印刷株式会社",
+    "domain": "okuno-print.net",
+    "url": "http://okuno-print.net/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "商業印刷・オフセット印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社スマイ印刷",
+    "domain": "sumaiprint.com",
+    "url": "https://sumaiprint.com/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "荒川印刷株式会社",
+    "domain": "a-pri.co.jp",
+    "url": "https://www.a-pri.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "16名",
+    "business": "商業印刷・ノベルティ制作・ディスプレイ企画制作・ホームページ制作運営",
+    "has_web": true
+  },
+  {
+    "company": "株式会社あおぞら印刷",
+    "domain": "aozorasha.co.jp",
+    "url": "https://www.aozorasha.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "",
+    "business": "商業美術印刷・SPツール企画制作・書籍印刷",
+    "has_web": false
+  },
+  {
+    "company": "桜栄印刷株式会社",
+    "domain": "oa-print.com",
+    "url": "http://www.oa-print.com/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "8名",
+    "business": "印刷・IT関連・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "サンケイデザイン株式会社",
+    "domain": "sankeidesign.co.jp",
+    "url": "https://sankeidesign.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "17名",
+    "business": "商業印刷・デザイン企画制作",
+    "has_web": false
+  },
+  {
+    "company": "京都印刷株式会社",
+    "domain": "kyoto-insatsu.co.jp",
+    "url": "https://www.kyoto-insatsu.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "14名",
+    "business": "印刷業・和装業界向け印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社こだま印刷所",
+    "domain": "kodamap.co.jp",
+    "url": "https://kodamap.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "16名",
+    "business": "商業印刷・出版印刷・学術書・電子書籍",
+    "has_web": false
+  },
+  {
+    "company": "有限会社芳文堂",
+    "domain": "kyoto-hobundo.co.jp",
+    "url": "https://kyoto-hobundo.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "",
+    "business": "印刷・デザイン・ホームページ制作・販促提案",
+    "has_web": true
+  },
+  {
+    "company": "株式会社オスカーヤマト印刷",
+    "domain": "oscaryamato.jp",
+    "url": "https://www.oscaryamato.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "13名",
+    "business": "企画・デザイン・Web制作・総合印刷",
+    "has_web": true
+  },
+  {
+    "company": "株式会社太洋堂",
+    "domain": "love.co.jp",
+    "url": "https://www.love.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "100名",
+    "business": "印刷全般・Web運営企画・展示会イベント運営・映像",
+    "has_web": true
+  },
+  {
+    "company": "土山印刷株式会社",
+    "domain": "tsuchiyama.co.jp",
+    "url": "https://www.tsuchiyama.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "105名",
+    "business": "総合カタログ制作・DM発送・Webサイト制作・印刷",
+    "has_web": true
+  },
+  {
+    "company": "国進印刷株式会社",
+    "domain": "kokushin.co.jp",
+    "url": "https://www.kokushin.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "",
+    "business": "高品質印刷・グローバル対応",
+    "has_web": false
+  },
+  {
+    "company": "株式会社福知堂",
+    "domain": "fukuchido.co.jp",
+    "url": "https://www.fukuchido.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "",
+    "business": "デザイン・印刷・Web制作・写真・動画制作・イベント企画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社タカギ印刷",
+    "domain": "takagi-print.co.jp",
+    "url": "https://www.takagi-print.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "40名",
+    "business": "商業印刷・カタログ・パンフレット",
+    "has_web": false
+  },
+  {
+    "company": "株式会社コザイ印刷所",
+    "domain": "kozai-print.co.jp",
+    "url": "https://www.kozai-print.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "",
+    "business": "商業印刷・チラシ・ポスター・Webページ制作",
+    "has_web": true
+  },
+  {
+    "company": "和多田印刷株式会社",
+    "domain": "watada.co.jp",
+    "url": "https://www.watada.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "210名",
+    "business": "総合印刷・DTP・製本",
+    "has_web": false
+  },
+  {
+    "company": "株式会社サンエムカラー",
+    "domain": "sanemcolor.co.jp",
+    "url": "https://www.sanemcolor.co.jp/",
+    "segment": "printing",
+    "pref": "京都府",
+    "employees": "",
+    "business": "総合印刷・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社イデアル",
+    "domain": "idealfan.co.jp",
+    "url": "https://www.idealfan.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "12名",
+    "business": "商業印刷・企画デザイン",
+    "has_web": false
+  },
+  {
+    "company": "セントウェル印刷株式会社",
+    "domain": "centwell.co.jp",
+    "url": "https://www.centwell.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "商業印刷・デザイン・ノベルティ制作・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイティ印刷",
+    "domain": "itprint.co.jp",
+    "url": "https://itprint.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "商業印刷・カタログ・パンフレット・Web制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "松和印刷株式会社",
+    "domain": "showa-pr.co.jp",
+    "url": "https://showa-pr.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "70名",
+    "business": "商業印刷・ビジネスフォーム印刷・ブランディング事業",
+    "has_web": false
+  },
+  {
+    "company": "作道印刷株式会社",
+    "domain": "sakudo.co.jp",
+    "url": "https://www.sakudo.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "53名",
+    "business": "商業印刷・パッケージ印刷・FSC認証",
+    "has_web": false
+  },
+  {
+    "company": "速水印刷株式会社",
+    "domain": "hayami-p.co.jp",
+    "url": "http://www.hayami-p.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "オフセット印刷・Web広告・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "ナンデ印刷株式会社",
+    "domain": "nande.co.jp",
+    "url": "https://www.nande.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "商業印刷・帳簿印刷・ラベル印刷・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "タカイ印刷株式会社",
+    "domain": "ptakai.com",
+    "url": "https://www.ptakai.com/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "16名",
+    "business": "商業印刷・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "大島印刷株式会社",
+    "domain": "oshima-p.com",
+    "url": "https://oshima-p.com/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "25名",
+    "business": "商業印刷・パンフレット・ポスター・DM・名刺",
+    "has_web": false
+  },
+  {
+    "company": "やまと印刷株式会社",
+    "domain": "ymtprint.co.jp",
+    "url": "https://ymtprint.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "6名",
+    "business": "事務用印刷・商業印刷・電子ブック作成",
+    "has_web": false
+  },
+  {
+    "company": "マツモト株式会社",
+    "domain": "matsumoto-g.co.jp",
+    "url": "https://matsumoto-g.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "30名",
+    "business": "商業印刷・デジタルマーケティング・デザイン・販促・パッケージ",
+    "has_web": true
+  },
+  {
+    "company": "八尾印刷株式会社",
+    "domain": "hachio.com",
+    "url": "https://www.hachio.com/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "11名",
+    "business": "商業印刷・データ制作・映像制作・パンフレット・カタログ",
+    "has_web": false
+  },
+  {
+    "company": "株式会社遊文舎",
+    "domain": "yubun.co.jp",
+    "url": "https://www.yubun.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "71名",
+    "business": "商業印刷・デザイン・製本",
+    "has_web": false
+  },
+  {
+    "company": "中央印刷株式会社",
+    "domain": "cdp.co.jp",
+    "url": "http://www.cdp.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "3名",
+    "business": "シール・ステッカー・チラシ・パンフレット・デザイン・SNS開設支援",
+    "has_web": false
+  },
+  {
+    "company": "大阪書籍印刷株式会社",
+    "domain": "os-in.com",
+    "url": "https://os-in.com/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "",
+    "business": "商業印刷・チラシ・ポスター・パンフレット・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社三和印刷所",
+    "domain": "sanwaprn.co.jp",
+    "url": "http://www.sanwaprn.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "16名",
+    "business": "広告物制作・印刷物全般",
+    "has_web": false
+  },
+  {
+    "company": "大阪印刷工業株式会社",
+    "domain": "opi-c.co.jp",
+    "url": "https://www.opi-c.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "",
+    "business": "商業印刷・オフセット印刷",
+    "has_web": false
+  },
+  {
+    "company": "立葉印刷株式会社",
+    "domain": "tateba-printing.com",
+    "url": "http://tateba-printing.com/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "",
+    "business": "少部数モノクロ冊子印刷・製本",
+    "has_web": false
+  },
+  {
+    "company": "株式会社近畿印刷センター",
+    "domain": "kinp.co.jp",
+    "url": "http://www.kinp.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "21名",
+    "business": "オフセット印刷・オンデマンド印刷・カタログ・パンフレット・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "大阪印刷株式会社",
+    "domain": "osaka-printing.co.jp",
+    "url": "https://www.osaka-printing.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "120名",
+    "business": "商業印刷・出版印刷",
+    "has_web": false
+  },
+  {
+    "company": "新和印刷株式会社",
+    "domain": "shinwa-printing.co.jp",
+    "url": "https://www.shinwa-printing.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "100名",
+    "business": "総合印刷・企画デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社宮本印刷",
+    "domain": "p-miyamoto.co.jp",
+    "url": "http://www.p-miyamoto.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "",
+    "business": "オフセット印刷・下請け印刷",
+    "has_web": false
+  },
+  {
+    "company": "交友印刷株式会社",
+    "domain": "koyu-p.com",
+    "url": "https://www.koyu-p.com/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "37名",
+    "business": "商業印刷・企画編集・製本・翻訳・映像制作・Web販売支援",
+    "has_web": true
+  },
+  {
+    "company": "有限会社大開印刷",
+    "domain": "daikai-print.com",
+    "url": "http://www.daikai-print.com/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "",
+    "business": "商業印刷全般",
+    "has_web": false
+  },
+  {
+    "company": "商工印刷株式会社",
+    "domain": "shoko-print.co.jp",
+    "url": "https://www.shoko-print.co.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "20名",
+    "business": "商業印刷・製本・特殊加工・オンデマンド印刷",
+    "has_web": false
+  },
+  {
+    "company": "田中印刷出版株式会社",
+    "domain": "tanakapp.co.jp",
+    "url": "http://www.tanakapp.co.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "",
+    "business": "出版印刷・商業印刷・事務印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ソーエイ",
+    "domain": "so-eip.co.jp",
+    "url": "https://www.so-eip.co.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "26名",
+    "business": "企画・デザイン・オフセット印刷・オンデマンド印刷・製本・発送",
+    "has_web": false
+  },
+  {
+    "company": "王子印刷株式会社",
+    "domain": "ohjiprint.co.jp",
+    "url": "http://ohjiprint.co.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "16名",
+    "business": "商業印刷・カタログ・パンフレット・ポスター・チラシ・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "富士高速印刷株式会社",
+    "domain": "fujikousoku.co.jp",
+    "url": "https://fujikousoku.co.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "14名",
+    "business": "企画デザイン・印刷製本・チラシ・冊子・封筒・販促グッズ",
+    "has_web": false
+  },
+  {
+    "company": "株式会社プリンティング園田",
+    "domain": "printing-s.co.jp",
+    "url": "http://www.printing-s.co.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "15名",
+    "business": "商業用オフセット印刷・企画デザイン・新聞折込・ポスティング",
+    "has_web": false
+  },
+  {
+    "company": "ウニスガ印刷株式会社",
+    "domain": "unisuga.com",
+    "url": "https://www.unisuga.com/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "19名",
+    "business": "カタログ・パンフレット・チラシ・ポスター・自費出版",
+    "has_web": false
+  },
+  {
+    "company": "淡路印刷株式会社",
+    "domain": "awajiprinting.com",
+    "url": "http://www.awajiprinting.com/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "",
+    "business": "印刷物企画・デザイン・編集・印刷・製本",
+    "has_web": false
+  },
+  {
+    "company": "株式会社TD・K",
+    "domain": "td-kosei.co.jp",
+    "url": "https://www.td-kosei.co.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "",
+    "business": "各種印刷・OA機器販売・デザイン制作",
+    "has_web": false
+  },
+  {
+    "company": "立岩印刷株式会社",
+    "domain": "tateiwa-printing.jp",
+    "url": "http://www.tateiwa-printing.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "",
+    "business": "商業印刷・伝票・名刺・封筒・カタログ・チラシ",
+    "has_web": false
+  },
+  {
+    "company": "塚田印刷株式会社",
+    "domain": "tsukada-print.co.jp",
+    "url": "https://www.tsukada-print.co.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "",
+    "business": "各種印刷物の企画提案・印刷・納品",
+    "has_web": false
+  },
+  {
+    "company": "株式会社北星社",
+    "domain": "robo.co.jp",
+    "url": "https://www.robo.co.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "250名",
+    "business": "印刷・広告・Web開発・オリジナル商品開発・映像",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイプリコム",
+    "domain": "aipricom.co.jp",
+    "url": "https://www.aipricom.co.jp/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "86名",
+    "business": "商業印刷・出版印刷・事務印刷・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "花松印刷株式会社",
+    "domain": "hanapri.co.jp",
+    "url": "http://www.hanapri.co.jp/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "商業印刷全般",
+    "has_web": false
+  },
+  {
+    "company": "共同精版印刷株式会社",
+    "domain": "ksp-group.co.jp",
+    "url": "https://ksp-group.co.jp/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "商業印刷・製版",
+    "has_web": false
+  },
+  {
+    "company": "植原美術印刷株式会社",
+    "domain": "uehara-a-p.jp",
+    "url": "http://uehara-a-p.jp/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "美術印刷・商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "大倭印刷株式会社",
+    "domain": "ohyamato.jp",
+    "url": "http://oi.ohyamato.jp/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "イノウエ印刷株式会社",
+    "domain": "inoue-print.co.jp",
+    "url": "https://www.inoue-print.co.jp/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "吉田プリント",
+    "domain": "yoshipri.com",
+    "url": "https://www.yoshipri.com/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "商業印刷・チラシ・パンフレット",
+    "has_web": false
+  },
+  {
+    "company": "株式会社天啓",
+    "domain": "tenkei.link",
+    "url": "http://tenkei.link/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "印刷・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "西岡印刷工芸",
+    "domain": "nishioka-print.co.jp",
+    "url": "https://www.nishioka-print.co.jp/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "印刷工芸",
+    "has_web": false
+  },
+  {
+    "company": "有限会社テイク",
+    "domain": "take4499.net",
+    "url": "https://www.take4499.net/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "オフセット印刷・オンデマンド印刷・印鑑",
+    "has_web": false
+  },
+  {
+    "company": "株式会社春日",
+    "domain": "kasuga-print.co.jp",
+    "url": "https://www.kasuga-print.co.jp/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "チラシ印刷・パンフレット印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社第一製版印刷",
+    "domain": "jprint.co.jp",
+    "url": "https://www.jprint.co.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "5名",
+    "business": "チラシ・カタログ・パンフレット・会社案内・Webサイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社和歌山印刷所",
+    "domain": "wa-in.co.jp",
+    "url": "https://www.wa-in.co.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "57名",
+    "business": "カタログ・パンフレット・ポスター・雑誌・書籍印刷",
+    "has_web": false
+  },
+  {
+    "company": "井手印刷株式会社",
+    "domain": "ideprint.co.jp",
+    "url": "https://www.ideprint.co.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "",
+    "business": "オフセット印刷・オンデマンド印刷・ポスター・パンフレット",
+    "has_web": false
+  },
+  {
+    "company": "株式会社さかぐち昇和印刷",
+    "domain": "showap.net",
+    "url": "https://www.showap.net/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "18名",
+    "business": "商業印刷・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "竹本オフセット印刷株式会社",
+    "domain": "take-p.co.jp",
+    "url": "http://take-p.co.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "5名",
+    "business": "オフセット印刷・YouTube動画広告制作・ネットショップ運営",
+    "has_web": true
+  },
+  {
+    "company": "有限会社永井印刷所",
+    "domain": "nagaiinsatu.co.jp",
+    "url": "http://nagaiinsatu.co.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "",
+    "business": "名刺・シール・チラシ・パンフレット印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社協和",
+    "domain": "kk-kyowa.jp",
+    "url": "http://www.kk-kyowa.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社秀英社",
+    "domain": "shueisha-shingu.co.jp",
+    "url": "https://www.shueisha-shingu.co.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "",
+    "business": "美術印刷・商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社キヨー印刷",
+    "domain": "kiyo-print.co.jp",
+    "url": "https://www.kiyo-print.co.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "2名",
+    "business": "商業印刷・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "中和印刷紙器株式会社",
+    "domain": "chuwa-insatsu-shiki.com",
+    "url": "https://www.chuwa-insatsu-shiki.com/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "",
+    "business": "商業印刷・紙器製造",
+    "has_web": false
+  },
+  {
+    "company": "岩出印刷有限会社",
+    "domain": "iwade-print.co.jp",
+    "url": "https://www.iwade-print.co.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "",
+    "business": "事務印刷・商業印刷・製本",
+    "has_web": false
+  },
+  {
+    "company": "有限会社土屋総合印刷",
+    "domain": "tsuchiya-print.co.jp",
+    "url": "https://www.tsuchiya-print.co.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "",
+    "business": "総合印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社隆文社印刷所",
+    "domain": "ryubunsha.co.jp",
+    "url": "https://www.ryubunsha.co.jp/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "",
+    "business": "商業印刷・オリジナルTシャツ制作",
+    "has_web": false
+  },
+  {
+    "company": "和歌山の印刷屋さん",
+    "domain": "wakayamaprint.com",
+    "url": "https://wakayamaprint.com/",
+    "segment": "printing",
+    "pref": "和歌山県",
+    "employees": "",
+    "business": "商業印刷・チラシ・名刺・封筒",
+    "has_web": false
+  },
+  {
+    "company": "岡村印刷工業株式会社",
+    "domain": "okamura-pic.co.jp",
+    "url": "https://www.okamura-pic.co.jp/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "125名",
+    "business": "商業印刷・プロモーション・システム開発・Webページ制作・アーカイブ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アルファー",
+    "domain": "alpha-0013.com",
+    "url": "http://alpha-0013.com/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "8名",
+    "business": "商業印刷・電子カタログ制作",
+    "has_web": false
+  },
+  {
+    "company": "イセン印刷株式会社",
+    "domain": "isenprint.co.jp",
+    "url": "https://isenprint.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "14名",
+    "business": "医療機関向け印刷・商業印刷・ホームページ制作・ノベルティ",
+    "has_web": true
+  },
+  {
+    "company": "はまや印刷株式会社",
+    "domain": "hamayaprt.co.jp",
+    "url": "https://www.hamayaprt.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社新世プリント",
+    "domain": "shinsei-print.co.jp",
+    "url": "http://www.shinsei-print.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "",
+    "business": "チラシ印刷・商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社山名印刷",
+    "domain": "yamana-print.co.jp",
+    "url": "https://www.yamana-print.co.jp/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "ポスター・パンフレット・会社案内印刷",
+    "has_web": false
+  },
+  {
+    "company": "インプリモ株式会社",
+    "domain": "inprimo.co.jp",
+    "url": "https://www.inprimo.co.jp/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "商業印刷・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社プリント大阪",
+    "domain": "printosaka.jp",
+    "url": "https://printosaka.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "94名",
+    "business": "教育印刷・アプリ開発・製本",
+    "has_web": false
+  },
+  {
+    "company": "有限会社三陽美術",
+    "domain": "sanyoubijyutsu.co.jp",
+    "url": "http://www.sanyoubijyutsu.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "6名",
+    "business": "商業印刷・チラシ・ポスター・伝票・封筒",
+    "has_web": false
+  },
+  {
+    "company": "株式会社チバ商業印刷",
+    "domain": "chibaprinting.co.jp",
+    "url": "http://www.chibaprinting.co.jp/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "",
+    "business": "広告印刷・チラシ・カタログ・パンフレット・ポスター",
+    "has_web": false
+  },
+  {
+    "company": "株式会社SIR",
+    "domain": "sir-print.co.jp",
+    "url": "https://www.sir-print.co.jp/",
+    "segment": "printing",
+    "pref": "奈良県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ウエーブ",
+    "domain": "wave-inc.co.jp",
+    "url": "https://www.wave-inc.co.jp/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "商業印刷・オンデマンド印刷",
+    "has_web": false
+  },
+  {
+    "company": "池下印刷株式会社",
+    "domain": "denpyo-insatsu.com",
+    "url": "https://denpyo-insatsu.com/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "",
+    "business": "伝票印刷・商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "福田屋印刷株式会社",
+    "domain": "fukutaya-print.co.jp",
+    "url": "https://www.fukutaya-print.co.jp/",
+    "segment": "printing",
+    "pref": "滋賀県",
+    "employees": "",
+    "business": "商業印刷",
+    "has_web": false
+  },
+  {
+    "company": "コスモテック株式会社",
+    "domain": "cosmo-tec.net",
+    "url": "https://cosmo-tec.net/",
+    "segment": "printing",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "箔押し加工・特殊印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社仁川印刷所",
+    "domain": "nigawa-print.co.jp",
+    "url": "https://www.nigawa-print.co.jp/",
+    "segment": "printing",
+    "pref": "兵庫県",
+    "employees": "",
+    "business": "ビジネス印刷全般・封筒・ハガキ・DM・名刺・デザイン企画",
+    "has_web": false
+  },
+  {
+    "company": "株式会社鳥取平版社",
+    "domain": "heiban.co.jp",
+    "url": "http://www.heiban.co.jp/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "9名",
+    "business": "一般印刷・デジタルデータ作成・CTP",
+    "has_web": false
+  },
+  {
+    "company": "有限会社蛍光社",
+    "domain": "keikosha.com",
+    "url": "https://keikosha.com/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "",
+    "business": "商業印刷・デザイン・製本加工",
+    "has_web": false
+  },
+  {
+    "company": "合同印刷株式会社",
+    "domain": "goudou-insatsu.jp",
+    "url": "https://goudou-insatsu.jp/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "31名",
+    "business": "商業印刷・Webサイト制作・販促企画・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "有限会社福井印刷",
+    "domain": "fukui-print.com",
+    "url": "https://www.fukui-print.com/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "",
+    "business": "商業印刷・ホームページ制作・自費出版",
+    "has_web": true
+  },
+  {
+    "company": "有限会社米子プリント社",
+    "domain": "yonapri.jp",
+    "url": "http://yonapri.jp/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "37名",
+    "business": "商業印刷・ノベルティ制作・デザイン",
+    "has_web": false
+  },
+  {
+    "company": "東京印刷株式会社",
+    "domain": "tokyop.com",
+    "url": "https://tokyop.com/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "60名",
+    "business": "総合印刷・ホームページ制作・デジタルサイネージ・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "山本印刷株式会社",
+    "domain": "yp-dream.co.jp",
+    "url": "https://www.yp-dream.co.jp/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "45名",
+    "business": "商業印刷・Web制作・出版・Tシャツプリント",
+    "has_web": true
+  },
+  {
+    "company": "株式会社矢谷印刷所",
+    "domain": "yatani-pr.com",
+    "url": "http://www.yatani-pr.com/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "",
+    "business": "商業印刷・ホームページ制作・Webアプリ開発",
+    "has_web": true
+  },
+  {
+    "company": "今井印刷株式会社",
+    "domain": "imaibp.co.jp",
+    "url": "https://www.imaibp.co.jp/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "25名",
+    "business": "書籍印刷・出版・印刷物制作",
+    "has_web": false
+  },
+  {
+    "company": "中央印刷株式会社",
+    "domain": "torinet.co.jp",
+    "url": "https://torinet.co.jp/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "91名",
+    "business": "総合印刷・出版・デジタルメディア",
+    "has_web": false
+  },
+  {
+    "company": "NPO法人Studio-E",
+    "domain": "teamstudio-e.net",
+    "url": "https://teamstudio-e.net/",
+    "segment": "printing",
+    "pref": "鳥取県",
+    "employees": "",
+    "business": "印刷・製本・Webデザイン・動画編集",
+    "has_web": true
+  },
+  {
+    "company": "島根印刷株式会社",
+    "domain": "shimane-printing.co.jp",
+    "url": "https://shimane-printing.co.jp/",
+    "segment": "printing",
+    "pref": "島根県",
+    "employees": "50名",
+    "business": "総合印刷・企画デザイン",
+    "has_web": false
+  },
+  {
+    "company": "渡部印刷株式会社",
+    "domain": "watanabe-inc.jp",
+    "url": "https://www.watanabe-inc.jp/",
+    "segment": "printing",
+    "pref": "島根県",
+    "employees": "36名",
+    "business": "総合印刷・企画デザイン・製本",
+    "has_web": false
+  },
+  {
+    "company": "株式会社報光社",
+    "domain": "hokosya.co.jp",
+    "url": "https://hokosya.co.jp/",
+    "segment": "printing",
+    "pref": "島根県",
+    "employees": "47名",
+    "business": "商業印刷・出版・ホームページ制作・Web関連事業",
+    "has_web": true
+  },
+  {
+    "company": "株式会社谷口印刷",
+    "domain": "tprint.co.jp",
+    "url": "https://tprint.co.jp/",
+    "segment": "printing",
+    "pref": "島根県",
+    "employees": "25名",
+    "business": "総合印刷・出版・Web制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "柏村印刷株式会社",
+    "domain": "kashimura-printing.co.jp",
+    "url": "https://kashimura-printing.co.jp/",
+    "segment": "printing",
+    "pref": "島根県",
+    "employees": "63名",
+    "business": "総合印刷・企画デザイン・製本",
+    "has_web": false
+  },
+  {
+    "company": "有限会社古浦印刷",
+    "domain": "koura.co.jp",
+    "url": "http://www.koura.co.jp/",
+    "segment": "printing",
+    "pref": "島根県",
+    "employees": "3名",
+    "business": "商業印刷・ホームページ制作・ロゴ制作",
+    "has_web": true
+  },
+  {
+    "company": "有限会社ナガサコ印刷",
+    "domain": "nagasako.jp",
+    "url": "https://nagasako.jp/",
+    "segment": "printing",
+    "pref": "島根県",
+    "employees": "14名",
+    "business": "商業印刷・企画提案・パンフレット・チラシ",
+    "has_web": false
+  },
+  {
+    "company": "黒田印刷",
+    "domain": "kurodainsatsu.com",
+    "url": "https://www.kurodainsatsu.com/",
+    "segment": "printing",
+    "pref": "島根県",
+    "employees": "7名",
+    "business": "デザイン・印刷・小ロット印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社木次印刷",
+    "domain": "kispri.co.jp",
+    "url": "http://kispri.co.jp/",
+    "segment": "printing",
+    "pref": "島根県",
+    "employees": "",
+    "business": "商業印刷・オンデマンド印刷・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "アイム株式会社",
+    "domain": "imj.co.jp",
+    "url": "https://sanin.marutto.net/",
+    "segment": "printing",
+    "pref": "島根県",
+    "employees": "8名",
+    "business": "ホームページ制作・印刷物制作・ノベルティ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社藤井印刷所",
+    "domain": "muscat.co.jp",
+    "url": "http://www.muscat.co.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "14名",
+    "business": "商業印刷・企画デザイン",
+    "has_web": false
+  },
+  {
+    "company": "シンコー印刷株式会社",
+    "domain": "shinko-pt.co.jp",
+    "url": "https://shinko-pt.co.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "94名",
+    "business": "商業美術印刷・Web制作・DVD制作・販促プロモーション",
+    "has_web": true
+  },
+  {
+    "company": "友野印刷株式会社",
+    "domain": "tomono.jp",
+    "url": "https://www.tomono.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "80名",
+    "business": "商業印刷・ホームページ制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "旭総合印刷株式会社",
+    "domain": "asahi-tp.co.jp",
+    "url": "https://asahi-tp.co.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "18名",
+    "business": "商業印刷・書籍・パンフレット・Web",
+    "has_web": true
+  },
+  {
+    "company": "山陽印刷株式会社",
+    "domain": "sanyo-pc.com",
+    "url": "http://www.sanyo-pc.com/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "31名",
+    "business": "商業印刷・企画デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社協同プレス",
+    "domain": "kyodopress.co.jp",
+    "url": "https://kyodopress.co.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "82名",
+    "business": "教材制作・商業印刷・ホームページ制作・WEBマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社難波印刷所",
+    "domain": "nanbaprint.co.jp",
+    "url": "https://nanbaprint.co.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "8名",
+    "business": "商業印刷・封筒印刷・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "サンコー印刷株式会社",
+    "domain": "sankopr.co.jp",
+    "url": "https://www.sankopr.co.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "42名",
+    "business": "商業印刷・ホームページ制作・オンデマンド印刷",
+    "has_web": true
+  },
+  {
+    "company": "株式会社内外プロセス",
+    "domain": "naigai-net.co.jp",
+    "url": "https://www.naigai-net.co.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "90名",
+    "business": "商業印刷・Web制作・ソフトウェア開発・3DCG",
+    "has_web": true
+  },
+  {
+    "company": "株式会社岡文館印刷所",
+    "domain": "kobunkan.jp",
+    "url": "https://www.kobunkan.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "67名",
+    "business": "ビジネスフォーム印刷・オフセット印刷・紙器印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社滝印刷",
+    "domain": "takipri.co.jp",
+    "url": "http://www.takipri.co.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "17名",
+    "business": "商業印刷・名刺・チラシ・販促物",
+    "has_web": false
+  },
+  {
+    "company": "フォルツァ株式会社",
+    "domain": "forza-corp.jp",
+    "url": "https://www.forza-corp.jp/",
+    "segment": "printing",
+    "pref": "岡山県",
+    "employees": "42名",
+    "business": "園芸ラベル印刷・商業印刷・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社タニシ企画印刷",
+    "domain": "tanishi.co.jp",
+    "url": "https://www.tanishi.co.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "30名",
+    "business": "商業印刷・自費出版・介護事業支援",
+    "has_web": false
+  },
+  {
+    "company": "株式会社レリーフ",
+    "domain": "relife.co.jp",
+    "url": "https://relife.co.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "",
+    "business": "商業印刷・デザイン・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "松井印刷株式会社",
+    "domain": "matsui-print.co.jp",
+    "url": "https://matsui-print.co.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "20名",
+    "business": "商業印刷・活版印刷・特殊印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社秀巧堂",
+    "domain": "syukodo.co.jp",
+    "url": "https://www.syukodo.co.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "100名",
+    "business": "組版・DTP編集・ホームページ制作・システム開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ニシキコネクト",
+    "domain": "nishiki-c.co.jp",
+    "url": "https://www.nishiki-c.co.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "34名",
+    "business": "商業印刷・ホームページ制作・電子ブック・障がい者支援印刷",
+    "has_web": true
+  },
+  {
+    "company": "青葉印刷株式会社",
+    "domain": "aoba-m.co.jp",
+    "url": "https://www.aoba-m.co.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "44名",
+    "business": "商業印刷・Webサイト制作・動画制作・マーケティング支援",
+    "has_web": true
+  },
+  {
+    "company": "広島中央印刷株式会社",
+    "domain": "chuopri.sakura.ne.jp",
+    "url": "http://www.chuopri.sakura.ne.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "50名",
+    "business": "総合印刷・オフセット印刷",
+    "has_web": false
+  },
+  {
+    "company": "今谷コミュニケーションズ株式会社",
+    "domain": "imatani.co.jp",
+    "url": "https://imatani.co.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "50名",
+    "business": "総合印刷・WEBサイト制作・映像制作・イベント企画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デルタプリント",
+    "domain": "deltaprint.co.jp",
+    "url": "https://deltaprint.co.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "12名",
+    "business": "商業印刷・Webサービス",
+    "has_web": true
+  },
+  {
+    "company": "サンアロー株式会社",
+    "domain": "san-arrow.co.jp",
+    "url": "https://www.san-arrow.co.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "6名",
+    "business": "販促企画・広告デザイン・Web制作・印刷",
+    "has_web": true
+  },
+  {
+    "company": "広島印刷株式会社",
+    "domain": "ohh109.com",
+    "url": "http://www.ohh109.com/hiroin/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "29名",
+    "business": "総合印刷・情報誌発行・Web企画運営",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ヤマワキ",
+    "domain": "yamawaki.co.jp",
+    "url": "https://www.yamawaki.co.jp/",
+    "segment": "printing",
+    "pref": "広島県",
+    "employees": "36名",
+    "business": "商業印刷・自費出版・ウェブサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アカマ印刷",
+    "domain": "akama-p.com",
+    "url": "http://akama-p.com/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "45名",
+    "business": "デザイン・印刷・サイン製造施工",
+    "has_web": false
+  },
+  {
+    "company": "フジ美術印刷株式会社",
+    "domain": "fujib.com",
+    "url": "https://www.fujib.com/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "18名",
+    "business": "商業印刷・オンデマンド印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社アートネクスト",
+    "domain": "art-printing.net",
+    "url": "https://art-printing.net/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "8名",
+    "business": "商業印刷・デザイン・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社桜プリント社",
+    "domain": "sakuraco-print.co.jp",
+    "url": "https://www.sakuraco-print.co.jp/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "14名",
+    "business": "商業印刷・ホームページ制作・出版・電子書籍",
+    "has_web": true
+  },
+  {
+    "company": "株式会社三和印刷社",
+    "domain": "sanwa-printing.jp",
+    "url": "https://sanwa-printing.jp/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "6名",
+    "business": "商業印刷・ホームページ制作・販促ツール制作",
+    "has_web": true
+  },
+  {
+    "company": "松陰堂有限会社",
+    "domain": "p333.info",
+    "url": "https://p333.info/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "8名",
+    "business": "商業印刷・特色印刷・WEBサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "睦美マイクロ株式会社",
+    "domain": "mutsumi-m.com",
+    "url": "https://www.mutsumi-m.com/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "21名",
+    "business": "商業印刷・サイン・ホームページ制作・Webメディア運営",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ふじたプリント社",
+    "domain": "fujita-print.net",
+    "url": "https://secure.fujita-print.net/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "37名",
+    "business": "総合印刷・タウン情報誌出版・広告代理",
+    "has_web": false
+  },
+  {
+    "company": "山口印刷工業株式会社",
+    "domain": "ypt.jp",
+    "url": "http://www.ypt.jp/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "36名",
+    "business": "商業印刷・カラー印刷・企画デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ベルグ",
+    "domain": "berg-ymg.com",
+    "url": "https://berg-ymg.com/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "10名",
+    "business": "商業印刷・ホームページ制作・看板",
+    "has_web": true
+  },
+  {
+    "company": "株式会社くるとん",
+    "domain": "crouton.co.jp",
+    "url": "https://crouton.co.jp/",
+    "segment": "printing",
+    "pref": "山口県",
+    "employees": "6名",
+    "business": "出版・Web制作・印刷・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社松下印刷",
+    "domain": "matsushita-print.co.jp",
+    "url": "https://matsushita-print.co.jp/",
+    "segment": "printing",
+    "pref": "徳島県",
+    "employees": "100名",
+    "business": "総合印刷・ホームページ制作・動画制作・ノベルティ",
+    "has_web": true
+  },
+  {
+    "company": "池田印刷株式会社",
+    "domain": "ikdprint.com",
+    "url": "https://www.ikdprint.com/",
+    "segment": "printing",
+    "pref": "徳島県",
+    "employees": "11名",
+    "business": "商業印刷・オフセット印刷",
+    "has_web": false
+  },
+  {
+    "company": "原田印刷出版株式会社",
+    "domain": "harada-insatsu.com",
+    "url": "https://harada-insatsu.com/",
+    "segment": "printing",
+    "pref": "徳島県",
+    "employees": "24名",
+    "business": "商業印刷・出版・書籍制作",
+    "has_web": false
+  },
+  {
+    "company": "グランド印刷株式会社",
+    "domain": "grand-pt.co.jp",
+    "url": "https://www.grand-pt.co.jp/",
+    "segment": "printing",
+    "pref": "徳島県",
+    "employees": "36名",
+    "business": "総合印刷・製本・カタログ・チラシ・自費出版",
+    "has_web": false
+  },
+  {
+    "company": "星印刷株式会社",
+    "domain": "hosi-p.co.jp",
+    "url": "https://www.hosi-p.co.jp/",
+    "segment": "printing",
+    "pref": "徳島県",
+    "employees": "",
+    "business": "商業印刷・官公庁印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社濵田印刷",
+    "domain": "hamada-print.com",
+    "url": "https://hamada-print.com/",
+    "segment": "printing",
+    "pref": "徳島県",
+    "employees": "15名",
+    "business": "商業印刷・地域密着型印刷",
+    "has_web": false
+  },
+  {
+    "company": "米崎印刷株式会社",
+    "domain": "yonepri.com",
+    "url": "https://yonepri.com/",
+    "segment": "printing",
+    "pref": "徳島県",
+    "employees": "19名",
+    "business": "商業印刷・フリーペーパー発行・ポータルサイト運営",
+    "has_web": true
+  },
+  {
+    "company": "株式会社CSK",
+    "domain": "csk.main.jp",
+    "url": "https://csk.main.jp/",
+    "segment": "printing",
+    "pref": "徳島県",
+    "employees": "",
+    "business": "総合印刷・看板制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "協業組合徳島印刷センター",
+    "domain": "tpce.net",
+    "url": "https://tpce.net/",
+    "segment": "printing",
+    "pref": "徳島県",
+    "employees": "29名",
+    "business": "商業印刷・技術革新",
+    "has_web": false
+  },
+  {
+    "company": "アート印刷株式会社",
+    "domain": "artinsatsu.co.jp",
+    "url": "http://www.artinsatsu.co.jp/",
+    "segment": "printing",
+    "pref": "香川県",
+    "employees": "",
+    "business": "商業印刷・冊子印刷・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社万成社",
+    "domain": "manseisha1950.jp",
+    "url": "https://www.manseisha1950.jp/",
+    "segment": "printing",
+    "pref": "香川県",
+    "employees": "18名",
+    "business": "商業印刷・デザイン・編集・発送",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ちば印刷",
+    "domain": "chibapri.com",
+    "url": "https://chibapri.com/",
+    "segment": "printing",
+    "pref": "香川県",
+    "employees": "",
+    "business": "オフセット印刷・封筒印刷・伝票印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ピクト",
+    "domain": "picto.co.jp",
+    "url": "https://www.picto.co.jp/",
+    "segment": "printing",
+    "pref": "香川県",
+    "employees": "20名",
+    "business": "デザイン・印刷・広告・ホームページ制作・イベント",
+    "has_web": true
+  },
+  {
+    "company": "四国システム印刷株式会社",
+    "domain": "shikoku-sys.co.jp",
+    "url": "https://www.shikoku-sys.co.jp/",
+    "segment": "printing",
+    "pref": "香川県",
+    "employees": "",
+    "business": "総合印刷・ビジネスフォーム",
+    "has_web": false
+  },
+  {
+    "company": "佐川印刷株式会社",
+    "domain": "sakawa.co.jp",
+    "url": "https://www.sakawa.co.jp/",
+    "segment": "printing",
+    "pref": "愛媛県",
+    "employees": "80名",
+    "business": "総合印刷・企画広告・デザイン・Web制作・動画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社イープレス",
+    "domain": "e-press.co.jp",
+    "url": "https://www.e-press.co.jp/",
+    "segment": "printing",
+    "pref": "愛媛県",
+    "employees": "50名",
+    "business": "WEBサイト制作・印刷物制作・コンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "岡田印刷株式会社",
+    "domain": "okada.prinart.info",
+    "url": "https://okada.prinart.info/",
+    "segment": "printing",
+    "pref": "愛媛県",
+    "employees": "62名",
+    "business": "商業印刷・出版・ホームページ制作・イベント運営",
+    "has_web": true
+  },
+  {
+    "company": "アマノ印刷有限会社",
+    "domain": "amano-printing.com",
+    "url": "https://www.amano-printing.com/",
+    "segment": "printing",
+    "pref": "愛媛県",
+    "employees": "15名",
+    "business": "総合印刷・企画出版・製本",
+    "has_web": false
+  },
+  {
+    "company": "東田印刷株式会社",
+    "domain": "higasidainsatu.jp",
+    "url": "https://www.higasidainsatu.jp/",
+    "segment": "printing",
+    "pref": "愛媛県",
+    "employees": "",
+    "business": "商業印刷・出版印刷・販促グッズ",
+    "has_web": false
+  },
+  {
+    "company": "株式会社明朗社",
+    "domain": "meirosha.co.jp",
+    "url": "https://www.meirosha.co.jp/",
+    "segment": "printing",
+    "pref": "愛媛県",
+    "employees": "",
+    "business": "印刷・Web制作・広告・ノベルティ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社飛鳥",
+    "domain": "asuka-net.jp",
+    "url": "https://www.asuka-net.jp/",
+    "segment": "printing",
+    "pref": "高知県",
+    "employees": "11名",
+    "business": "印刷・出版・デザイン・ホームページ制作・映像制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社高知新聞総合印刷",
+    "domain": "kochi-insatu.co.jp",
+    "url": "https://www.kochi-insatu.co.jp/",
+    "segment": "printing",
+    "pref": "高知県",
+    "employees": "79名",
+    "business": "新聞印刷・商業印刷・ホームページ制作・出版",
+    "has_web": true
+  },
+  {
+    "company": "弘文印刷株式会社",
+    "domain": "kobun.jp",
+    "url": "http://www.kobun.jp/",
+    "segment": "printing",
+    "pref": "高知県",
+    "employees": "31名",
+    "business": "商業印刷・広報誌・日本酒ラベル",
+    "has_web": false
+  },
+  {
+    "company": "ニヨド印刷株式会社",
+    "domain": "niyodo-press.co.jp",
+    "url": "https://www.niyodo-press.co.jp/",
+    "segment": "printing",
+    "pref": "高知県",
+    "employees": "50名",
+    "business": "商業印刷・製本加工・在庫管理・配送",
+    "has_web": false
+  },
+  {
+    "company": "株式会社クリーム",
+    "domain": "cream-ds.com",
+    "url": "https://cream-ds.com/",
+    "segment": "printing",
+    "pref": "高知県",
+    "employees": "12名",
+    "business": "ホームページ制作・ブランディング・販促デザイン・印刷",
+    "has_web": true
+  },
+  {
+    "company": "株式会社美統",
+    "domain": "bito-p.co.jp",
+    "url": "https://bito-p.co.jp/",
+    "segment": "printing",
+    "pref": "高知県",
+    "employees": "20名",
+    "business": "商業印刷・カラー印刷・チラシ・ポスター",
+    "has_web": false
+  },
+  {
+    "company": "株式会社伸光堂",
+    "domain": "sinkodo.com",
+    "url": "https://www.sinkodo.com/",
+    "segment": "printing",
+    "pref": "高知県",
+    "employees": "",
+    "business": "印刷・オフィス家具・事務用品・学校教材",
+    "has_web": false
+  },
+  {
+    "company": "三栄印刷株式会社",
+    "domain": "aaa-print.co.jp",
+    "url": "https://www.aaa-print.co.jp/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "16名",
+    "business": "商業印刷・Web制作・動画制作・発送代行",
+    "has_web": true
+  },
+  {
+    "company": "エース印刷株式会社",
+    "domain": "acekk.co.jp",
+    "url": "https://www.acekk.co.jp/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "26名",
+    "business": "商業印刷・HP制作・動画制作・学会サポート",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ミドリ印刷",
+    "domain": "midori-p.com",
+    "url": "https://www.midori-p.com/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "90名",
+    "business": "総合印刷・Web制作・AR・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "福博綜合印刷株式会社",
+    "domain": "fsp.co.jp",
+    "url": "https://www.fsp.co.jp/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "182名",
+    "business": "総合印刷・広告代理・Web企画制作",
+    "has_web": true
+  },
+  {
+    "company": "福岡印刷株式会社",
+    "domain": "inf.co.jp",
+    "url": "http://www.inf.co.jp/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "46名",
+    "business": "総合印刷・企画制作・マルチメディア・イベント企画",
+    "has_web": false
+  },
+  {
+    "company": "株式会社西日本高速印刷",
+    "domain": "nnki.co.jp",
+    "url": "https://www.nnki.co.jp/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "",
+    "business": "商業印刷・ポスター印刷・自費出版",
+    "has_web": false
+  },
+  {
+    "company": "香和印刷株式会社",
+    "domain": "kowa-ps.co.jp",
+    "url": "https://www.kowa-ps.co.jp/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "63名",
+    "business": "商業印刷・チラシ・カタログ・書籍・AR・電子書籍",
+    "has_web": false
+  },
+  {
+    "company": "株式会社佐賀印刷社",
+    "domain": "sagain.co.jp",
+    "url": "https://www.sagain.co.jp/",
+    "segment": "printing",
+    "pref": "佐賀県",
+    "employees": "45名",
+    "business": "商業印刷・出版・オンデマンド印刷・WEBデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社音成印刷",
+    "domain": "otonari.co.jp",
+    "url": "https://otonari.co.jp/",
+    "segment": "printing",
+    "pref": "佐賀県",
+    "employees": "34名",
+    "business": "商業印刷・Web制作・デザイン・企画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サガプリンティング",
+    "domain": "s-print.co.jp",
+    "url": "https://s-print.co.jp/",
+    "segment": "printing",
+    "pref": "佐賀県",
+    "employees": "31名",
+    "business": "商業印刷・ホームページ制作・通販サイト制作・IoT",
+    "has_web": true
+  },
+  {
+    "company": "株式会社インテックス",
+    "domain": "in-tex.co.jp",
+    "url": "https://in-tex.co.jp/",
+    "segment": "printing",
+    "pref": "長崎県",
+    "employees": "69名",
+    "business": "総合印刷・ホームページ制作・動画撮影・ドローン撮影",
+    "has_web": true
+  },
+  {
+    "company": "耕文舎",
+    "domain": "koubunsha.com",
+    "url": "https://www.koubunsha.com/",
+    "segment": "printing",
+    "pref": "長崎県",
+    "employees": "",
+    "business": "商業印刷・書籍制作・ホームページ制作・DVD制作",
+    "has_web": true
+  },
+  {
+    "company": "第一印刷株式会社",
+    "domain": "dai1.com",
+    "url": "https://dai1.com/",
+    "segment": "printing",
+    "pref": "長崎県",
+    "employees": "17名",
+    "business": "商業印刷・Webサイト企画運営・SNS活用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社キャップ",
+    "domain": "capplus1.design",
+    "url": "https://capplus1.design/",
+    "segment": "printing",
+    "pref": "熊本県",
+    "employees": "46名",
+    "business": "総合印刷・デザイン・ホームページ制作・動画制作・翻訳",
+    "has_web": true
+  },
+  {
+    "company": "株式会社愛光社",
+    "domain": "aikosha-p.co.jp",
+    "url": "https://www.aikosha-p.co.jp/",
+    "segment": "printing",
+    "pref": "熊本県",
+    "employees": "8名",
+    "business": "商業印刷・大判プリント・デザイン・動画制作",
+    "has_web": false
+  },
+  {
+    "company": "株式会社チューイン",
+    "domain": "chu-in.co.jp",
+    "url": "https://www.chu-in.co.jp/",
+    "segment": "printing",
+    "pref": "熊本県",
+    "employees": "24名",
+    "business": "商業印刷・企画広告・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "いづみ印刷株式会社",
+    "domain": "printing-izumi.co.jp",
+    "url": "https://printing-izumi.co.jp/",
+    "segment": "printing",
+    "pref": "大分県",
+    "employees": "76名",
+    "business": "総合印刷・販促ソリューション・Web制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社プリメディア",
+    "domain": "pri-media.co.jp",
+    "url": "http://www.pri-media.co.jp/",
+    "segment": "printing",
+    "pref": "大分県",
+    "employees": "13名",
+    "business": "商業印刷・パンフレット・名刺・医療関係印刷",
+    "has_web": false
+  },
+  {
+    "company": "株式会社得丸デザイン印刷",
+    "domain": "td-print.jp",
+    "url": "https://www.td-print.jp/",
+    "segment": "printing",
+    "pref": "大分県",
+    "employees": "22名",
+    "business": "商業印刷・デザイン・パンフレット・名刺・ポスター",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ながと",
+    "domain": "nagato-co.com",
+    "url": "https://www.nagato-co.com/",
+    "segment": "printing",
+    "pref": "宮崎県",
+    "employees": "43名",
+    "business": "商業印刷・Web制作・企画デザイン",
+    "has_web": true
+  },
+  {
+    "company": "愛文社印刷株式会社",
+    "domain": "aibunsha.com",
+    "url": "https://www.aibunsha.com/",
+    "segment": "printing",
+    "pref": "宮崎県",
+    "employees": "25名",
+    "business": "商業印刷・広告企画・写真撮影・Webページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社宮崎南印刷",
+    "domain": "minami-p.co.jp",
+    "url": "https://minami-p.co.jp/",
+    "segment": "printing",
+    "pref": "宮崎県",
+    "employees": "95名",
+    "business": "総合印刷・フリーペーパー・Web制作・デザイン・映像",
+    "has_web": true
+  },
+  {
+    "company": "文進社印刷株式会社",
+    "domain": "bunshinsya.co.jp",
+    "url": "https://bunshinsya.co.jp/",
+    "segment": "printing",
+    "pref": "鹿児島県",
+    "employees": "",
+    "business": "商業印刷・ホームページ制作・WEBサイト構築",
+    "has_web": true
+  },
+  {
+    "company": "斯文堂株式会社",
+    "domain": "shibundo.jp",
+    "url": "https://shibundo.jp/",
+    "segment": "printing",
+    "pref": "鹿児島県",
+    "employees": "88名",
+    "business": "商業印刷・タウン誌出版・ホームページ制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "濱島印刷株式会社",
+    "domain": "k-hamashima.co.jp",
+    "url": "https://www.k-hamashima.co.jp/",
+    "segment": "printing",
+    "pref": "鹿児島県",
+    "employees": "45名",
+    "business": "商業印刷・出版・ホームページ制作・イベント企画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社トライ社",
+    "domain": "try-sha.com",
+    "url": "https://try-sha.com/",
+    "segment": "printing",
+    "pref": "鹿児島県",
+    "employees": "25名",
+    "business": "商業印刷・デザイン・WEBサイト制作・イベント企画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社国際印刷",
+    "domain": "kokusai-pr.com",
+    "url": "https://www.kokusai-pr.com/",
+    "segment": "printing",
+    "pref": "沖縄県",
+    "employees": "25名",
+    "business": "総合印刷・企画デザイン",
+    "has_web": false
+  },
+  {
+    "company": "株式会社近代美術",
+    "domain": "p-kindai.co.jp",
+    "url": "https://www.p-kindai.co.jp/",
+    "segment": "printing",
+    "pref": "沖縄県",
+    "employees": "136名",
+    "business": "商業印刷・販売促進・広告代理",
+    "has_web": false
+  },
+  {
+    "company": "株式会社リマープロ",
+    "domain": "remar.co.jp",
+    "url": "https://remar.co.jp/",
+    "segment": "printing",
+    "pref": "沖縄県",
+    "employees": "18名",
+    "business": "印刷デザイン・ホームページ制作・ノベルティ・翻訳",
+    "has_web": true
+  },
+  {
+    "company": "有限会社朝日印刷",
+    "domain": "paperless.co.jp",
+    "url": "https://www.paperless.co.jp/",
+    "segment": "printing",
+    "pref": "沖縄県",
+    "employees": "6名",
+    "business": "印刷・ホームページ制作・電子化事業・パソコン修理",
+    "has_web": true
+  },
+  {
+    "company": "株式会社古川総合印刷",
+    "domain": "ftp-saga.jp",
+    "url": "http://www.ftp-saga.jp/",
+    "segment": "printing",
+    "pref": "佐賀県",
+    "employees": "26名",
+    "business": "商業印刷・ホームページ制作・看板",
+    "has_web": true
+  },
+  {
+    "company": "誠文堂印刷株式会社",
+    "domain": "seibundo-saga.co.jp",
+    "url": "https://seibundo-saga.co.jp/",
+    "segment": "printing",
+    "pref": "佐賀県",
+    "employees": "39名",
+    "business": "商業印刷・オフセット印刷",
+    "has_web": false
+  },
+  {
+    "company": "有限会社立山印刷",
+    "domain": "t-dtp.jp",
+    "url": "https://www.t-dtp.jp/",
+    "segment": "printing",
+    "pref": "長崎県",
+    "employees": "12名",
+    "business": "商業印刷・ホームページ制作・DTP",
+    "has_web": true
+  },
+  {
+    "company": "株式会社岩永印刷所",
+    "domain": "iwanaga-print.com",
+    "url": "https://iwanaga-print.com/",
+    "segment": "printing",
+    "pref": "長崎県",
+    "employees": "19名",
+    "business": "商業印刷・製本・特殊印刷・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アートプロセス",
+    "domain": "artpro.co.jp",
+    "url": "https://artpro.co.jp/",
+    "segment": "printing",
+    "pref": "熊本県",
+    "employees": "32名",
+    "business": "商業印刷・サイン・Webサイト制作・デジタルサイネージ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社つるばやし印刷",
+    "domain": "tsurubayashi.com",
+    "url": "https://tsurubayashi.com/",
+    "segment": "printing",
+    "pref": "熊本県",
+    "employees": "",
+    "business": "商業印刷・ホームページ制作・Web広告・MEO代行",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エデンメディアワークス",
+    "domain": "edenmediaworks.jp",
+    "url": "https://edenmediaworks.jp/",
+    "segment": "printing",
+    "pref": "大分県",
+    "employees": "8名",
+    "business": "商業印刷・ホームページ制作・印刷通販サイト運営",
+    "has_web": true
+  },
+  {
+    "company": "株式会社鹿児島新生社印刷",
+    "domain": "shinsei-p.co.jp",
+    "url": "https://www.shinsei-p.co.jp/",
+    "segment": "printing",
+    "pref": "鹿児島県",
+    "employees": "46名",
+    "business": "商業印刷・販促・デジタルメディア・オリジナルグッズ",
+    "has_web": false
+  },
+  {
+    "company": "株式会社綜合印刷",
+    "domain": "kanoyasogo.co.jp",
+    "url": "https://www.kanoyasogo.co.jp/",
+    "segment": "printing",
+    "pref": "鹿児島県",
+    "employees": "",
+    "business": "商業印刷・企画デザイン・Web制作・製本",
+    "has_web": true
+  },
+  {
+    "company": "株式会社博多印刷",
+    "domain": "hakata-p.co.jp",
+    "url": "https://www.hakata-p.co.jp/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "33名",
+    "business": "商業印刷・小ロット多品種・Web制作・動画制作・AR",
+    "has_web": true
+  },
+  {
+    "company": "株式会社重松印刷",
+    "domain": "shige-pri.com",
+    "url": "https://www.shige-pri.com/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "5名",
+    "business": "商業印刷・ホームページ制作・広告代理・イベント企画",
+    "has_web": true
+  },
+  {
+    "company": "西日本ビジネス印刷株式会社",
+    "domain": "n-global.co.jp",
+    "url": "https://www.n-global.co.jp/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "25名",
+    "business": "商業印刷・デジタル印刷・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "泰平印刷株式会社",
+    "domain": "taihei-net.co.jp",
+    "url": "https://www.taihei-net.co.jp/",
+    "segment": "printing",
+    "pref": "福岡県",
+    "employees": "76名",
+    "business": "商業印刷・企画デザイン・Web",
+    "has_web": false
+  },
+  {
+    "company": "有限会社西田文栄堂",
+    "domain": "nishida-buneido.jp",
+    "url": "https://nishida-buneido.jp/",
+    "segment": "printing",
+    "pref": "宮崎県",
+    "employees": "10名",
+    "business": "商業印刷・ARコンテンツ・映像制作・WEB制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ちとせ印刷",
+    "domain": "chitose-p.co.jp",
+    "url": "https://www.chitose-p.co.jp/",
+    "segment": "printing",
+    "pref": "沖縄県",
+    "employees": "",
+    "business": "商業印刷・デザイン・製本",
+    "has_web": false
+  },
+  {
+    "company": "有限会社琉和印刷社",
+    "domain": "ryuwa-print.com",
+    "url": "https://www.ryuwa-print.com/",
+    "segment": "printing",
+    "pref": "沖縄県",
+    "employees": "",
+    "business": "商業印刷・企画デザイン",
+    "has_web": false
   }
 ]

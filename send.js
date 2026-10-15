@@ -138,7 +138,7 @@ async function fillForm(page, me, msg, subject) {
       if (el.type === 'email') v = me.email;
       else if (/確認|再入力|confirm|again|_mcon|re_?mail|mail2|email2/i.test(L) && /メール|mail/i.test(L)) v = me.email;
       else if (/メール|e-?mail|mail/i.test(L) && !/送信|配信/.test(L)) v = me.email;
-      else if (/フリガナ|ふりがな|カナ|かな|kana|furigana|ruby/i.test(L)) {
+      else if (/フリガナ|ふりがな|カナ|かな|kana|furigana|ruby|pron/i.test(L + ' ' + nm)) {
         const hira = /ふりがな|ひらがな|かな/.test(L) && !/カナ|フリガナ/.test(L);
         if (sibs.length >= 2 && pos >= 0) v = pos === 0 ? (hira ? me.seiHira : me.seiKana) : (hira ? me.meiHira : me.meiKana);
         else if (/(セイ|姓|last|sei)/i.test(nm + L) && !/(メイ|first|mei)/i.test(nm)) v = hira ? me.seiHira : me.seiKana;
@@ -199,6 +199,7 @@ async function fillForm(page, me, msg, subject) {
       const txt = r => (r.closest('label')?.innerText || r.value || '') + ' ' + (r.id ? document.querySelector(`label[for="${CSS.escape(r.id)}"]`)?.innerText || '' : '');
       let r = rs.find(x => /協業|提携|パートナー|代理店/.test(txt(x))) || rs.find(x => /メール|e-?mail/i.test(txt(x))) || rs.find(x => /その他/.test(txt(x))) || rs.find(x => PREF_OK.test(txt(x))) || rs.find(x => /法人|企業/.test(txt(x)));
       const L = labelOf(rs[0]);
+      if (!r && /きっかけ|知った|経緯|経路|how did/i.test(L)) r = rs.find(x => /インターネット|ネット|ホームページ|Web|HP|検索|Google/i.test(txt(x))) || rs[0];
       if (!r && /性別|gender/i.test(L)) r = rs.find(x => /男/.test(txt(x)));
       if (!r) { if (rs.some(x => x.required) || /必須/.test(L)) special.push('radio:' + rs.map(txt).join('/').slice(0, 60)); continue; }
       r.click(); filled.push('radio=' + txt(r).trim().slice(0, 10));
@@ -252,6 +253,29 @@ async function clickSubmit(page, prefer) {
 
 async function bodyText(page) { return (await page.evaluate(() => document.body?.innerText || '').catch(() => '')).replace(/\s+/g, ' '); }
 
+async function scrapeEmail(page, domain) {
+  return await page.evaluate((domain) => {
+    const emails = new Set();
+    // mailto: links
+    for (const a of document.querySelectorAll('a[href^="mailto:"]')) {
+      const m = a.href.replace('mailto:', '').split('?')[0].trim().toLowerCase();
+      if (m && m.includes('@')) emails.add(m);
+    }
+    // text content email patterns
+    const text = document.body?.innerText || '';
+    const re = /[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}/g;
+    for (const m of text.matchAll(re)) {
+      const e = m[0].toLowerCase();
+      if (!/\.(png|jpg|gif|svg|css|js)$/i.test(e) && !/@example\./i.test(e)) emails.add(e);
+    }
+    // prefer info@/contact@/mail@ for the target domain, then any @ target domain
+    const arr = [...emails];
+    const domainEmails = arr.filter(e => e.endsWith('@' + domain) || e.endsWith('@' + domain.replace(/^www\./, '')));
+    const preferred = domainEmails.find(e => /^(info|contact|mail|support|toiawase|otoiawase)@/.test(e));
+    return preferred || domainEmails[0] || arr.find(e => /^(info|contact|mail)@/.test(e)) || arr[0] || null;
+  }, domain);
+}
+
 async function processOne(browser, t) {
   const ctx = await browser.newContext({ locale: 'ja-JP', userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', viewport: { width: 1280, height: 1600 } });
   const page = await ctx.newPage();
@@ -266,7 +290,7 @@ async function processOne(browser, t) {
     if (await pageHasForm(page) && CONTACT_RE.test(page.url())) formUrl = page.url();
     if (!formUrl) {
       const c = await findContactUrl(page, hp);
-      if (!c) return { ...res, status: 'skip_noform', detail: 'no contact link' };
+      if (!c) { const contactEmail = await scrapeEmail(page, t.domain); return { ...res, status: 'skip_noform', detail: 'no contact link', contactEmail }; }
       await page.goto(c, { waitUntil: 'domcontentloaded', timeout: 25000 }); await page.waitForTimeout(2000);
       formUrl = page.url();
       if (!(await pageHasForm(page))) {
@@ -279,7 +303,7 @@ async function processOne(browser, t) {
         const sub = await page.$$eval('a[href]', as => as.map(a => ({ h: a.href, t: (a.innerText || '').trim() })).filter(x => /その他|法人|企業|一般|ご相談|お問い?合わせ(フォーム)?$|フォーム/.test(x.t) && !/採用|見積|資料|カタログ|予約/.test(x.t)).map(x => x.h));
         if (sub.length) { await page.goto(sub[0], { waitUntil: 'domcontentloaded', timeout: 25000 }); await page.waitForTimeout(2000); formUrl = page.url(); }
       }
-      if (!(await pageHasForm(page))) return { ...res, status: 'skip_noform', formUrl, detail: 'contact page without textarea' };
+      if (!(await pageHasForm(page))) { const contactEmail = await scrapeEmail(page, t.domain); return { ...res, status: 'skip_noform', formUrl, detail: 'contact page without textarea', contactEmail }; }
     }
     res.formUrl = formUrl;
     if (sentForms.has(formUrl.split('?')[0])) return { ...res, status: 'skip_dup_form' };

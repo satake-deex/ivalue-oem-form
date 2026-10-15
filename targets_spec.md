@@ -12,6 +12,8 @@
 | recruiting | 採用支援会社（採用HP・採用サイト制作、採用広報、求人広告代理店） | 採用サイトの運用負担、制作の単発受注をストック化 |
 | web_wordpress / web_studio | WEB制作会社（LP・コーポレートサイト制作） | WP: 保守・バージョン管理の工数／STUDIO: 制作費のみのモデルをストック化 |
 
+`has_web`: 既にWeb制作も手がけているか（印刷・採用支援で true の会社は、HPを売る接点があるため優先度が高い）。
+
 WEB制作会社は合わせて1,000社。自社HPが WordPress（`/wp-content/` 等）なら `web_wordpress`、STUDIO（`studio.design` 等）なら `web_studio`、判定できなければ `web_wordpress`。
 
 ## 除外
@@ -19,10 +21,15 @@ WEB制作会社は合わせて1,000社。自社HPが WordPress（`/wp-content/` 
 - インクレイブ社、ivalue の既存販売パートナー（七十七デジタルソリューションズ、岩手銀行、仙台銀行、北日本銀行、あおもり創生パートナーズ、日専連ライフサービス、メディアステーション 等）
 - 競合（自社でサブスクHPサービスを提供している会社）
 - 過去にフォーム送付済みのドメイン（results.jsonl に載っているもの）
+- パッケージ・シール・ラベル・グラビア印刷などの専業（製造寄りで、取引先へHPを提案する接点が薄い）
+- HPのURLが見つからない会社（フォーム送信できないため入れない）
+
+## 重複判定
+- ドメインの重複はホスト名全体で判定する（`nakamurainsatu.jimdofree.com` と別の `*.jimdofree.com` は別会社として扱う）
 
 ## targets.json の形式（1社1オブジェクト）
 ```json
-{"company": "株式会社〇〇", "domain": "example.co.jp", "url": "https://example.co.jp/", "segment": "printing", "pref": "宮城県", "employees": "20名", "business": "商業印刷・Web制作"}
+{"company": "株式会社〇〇", "domain": "example.co.jp", "url": "https://example.co.jp/", "segment": "printing", "pref": "宮城県", "employees": "20名", "business": "商業印刷・Web制作", "has_web": true}
 ```
 
 ## 集め方

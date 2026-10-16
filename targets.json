@@ -14508,5 +14508,6655 @@
     "employees": "5名",
     "business": "ホームページ制作・Webデザイン",
     "has_web": true
+  },
+  {
+    "company": "株式会社インクローバー",
+    "domain": "inkclover.co.jp",
+    "url": "https://inkclover.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "LP制作・Web広告運用・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ユニオンネット",
+    "domain": "unionnet.co.jp",
+    "url": "https://unionnet.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "24名",
+    "business": "コーポレートサイト制作・ECサイト・集客支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アステリズム",
+    "domain": "asterism-web.com",
+    "url": "https://asterism-web.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "中小企業向けHP制作・LP制作・ECサイト構築",
+    "has_web": true
+  },
+  {
+    "company": "インフォメーションメディアデザイン株式会社",
+    "domain": "imd-net.com",
+    "url": "https://www.imd-net.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "コーポレートサイト制作・採用サイト・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社GreenHill",
+    "domain": "g-hill.jp",
+    "url": "https://g-hill.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "LP制作・Webマーケティング・中小企業向けHP制作",
+    "has_web": true
+  },
+  {
+    "company": "ZOOST株式会社",
+    "domain": "zoost.co.jp",
+    "url": "https://zoost.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "LP制作・Web広告運用・コンバージョン最適化",
+    "has_web": true
+  },
+  {
+    "company": "株式会社プラカン",
+    "domain": "plakan.co.jp",
+    "url": "https://plakan.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "WordPress構築・コーポレートサイト制作・CMS開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社WINQER",
+    "domain": "winqer.com",
+    "url": "https://winqer.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "ホームページ制作・LP制作・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ノックデザイン",
+    "domain": "nock-design.com",
+    "url": "https://nock-design.com/",
+    "segment": "web_studio",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "STUDIO制作代行・LP制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社IIP",
+    "domain": "iip-inc.co.jp",
+    "url": "https://iip-inc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "LP制作・Web広告運用・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社bon",
+    "domain": "bon-inc.jp",
+    "url": "https://bon-inc.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "ホームページ制作・LP制作・ECサイト構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クレフ",
+    "domain": "clef.co.jp",
+    "url": "https://clef.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "コーポレートサイト制作・WordPress構築・運用保守",
+    "has_web": true
+  },
+  {
+    "company": "株式会社TREVO",
+    "domain": "trevo-web.com",
+    "url": "https://trevo-web.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "ホームページ制作・LP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社F-standard",
+    "domain": "f-standard.co.jp",
+    "url": "https://f-standard.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "WordPress制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社PEP",
+    "domain": "pep-web.co.jp",
+    "url": "https://pep-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・コーディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社プレジャークリエーション",
+    "domain": "ple-cre.jp",
+    "url": "https://ple-cre.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "コーポレートサイト制作・SEO対策・集客支援",
+    "has_web": true
+  },
+  {
+    "company": "S&Eパートナーズ株式会社",
+    "domain": "seo-best.jp",
+    "url": "https://seo-best.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "SEO対策・LP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社イーナ",
+    "domain": "e-and.co.jp",
+    "url": "https://e-and.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "30名",
+    "business": "LP制作・コーポレートサイト・Web広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ZIZO",
+    "domain": "zi-zo.com",
+    "url": "https://zi-zo.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "Webデザイン・コーポレートサイト制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社タイタン・アート",
+    "domain": "titan-art.com",
+    "url": "https://titan-art.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "LP制作・コーポレートサイト・ブランディングデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アオイサポート",
+    "domain": "aoi-support.co.jp",
+    "url": "https://aoi-support.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "ホームページ制作・SEO対策・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社gini",
+    "domain": "gini.co.jp",
+    "url": "https://gini.co.jp/",
+    "segment": "web_studio",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "STUDIO制作・Webデザイン・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "合同会社Zekk",
+    "domain": "zekk.co.jp",
+    "url": "https://zekk.co.jp/",
+    "segment": "web_studio",
+    "pref": "大阪府",
+    "employees": "5名",
+    "business": "STUDIOサイト制作・LP制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社スピッカート",
+    "domain": "spicato.co.jp",
+    "url": "https://spicato.co.jp/",
+    "segment": "web_studio",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "STUDIOサイト制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フューチュレック",
+    "domain": "futurex.co.jp",
+    "url": "https://futurex.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "30名",
+    "business": "Webサイト制作・WordPress構築・運用サポート",
+    "has_web": true
+  },
+  {
+    "company": "株式会社シイテ",
+    "domain": "shiite.jp",
+    "url": "https://shiite.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "WordPress構築・ECサイト・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社キャリアリープ",
+    "domain": "career-leap.com",
+    "url": "https://career-leap.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "WordPress無料制作・ホームページ運用サポート",
+    "has_web": true
+  },
+  {
+    "company": "R-web株式会社",
+    "domain": "r-web.co.jp",
+    "url": "https://r-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "WordPress制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "有限会社キートン",
+    "domain": "keaton.co.jp",
+    "url": "https://keaton.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アップポイント",
+    "domain": "uppoint.co.jp",
+    "url": "https://uppoint.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "WordPress制作・ホームページ制作・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ダブルアップ",
+    "domain": "doubleup.co.jp",
+    "url": "https://doubleup.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "Webサイト制作・WordPress構築・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイジス",
+    "domain": "aegis-osaka.jp",
+    "url": "https://aegis-osaka.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "WordPress新規制作・改修・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "LeapIn株式会社",
+    "domain": "leap-in.co.jp",
+    "url": "https://leap-in.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "Webサイト制作・Webアプリケーション開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アルファクトリー",
+    "domain": "alpha-factory.co.jp",
+    "url": "https://alpha-factory.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "Webサイト制作・WordPress構築・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社CUBE",
+    "domain": "and-cube.jp",
+    "url": "https://and-cube.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "30名",
+    "business": "コーポレートサイト・採用サイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ジールプラス",
+    "domain": "zeal-p.com",
+    "url": "https://zeal-p.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "Webデザイン・コーポレートサイト制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "Golden Section",
+    "domain": "golden-section.jp",
+    "url": "https://golden-section.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "5名",
+    "business": "コーポレートサイト・LP・ECサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "ランバージャック株式会社",
+    "domain": "lumberjack-web.com",
+    "url": "https://lumberjack-web.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・運用保守",
+    "has_web": true
+  },
+  {
+    "company": "株式会社シンクバル",
+    "domain": "thinkbal.co.jp",
+    "url": "https://thinkbal.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "30名",
+    "business": "コーポレートサイト・STUDIO制作・Webコンサル",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サンズネクスト",
+    "domain": "sansnext.co.jp",
+    "url": "https://sansnext.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "ホームページ制作・SEO対策・Web集客",
+    "has_web": true
+  },
+  {
+    "company": "株式会社グランザ",
+    "domain": "granza.co.jp",
+    "url": "https://granza.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・ECサイト構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ココイ",
+    "domain": "cocoy.co.jp",
+    "url": "https://cocoy.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "Webデザイン・コーポレートサイト制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社リードナイン",
+    "domain": "leadnine.co.jp",
+    "url": "https://leadnine.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "ホームページ制作・SEO対策・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デジックス",
+    "domain": "digi-c.co.jp",
+    "url": "https://digi-c.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "Webサイト制作・WordPress構築・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "Hi BASE株式会社",
+    "domain": "hi-base.jp",
+    "url": "https://hi-base.jp/",
+    "segment": "web_studio",
+    "pref": "大阪府",
+    "employees": "5名",
+    "business": "STUDIOサイト制作・LP制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ネコシステム",
+    "domain": "neko-system.com",
+    "url": "https://www.neko-system.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "Webサイト制作・SEO対策・集客支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社dob",
+    "domain": "dob-inc.jp",
+    "url": "https://dob-inc.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "中小企業向けHP制作・Web集客・SNS運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ストレンジブレイン",
+    "domain": "strange-brain.co.jp",
+    "url": "https://strange-brain.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "ホームページ制作・Webデザイン・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エクスフィールド",
+    "domain": "exfield.co.jp",
+    "url": "https://exfield.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "15名",
+    "business": "LP制作・コーポレートサイト・SEO対策・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エムズコーポレーション",
+    "domain": "ms-corporation.jp",
+    "url": "https://ms-corporation.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "20名",
+    "business": "コーポレートサイト・採用サイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社code3",
+    "domain": "code3.co.jp",
+    "url": "https://code3.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "コーポレートサイト・LP制作・ECサイト構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アットノエル",
+    "domain": "attnoelle.co.jp",
+    "url": "https://attnoelle.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "5名",
+    "business": "Webサイト企画制作・WordPress構築・保守運用",
+    "has_web": true
+  },
+  {
+    "company": "有限会社コットンウール",
+    "domain": "cottonwool.co.jp",
+    "url": "https://cottonwool.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "5名",
+    "business": "ホームページ企画制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ラクー",
+    "domain": "raku-web.jp",
+    "url": "https://raku-web.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "15名",
+    "business": "WordPress制作・STUDIO制作・中小企業向けHP",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Gotomedia",
+    "domain": "gotomedia.co.jp",
+    "url": "https://gotomedia.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "ホームページ制作・WordPress構築・カスタマイズ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社オフィスオフサイド",
+    "domain": "offside.co.jp",
+    "url": "https://offside.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・コーポレートサイト",
+    "has_web": true
+  },
+  {
+    "company": "株式会社イコールデザイン",
+    "domain": "equal-design.co.jp",
+    "url": "https://equal-design.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "Webデザイン・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社無限",
+    "domain": "mugen-corp.co.jp",
+    "url": "https://mugen-corp.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "15名",
+    "business": "ホームページ制作・LP制作・Web集客支援",
+    "has_web": true
+  },
+  {
+    "company": "有限会社キューブリック",
+    "domain": "cubrick.co.jp",
+    "url": "https://cubrick.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社シー・イー・エス",
+    "domain": "ces-net.jp",
+    "url": "https://ces-net.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "15名",
+    "business": "WordPress構築・カスタマイズ・Webサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社マーケティング・エッセンシャルズ",
+    "domain": "me-essence.co.jp",
+    "url": "https://me-essence.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "中小企業向けWeb戦略・HP制作・集客支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ISK",
+    "domain": "isk-web.co.jp",
+    "url": "https://isk-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デザインのちから",
+    "domain": "designnochikara.com",
+    "url": "https://designnochikara.com/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "8名",
+    "business": "Webデザイン・コーポレートサイト制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デジタルダイブ",
+    "domain": "digitaldive.co.jp",
+    "url": "https://digitaldive.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "WordPress制作・Webサイト構築・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アババイ",
+    "domain": "ababai.co.jp",
+    "url": "https://ababai.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "30名",
+    "business": "ホームページ制作・LP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "トライコネクション合同会社",
+    "domain": "tryconnection.com",
+    "url": "https://tryconnection.com/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "8名",
+    "business": "LP制作・ホームページ制作・ECサイト構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社GXO",
+    "domain": "gxo.co.jp",
+    "url": "https://gxo.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "コーポレートサイト制作・Webアプリケーション",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ファーストクリエイト",
+    "domain": "firstcreate.jp",
+    "url": "https://firstcreate.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "ホームページ制作・LP制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エッコ",
+    "domain": "and-ecco.co.jp",
+    "url": "https://and-ecco.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "20名",
+    "business": "Webサイト制作・WordPress構築・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ナゴヤウェブ",
+    "domain": "nagoyaweb.jp",
+    "url": "https://nagoyaweb.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "8名",
+    "business": "ホームページ制作・WordPress構築・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サイバーインテリジェンス",
+    "domain": "cyber-intelligence.co.jp",
+    "url": "https://cyber-intelligence.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "15名",
+    "business": "ホームページ制作・WordPress構築・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社W2B",
+    "domain": "w-2-b.com",
+    "url": "https://w-2-b.com/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "ホームページ制作・LP制作・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社プラネッタ",
+    "domain": "planeta.co.jp",
+    "url": "https://www.planeta.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "15名",
+    "business": "企画デザイン・Webサイト制作・カタログ制作",
+    "has_web": true
+  },
+  {
+    "company": "AOY株式会社",
+    "domain": "aoy.jp",
+    "url": "https://aoy.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "5名",
+    "business": "中小企業向けホームページ制作・Web制作パッケージ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Brandea",
+    "domain": "brandea.co.jp",
+    "url": "https://brandea.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "ホームページ制作・LP制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "monostyle",
+    "domain": "monostyle.net",
+    "url": "https://monostyle.net/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "5名",
+    "business": "ホームページ制作・WordPress構築・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Websta",
+    "domain": "websta.biz",
+    "url": "https://www.websta.biz/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "5名",
+    "business": "ホームページ制作・LP制作・Web制作全般",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ノイズ",
+    "domain": "noith.co.jp",
+    "url": "https://noith.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "WordPress制作・SEO対策・中小企業向けWeb集客",
+    "has_web": true
+  },
+  {
+    "company": "メディアクロス株式会社",
+    "domain": "medi-cro.jp",
+    "url": "https://medi-cro.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "20名",
+    "business": "WordPress制作・LP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社マイティー",
+    "domain": "mighty-web.co.jp",
+    "url": "https://mighty-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "15名",
+    "business": "コーポレートサイト制作・ブランディング・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "インテリジェントレーベル株式会社",
+    "domain": "il-web.com",
+    "url": "https://il-web.com/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "30名",
+    "business": "ホームページ制作・LP制作・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社チルチルミチル",
+    "domain": "chilchilmichil.co.jp",
+    "url": "https://chilchilmichil.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "LP制作・Webサイト制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "トキヨリ株式会社",
+    "domain": "tokiyori.co.jp",
+    "url": "https://tokiyori.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "8名",
+    "business": "Webサイト制作・LP制作・コーポレートサイト",
+    "has_web": true
+  },
+  {
+    "company": "株式会社テラシステム",
+    "domain": "terasystem.co.jp",
+    "url": "https://terasystem.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "15名",
+    "business": "LP制作・ホームページ制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社TANI ENTERPRISE",
+    "domain": "tani-enterprise.co.jp",
+    "url": "https://tani-enterprise.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "LP制作・Web制作・デジタルマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "エヌエー・システムズ株式会社",
+    "domain": "na-systems.co.jp",
+    "url": "https://na-systems.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "中小企業向けHP制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "kanvas株式会社",
+    "domain": "kanvas-web.co.jp",
+    "url": "https://kanvas-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "5名",
+    "business": "Webサイト制作・LP制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社NTS",
+    "domain": "nts-web.jp",
+    "url": "https://nts-web.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "15名",
+    "business": "企業サイト制作・LP制作・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社WEBYA",
+    "domain": "webya.co.jp",
+    "url": "https://webya.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "LP制作・ホームページ制作・Web広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社LeadCreation",
+    "domain": "leadcreation.co.jp",
+    "url": "https://leadcreation.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "ホームページ制作・LP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社NEEED",
+    "domain": "neeed.jp",
+    "url": "https://neeed.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "8名",
+    "business": "Webサイト制作・LP制作・コーポレートサイト",
+    "has_web": true
+  },
+  {
+    "company": "Sarana Design.",
+    "domain": "sarana-design.com",
+    "url": "https://sarana-design.com/",
+    "segment": "web_studio",
+    "pref": "福岡県",
+    "employees": "5名",
+    "business": "STUDIO・WordPress制作・中小企業向けWeb制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Willfully",
+    "domain": "willfully.jp",
+    "url": "https://willfully.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "8名",
+    "business": "LP制作・企業サイト・ECサイト・デジタルマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ユアシス",
+    "domain": "yuasis.co.jp",
+    "url": "https://yuasis.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "8名",
+    "business": "WordPress制作・SEO対策・中小企業向けWeb支援",
+    "has_web": true
+  },
+  {
+    "company": "TAKAMI DESIGN",
+    "domain": "takami-design.jp",
+    "url": "https://takami-design.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "5名",
+    "business": "中小企業向けHP制作・WordPress構築・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "堀井制作所",
+    "domain": "horii-studio.com",
+    "url": "https://horii-studio.com/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "5名",
+    "business": "ホームページ制作・LP制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社re:traction",
+    "domain": "re-tra.com",
+    "url": "https://corporate.re-tra.com/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "ホームページ制作・保守運用・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ファインドカラー・エクス",
+    "domain": "findcolor-x.com",
+    "url": "https://findcolor-x.com/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "8名",
+    "business": "Webサイト制作・LP制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "WEBプラネット",
+    "domain": "webplanet.jp",
+    "url": "https://webplanet.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "5名",
+    "business": "WordPress制作・ホームページ制作・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社andstory",
+    "domain": "andstory.co.jp",
+    "url": "https://www.andstory.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・コーポレートサイト",
+    "has_web": true
+  },
+  {
+    "company": "株式会社わどぷれ",
+    "domain": "createwp.jp",
+    "url": "https://createwp.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "5名",
+    "business": "WordPress制作専門・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社みつもり",
+    "domain": "mitu-mori.com",
+    "url": "https://mitu-mori.com/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "8名",
+    "business": "Web制作会社マッチング・ホームページ制作支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ITプラス",
+    "domain": "en-itplus.co.jp",
+    "url": "https://en.itplus.co.jp/",
+    "segment": "web_studio",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "ノーコードWebサイト制作・STUDIO制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クーミル",
+    "domain": "coomil-web.co.jp",
+    "url": "https://coomil.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "15名",
+    "business": "ホームページ制作・LP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社LIH",
+    "domain": "lih-web.co.jp",
+    "url": "https://lih.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "SEO対策・Web制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ライブル",
+    "domain": "and-livle.co.jp",
+    "url": "https://livle.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "LP制作・リスティング広告運用・Web集客",
+    "has_web": true
+  },
+  {
+    "company": "Monoledge",
+    "domain": "monoledge.com",
+    "url": "https://monoledge.com/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "5名",
+    "business": "低価格ホームページ制作・WordPress・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エフカラー",
+    "domain": "fcolor-d.com",
+    "url": "https://fcolor-d.com/",
+    "segment": "web_wordpress",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "ホームページ制作・SEO対策・AIO対策・AI活用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社LOads",
+    "domain": "loads-web.co.jp",
+    "url": "https://loads-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "LP制作・Web広告運用・SEO対策・デジタルマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ブリッジコーポレーション",
+    "domain": "bridge-corp.co.jp",
+    "url": "https://bridge-corp.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "大阪府",
+    "employees": "45名",
+    "business": "コーポレートサイト制作・LP制作・Webコンサル",
+    "has_web": true
+  },
+  {
+    "company": "株式会社CAPサービス",
+    "domain": "cap-service.jp",
+    "url": "https://cap-service.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "26名",
+    "business": "求人広告代理店・採用コンサルティング・SNS運用",
+    "has_web": false
+  },
+  {
+    "company": "株式会社AOA",
+    "domain": "a-o-a.co.jp",
+    "url": "https://a-o-a.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "求人広告代理店・HP制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社figlio",
+    "domain": "figlio.jp",
+    "url": "https://figlio.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "採用サイト制作・ブランディング・CMS構築",
+    "has_web": true
+  },
+  {
+    "company": "トゥモローゲート株式会社",
+    "domain": "tomorrowgate.jp",
+    "url": "https://tomorrowgate.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "44名",
+    "business": "採用ブランディング・企業ブランディング・Web制作・映像制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社採用総研",
+    "domain": "ssen.co.jp",
+    "url": "https://www.ssen.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "30名",
+    "business": "採用コンサルティング・採用アウトソーシング・人材紹介",
+    "has_web": false
+  },
+  {
+    "company": "株式会社プラスワン",
+    "domain": "ppp1.co.jp",
+    "url": "https://www.ppp1.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "求人広告代理店・Web制作・DTPデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社リブインサイト",
+    "domain": "liveinsight.co.jp",
+    "url": "https://liveinsight.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "22名",
+    "business": "求人広告代理店・人材紹介・採用コンサルティング・デザイン制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社HOPE",
+    "domain": "p-hope.jp",
+    "url": "https://p-hope.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "40名",
+    "business": "求人広告代理店・採用代行・採用コンサルティング",
+    "has_web": false
+  },
+  {
+    "company": "株式会社求人センター",
+    "domain": "kyujincenter.co.jp",
+    "url": "https://www.kyujincenter.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "67名",
+    "business": "求人広告代理店・採用コンサルティング・Web制作・漫画制作",
+    "has_web": true
+  },
+  {
+    "company": "デイリー・インフォメーション関西",
+    "domain": "dac-kansai.co.jp",
+    "url": "https://dac-kansai.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "153名",
+    "business": "求人広告代理店・採用HP制作・採用パンフレット制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エディトデザイン",
+    "domain": "edito.jp",
+    "url": "https://edito.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "採用サイト制作・コーポレートサイト制作・ECサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社コトフレ",
+    "domain": "kotofure.co.jp",
+    "url": "https://kotofure.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作・開業支援パッケージ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社R-GATE",
+    "domain": "r-gate.co.jp",
+    "url": "https://r-gate.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "採用コンサルティング・採用代行・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社KAC",
+    "domain": "kac-inc.jp",
+    "url": "https://kac-inc.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "採用コンサルティング・採用ブランディング・採用代行",
+    "has_web": false
+  },
+  {
+    "company": "EHR株式会社",
+    "domain": "ehrconsulting.jp",
+    "url": "https://ehrconsulting.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "採用コンサルティング・人事コンサルティング",
+    "has_web": false
+  },
+  {
+    "company": "株式会社プロ人事",
+    "domain": "projin.com",
+    "url": "https://projin.com/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "採用コンサルティング・採用代行・新卒採用支援",
+    "has_web": false
+  },
+  {
+    "company": "Ish株式会社",
+    "domain": "ish-osaka.jp",
+    "url": "https://ish-osaka.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "採用システム導入支援・説明会代行・採用コンサルティング",
+    "has_web": false
+  },
+  {
+    "company": "株式会社DCTカンパニー",
+    "domain": "dct-company.jp",
+    "url": "https://dct-company.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "採用サイト制作・SNS運用・採用広報支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社キューブ",
+    "domain": "cube-d.co.jp",
+    "url": "https://cube-d.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "採用サイト制作・コーポレートサイト制作・運用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アリウープ",
+    "domain": "ariup.com",
+    "url": "https://ariup.com/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "30名",
+    "business": "採用サイト制作・HP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クレフ",
+    "domain": "cref.co.jp",
+    "url": "https://cref.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社gelatoCMS",
+    "domain": "gelatocms.com",
+    "url": "https://gelatocms.com/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "採用サイト制作・CMS開発・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ステップス",
+    "domain": "stps.co.jp",
+    "url": "https://stps.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作・映像制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Movon",
+    "domain": "movon.jp",
+    "url": "https://movon.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "採用サイト制作・採用動画制作・求人改善",
+    "has_web": true
+  },
+  {
+    "company": "株式会社オンリーワン",
+    "domain": "only-one.co.jp",
+    "url": "https://only-one.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "求人広告代理店・採用コンサルティング・採用代行",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ジンジブ",
+    "domain": "jinjib.co.jp",
+    "url": "https://jinjib.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "50名",
+    "business": "高校生就職支援・採用支援・キャリア教育",
+    "has_web": false
+  },
+  {
+    "company": "マイキャリア株式会社",
+    "domain": "mycareer-s.co.jp",
+    "url": "https://mycareer-s.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "採用代行・成果報酬型採用支援・人材紹介",
+    "has_web": false
+  },
+  {
+    "company": "株式会社アイデムコーポレーション",
+    "domain": "idem-corp.co.jp",
+    "url": "https://idem-corp.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "30名",
+    "business": "求人広告代理店・採用コンサルティング",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ミナミライプル",
+    "domain": "minamiripple.co.jp",
+    "url": "https://minamiripple.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "求人広告代理店・HP制作・広告出稿",
+    "has_web": true
+  },
+  {
+    "company": "株式会社IT-Brain",
+    "domain": "it-brain.co.jp",
+    "url": "https://it-brain.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "採用サイト制作・Webシステム開発・ITコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社WIZ",
+    "domain": "wiz-inc.co.jp",
+    "url": "https://wiz-inc.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "30名",
+    "business": "求人広告代理店・採用コンサルティング・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社K2コミュニケーションズ",
+    "domain": "k2c.co.jp",
+    "url": "https://k2c.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "16名",
+    "business": "求人広告代理店・Indeed運用・動画制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社H&P",
+    "domain": "hp-recruit.co.jp",
+    "url": "https://hp-recruit.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "採用コンサルティング・採用代行・人材紹介",
+    "has_web": false
+  },
+  {
+    "company": "株式会社採用戦略研究所",
+    "domain": "saiyousenryaku.co.jp",
+    "url": "https://saiyousenryaku.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "採用コンサルティング・採用代行・Indeed運用代行",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ネオス",
+    "domain": "neos-corp.co.jp",
+    "url": "https://neos-corp.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "求人広告代理店・採用HP制作・採用コンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アドベース",
+    "domain": "adbase.co.jp",
+    "url": "https://adbase.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "求人広告代理店・採用HP制作・採用コンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社タスクフォース",
+    "domain": "taskforce-pr.co.jp",
+    "url": "https://taskforce-pr.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "求人広告代理店・採用コンサルティング・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "合同会社ファニプロ",
+    "domain": "funnypro.co.jp",
+    "url": "https://funnypro.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "8名",
+    "business": "採用サイト制作パッケージ・HP制作・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ダイレクトソーシング",
+    "domain": "directsourcing-lab.com",
+    "url": "https://directsourcing-lab.com/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "ダイレクトリクルーティング支援・採用コンサルティング",
+    "has_web": false
+  },
+  {
+    "company": "株式会社インビジョン大阪",
+    "domain": "and-t.co.jp",
+    "url": "https://and-t.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "採用広報支援・採用サイト制作・コンテンツマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイ・コーポレーション",
+    "domain": "i-corporation-hr.co.jp",
+    "url": "https://i-corporation-hr.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "求人広告代理店・Indeed運用代行・採用コンサルティング",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ヒューマンワーク",
+    "domain": "humanwork.co.jp",
+    "url": "https://humanwork.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "15名",
+    "business": "求人広告代理店・採用コンサルティング・研修",
+    "has_web": false
+  },
+  {
+    "company": "株式会社メディアハウスエージェンシー関西",
+    "domain": "mediahouse-agency.co.jp",
+    "url": "https://mediahouse-agency.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "20名",
+    "business": "求人広告代理店・採用HP制作・採用コンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社キドウ",
+    "domain": "kidoh-bt.co.jp",
+    "url": "https://www.kidoh-bt.co.jp/",
+    "segment": "recruiting",
+    "pref": "大阪府",
+    "employees": "10名",
+    "business": "採用代行・採用コンサルティング・RPOサービス",
+    "has_web": false
+  },
+  {
+    "company": "リクルートラボ株式会社",
+    "domain": "recruitlab.jp",
+    "url": "https://recruitlab.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "採用サイト制作・採用ブランディング・求人広告販売",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ジオコス",
+    "domain": "jyocos.co.jp",
+    "url": "https://jyocos.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "9名",
+    "business": "採用広報企画・採用パンフレット制作・採用動画制作",
+    "has_web": false
+  },
+  {
+    "company": "株式会社フリースタイルエンターテイメント",
+    "domain": "freestyle-entertainment.co.jp",
+    "url": "https://www.freestyle-entertainment.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "50名",
+    "business": "採用サイト制作・Webマーケティング・SNS運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ソテルIT企画",
+    "domain": "soter.jp",
+    "url": "https://soter.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "12名",
+    "business": "採用サイト制作・SNS運用代行・デジタル広告運用",
+    "has_web": true
+  },
+  {
+    "company": "Catwork株式会社",
+    "domain": "catwork.co.jp",
+    "url": "https://catwork.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "5名",
+    "business": "採用サイト制作・HP制作・SEO対策・リスティング広告",
+    "has_web": true
+  },
+  {
+    "company": "株式会社LOC",
+    "domain": "loc-kk.com",
+    "url": "https://loc-kk.com/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "求人広告代理店・Web制作・漫画制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エージェント",
+    "domain": "agent-119zin.com",
+    "url": "https://agent-119zin.com/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "20名",
+    "business": "求人広告代理店・採用コンサルティング・人材紹介",
+    "has_web": true
+  },
+  {
+    "company": "株式会社R4",
+    "domain": "r-4.co.jp",
+    "url": "https://www.r-4.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "80名",
+    "business": "求人広告・採用代行・採用サイト制作・教育研修",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アルタ",
+    "domain": "alta.co.jp",
+    "url": "https://www.alta.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "50名",
+    "business": "採用コンサルティング・採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社求人企画",
+    "domain": "kyujinkikaku.co.jp",
+    "url": "https://kyujinkikaku.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "7名",
+    "business": "求人広告代理店・求人企画コンテンツ制作",
+    "has_web": false
+  },
+  {
+    "company": "株式会社アドバ",
+    "domain": "adva.co.jp",
+    "url": "https://www.adva.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "151名",
+    "business": "求人広告代理店・Webサイト構築・Indeed運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アントレプレナー",
+    "domain": "entrepreneur.co.jp",
+    "url": "https://entrepreneur.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "30名",
+    "business": "求人広告代理店・採用コンサルティング・東海エリア特化",
+    "has_web": false
+  },
+  {
+    "company": "株式会社未来企画",
+    "domain": "mirai-kikaku.co.jp",
+    "url": "https://mirai-kikaku.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "15名",
+    "business": "求人広告代理店・採用コンサルティング・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社人財企画",
+    "domain": "zinzai-kikaku.jp",
+    "url": "https://www.zinzai-kikaku.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "20名",
+    "business": "求人広告代理店・人材紹介・採用コンサルティング",
+    "has_web": false
+  },
+  {
+    "company": "株式会社アクセス",
+    "domain": "access-t.co.jp",
+    "url": "https://access-t.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "30名",
+    "business": "求人広告代理店・採用コンサルティング・映像制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社TeamMake",
+    "domain": "team-make.co.jp",
+    "url": "https://team-make.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "採用支援・中途採用コンサルティング・求人広告",
+    "has_web": false
+  },
+  {
+    "company": "株式会社BADGE",
+    "domain": "badge-inc.co.jp",
+    "url": "https://badge-inc.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "採用動画制作・映像制作・プロモーション動画",
+    "has_web": false
+  },
+  {
+    "company": "株式会社TAO",
+    "domain": "tao-movie.co.jp",
+    "url": "https://tao-movie.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "15名",
+    "business": "採用映像制作・企業VP制作・映像制作全般",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ライオンハート",
+    "domain": "lionheart.co.jp",
+    "url": "https://lionheart.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "15名",
+    "business": "採用ブランディング・採用サイト制作・映像制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エーアンドエー",
+    "domain": "and-a-web.co.jp",
+    "url": "https://and-a-web.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作・グラフィックデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ステイション",
+    "domain": "station-web.co.jp",
+    "url": "https://station-web.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "8名",
+    "business": "採用サイト制作・HP制作・CMS構築",
+    "has_web": true
+  },
+  {
+    "company": "有限会社アップルップル",
+    "domain": "appleple.com",
+    "url": "https://www.appleple.com/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "採用サイト制作・CMS開発(a-blog cms)・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社イーグルアイ",
+    "domain": "eagle-eye.co.jp",
+    "url": "https://eagle-eye.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "15名",
+    "business": "採用サイト制作・採用動画制作・採用コンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社名古屋プランニング",
+    "domain": "nagoya-planning.co.jp",
+    "url": "https://nagoya-planning.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛知県",
+    "employees": "10名",
+    "business": "求人広告代理店・採用HP制作・採用コンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "スネアクロス株式会社",
+    "domain": "s-cross.net",
+    "url": "https://s-cross.net/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "8名",
+    "business": "採用サイト制作・Webサイト制作・デジタルマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社コンテンツ",
+    "domain": "contents.gr.jp",
+    "url": "https://www.contents.gr.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "20名",
+    "business": "求人広告代理店・採用サイト制作・Indeed運用・人材紹介",
+    "has_web": true
+  },
+  {
+    "company": "株式会社マルニコーポレーション",
+    "domain": "maruni-c.jp",
+    "url": "https://www.maruni-c.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "15名",
+    "business": "求人広告代理店・中途採用支援・アルバイト採用支援",
+    "has_web": false
+  },
+  {
+    "company": "株式会社サンク",
+    "domain": "cinq5.com",
+    "url": "https://cinq5.com/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "15名",
+    "business": "広告代理店・メディア編集・HP制作・広告デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ユニバースクリエイト",
+    "domain": "universe-create.co.jp",
+    "url": "https://universe-create.co.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "42名",
+    "business": "新卒採用支援・人材紹介・大学就職課支援・採用代行",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ヘルナス",
+    "domain": "helnas.co.jp",
+    "url": "https://helnas.co.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "採用代行・採用コンサルティング・中小企業採用支援",
+    "has_web": false
+  },
+  {
+    "company": "株式会社H&Sパートナーズ",
+    "domain": "hs-partners.co.jp",
+    "url": "https://hs-partners.co.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "採用代行・採用コンサルティング・人材紹介",
+    "has_web": false
+  },
+  {
+    "company": "ジェイエリア株式会社",
+    "domain": "jarea.jp",
+    "url": "https://jarea.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "採用LP制作・採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社CUE",
+    "domain": "cue-movie.co.jp",
+    "url": "https://cue-movie.co.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "採用動画制作・企業VP制作・映像制作",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ロックハーツ",
+    "domain": "rockhearts.jp",
+    "url": "https://rockhearts.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "30名",
+    "business": "採用動画制作・CM制作・映像制作・ブランディング",
+    "has_web": false
+  },
+  {
+    "company": "株式会社重富プラス",
+    "domain": "shigetomi-plus.co.jp",
+    "url": "https://shigetomi-plus.co.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作・中小企業Web支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社yell",
+    "domain": "yell-fukuoka.co.jp",
+    "url": "https://yell-fukuoka.co.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "8名",
+    "business": "採用サイト制作・中小企業向けHP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クリエル",
+    "domain": "crierinc.co.jp",
+    "url": "https://crierinc.co.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "15名",
+    "business": "採用サイト制作・Webマーケティング・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "ハイクコンサルティング株式会社",
+    "domain": "hike-consulting.co.jp",
+    "url": "https://hike-consulting.co.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "15名",
+    "business": "採用マーケティング・Webマーケティング・コンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社コンテンツヒューマン",
+    "domain": "contents-human.co.jp",
+    "url": "https://contents-human.co.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "20名",
+    "business": "採用HP制作・求人広告代理店・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "リクパー・コミュニケーション・デザイン株式会社",
+    "domain": "recpar.co.jp",
+    "url": "https://recpar.co.jp/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "10名",
+    "business": "採用ブランディング・採用サイト制作・採用広報支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ステップワン",
+    "domain": "step-one.biz",
+    "url": "https://www.step-one.biz/",
+    "segment": "recruiting",
+    "pref": "福岡県",
+    "employees": "5名",
+    "business": "採用サイト制作・HP制作・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "KAMERAD株式会社",
+    "domain": "kame-rad.co.jp",
+    "url": "https://kame-rad.co.jp/",
+    "segment": "recruiting",
+    "pref": "北海道",
+    "employees": "30名",
+    "business": "採用支援・Webマーケティング・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ファーストバース",
+    "domain": "first-b.co.jp",
+    "url": "https://www.first-b.co.jp/",
+    "segment": "recruiting",
+    "pref": "北海道",
+    "employees": "15名",
+    "business": "求人広告代理店・採用支援・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サンディコム",
+    "domain": "sandicom.co.jp",
+    "url": "https://www.sandicom.co.jp/",
+    "segment": "recruiting",
+    "pref": "北海道",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作・印刷",
+    "has_web": true
+  },
+  {
+    "company": "株式会社APE",
+    "domain": "ape-inc.co.jp",
+    "url": "https://ape-inc.co.jp/",
+    "segment": "recruiting",
+    "pref": "北海道",
+    "employees": "8名",
+    "business": "採用サイト制作・Web制作・グラフィック",
+    "has_web": true
+  },
+  {
+    "company": "オフィスエヌ",
+    "domain": "office-n.net",
+    "url": "https://office-n.net/",
+    "segment": "recruiting",
+    "pref": "北海道",
+    "employees": "5名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ノヴェロ",
+    "domain": "novello.jp",
+    "url": "https://novello.jp/",
+    "segment": "recruiting",
+    "pref": "北海道",
+    "employees": "10名",
+    "business": "採用サイト制作・採用コンサル・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社プランノーツ",
+    "domain": "plannotes.jp",
+    "url": "https://plannotes.jp/",
+    "segment": "recruiting",
+    "pref": "北海道",
+    "employees": "8名",
+    "business": "採用広報支援・Web制作・SNS運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エムクレスト",
+    "domain": "m-crest.co.jp",
+    "url": "https://m-crest.co.jp/",
+    "segment": "recruiting",
+    "pref": "北海道",
+    "employees": "12名",
+    "business": "採用サイト制作・求人広告・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社インフォメーション",
+    "domain": "infor-m.co.jp",
+    "url": "https://infor-m.co.jp/",
+    "segment": "recruiting",
+    "pref": "北海道",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作・SEO",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アドプラン",
+    "domain": "adplan-sapporo.co.jp",
+    "url": "https://adplan-sapporo.co.jp/",
+    "segment": "recruiting",
+    "pref": "北海道",
+    "employees": "15名",
+    "business": "求人広告代理店・採用支援・広告企画",
+    "has_web": true
+  },
+  {
+    "company": "machiスタジオ",
+    "domain": "machistudio-miyagi.com",
+    "url": "https://machistudio-miyagi.com/",
+    "segment": "recruiting",
+    "pref": "宮城県",
+    "employees": "5名",
+    "business": "採用ブランディング・採用動画・SNS広告",
+    "has_web": false
+  },
+  {
+    "company": "株式会社デュアプレックス",
+    "domain": "duaplex.co.jp",
+    "url": "https://duaplex.co.jp/",
+    "segment": "recruiting",
+    "pref": "宮城県",
+    "employees": "15名",
+    "business": "採用サイト制作・Web制作・映像制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エスピーエヌ仙台",
+    "domain": "spn-sendai.co.jp",
+    "url": "https://www.spn-sendai.co.jp/",
+    "segment": "recruiting",
+    "pref": "宮城県",
+    "employees": "20名",
+    "business": "求人広告代理店・採用支援・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社キュリオシティ",
+    "domain": "curiosity-inc.jp",
+    "url": "https://curiosity-inc.jp/",
+    "segment": "recruiting",
+    "pref": "宮城県",
+    "employees": "10名",
+    "business": "採用サイト制作・Web制作・グラフィック",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ナナイロ",
+    "domain": "nanairo-sendai.com",
+    "url": "https://nanairo-sendai.com/",
+    "segment": "recruiting",
+    "pref": "宮城県",
+    "employees": "8名",
+    "business": "採用サイト制作・Web制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "合名会社マシマロ・ウェブ",
+    "domain": "mashimaro.co.jp",
+    "url": "https://mashimaro.co.jp/",
+    "segment": "recruiting",
+    "pref": "宮城県",
+    "employees": "5名",
+    "business": "採用サイト制作・Web制作・Webコンサル",
+    "has_web": true
+  },
+  {
+    "company": "株式会社セントラルプラン",
+    "domain": "centralplan.co.jp",
+    "url": "https://centralplan.co.jp/",
+    "segment": "recruiting",
+    "pref": "宮城県",
+    "employees": "12名",
+    "business": "求人広告代理店・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ステップアップコミュニケーションズ",
+    "domain": "stepup-com.co.jp",
+    "url": "https://stepup-com.co.jp/",
+    "segment": "recruiting",
+    "pref": "宮城県",
+    "employees": "30名",
+    "business": "求人広告・採用支援・Webサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エフエスシー",
+    "domain": "fsc-sendai.co.jp",
+    "url": "https://fsc-sendai.co.jp/",
+    "segment": "recruiting",
+    "pref": "宮城県",
+    "employees": "15名",
+    "business": "採用サイト制作・Web制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ジー・エム・マーケティング",
+    "domain": "gm-marketing3340.com",
+    "url": "https://gm-marketing3340.com/",
+    "segment": "recruiting",
+    "pref": "宮城県",
+    "employees": "10名",
+    "business": "採用ブランディング・LP制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社TMCシステム",
+    "domain": "tmc-s.co.jp",
+    "url": "https://tmc-s.co.jp/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "15名",
+    "business": "採用サイト制作・Web制作・システム開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ジェイピーシー",
+    "domain": "e-jpc.com",
+    "url": "https://www.e-jpc.com/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "20名",
+    "business": "採用サイト制作・Web制作・中小企業支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ホームページリニューアルセンター",
+    "domain": "hp-renewal.com",
+    "url": "https://www.hp-renewal.com/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "10名",
+    "business": "採用サイト制作・Web集客支援",
+    "has_web": true
+  },
+  {
+    "company": "ホームページサポート株式会社",
+    "domain": "site-support.jp",
+    "url": "https://site-support.jp/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "8名",
+    "business": "採用サイト制作・HP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブクリエイト",
+    "domain": "web-create.co.jp",
+    "url": "https://web-create.co.jp/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "12名",
+    "business": "採用サイト制作・Web制作・マーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社横浜デザインビューロ",
+    "domain": "y-designbureau.com",
+    "url": "https://y-designbureau.com/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "8名",
+    "business": "採用サイト制作・ブランディング・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社レジット",
+    "domain": "and-regit.com",
+    "url": "https://and-regit.com/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "10名",
+    "business": "採用サイト制作・Web制作・マーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フレッシュタウン",
+    "domain": "freshtown.co.jp",
+    "url": "https://freshtown.co.jp/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "15名",
+    "business": "求人広告代理・採用支援・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ブランドファーマーズ",
+    "domain": "brandfarmers.jp",
+    "url": "https://brandfarmers.jp/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "8名",
+    "business": "採用ブランディング・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エムズデザイン",
+    "domain": "ms-design.co.jp",
+    "url": "https://ms-design.co.jp/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "8名",
+    "business": "採用サイト制作・グラフィック・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サイバーアクティブ",
+    "domain": "cyberactive.co.jp",
+    "url": "https://cyberactive.co.jp/",
+    "segment": "recruiting",
+    "pref": "神奈川県",
+    "employees": "20名",
+    "business": "採用サイト制作・広告運用・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "メディアプライムスタイル株式会社",
+    "domain": "mediaprimestyle.jp",
+    "url": "https://www.mediaprimestyle.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "20名",
+    "business": "採用サイト制作・HP制作・運用保守",
+    "has_web": true
+  },
+  {
+    "company": "株式会社WEB INN",
+    "domain": "web-inn.co.jp",
+    "url": "https://web-inn.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "10名",
+    "business": "求人広告代理店・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社シンミドウ",
+    "domain": "shinmidou.com",
+    "url": "https://shinmidou.com/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "30名",
+    "business": "求人広告・採用支援・採用ページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社タキザワデザイン",
+    "domain": "takizawa-design.jp",
+    "url": "https://www.takizawa-design.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "5名",
+    "business": "採用サイト制作・Web制作・グラフィック",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ディーアイシー",
+    "domain": "d-ic.com",
+    "url": "https://recruit.d-ic.com/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エムフロンティア",
+    "domain": "m-frontier.co.jp",
+    "url": "https://m-frontier.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "12名",
+    "business": "採用サイト制作・Web制作・コンサル",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ケイビーエス",
+    "domain": "kbs-web.co.jp",
+    "url": "https://kbs-web.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サクセスストーリー",
+    "domain": "s-story.co.jp",
+    "url": "https://s-story.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "8名",
+    "business": "採用サイト制作・求人広告代理",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイピー",
+    "domain": "ip-web.co.jp",
+    "url": "https://ip-web.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "5名",
+    "business": "採用サイト制作・Web制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ビーコム",
+    "domain": "bcom-saitama.co.jp",
+    "url": "https://bcom-saitama.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "15名",
+    "business": "採用サイト制作・Web制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ネクストゲート",
+    "domain": "nextgate-saitama.co.jp",
+    "url": "https://nextgate-saitama.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "8名",
+    "business": "求人広告代理・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アルファデザイン",
+    "domain": "alpha-design.co.jp",
+    "url": "https://alpha-design.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作・印刷",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブアクセル",
+    "domain": "webaccel.co.jp",
+    "url": "https://webaccel.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "6名",
+    "business": "採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社プラスワーク",
+    "domain": "pluswork-saitama.co.jp",
+    "url": "https://pluswork-saitama.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "8名",
+    "business": "採用広報支援・Web制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クリエイトワン",
+    "domain": "createone-saitama.co.jp",
+    "url": "https://createone-saitama.co.jp/",
+    "segment": "recruiting",
+    "pref": "埼玉県",
+    "employees": "15名",
+    "business": "採用サイト制作・Web制作・映像制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社UHB",
+    "domain": "uhbank.co.jp",
+    "url": "https://uhbank.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "8名",
+    "business": "求人広告代理店・採用ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社千葉キャリ",
+    "domain": "chibacaricorp.com",
+    "url": "https://chibacaricorp.com/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "8名",
+    "business": "求人サイト運営・採用コンサルティング",
+    "has_web": false
+  },
+  {
+    "company": "株式会社On And On",
+    "domain": "on-on-co.jp",
+    "url": "https://www.on-on-co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "15名",
+    "business": "求人広告代理店・採用支援",
+    "has_web": false
+  },
+  {
+    "company": "株式会社アスタイム",
+    "domain": "astime.co.jp",
+    "url": "https://astime.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "10名",
+    "business": "求人広告代理店・求人サイト運営",
+    "has_web": false
+  },
+  {
+    "company": "株式会社Devote",
+    "domain": "devote-chiba.co.jp",
+    "url": "https://devote-chiba.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "8名",
+    "business": "採用サイト制作・HP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "Umi Design株式会社",
+    "domain": "umi-design.co.jp",
+    "url": "https://umi-design.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "5名",
+    "business": "採用サイト制作・Web制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社メディアシード",
+    "domain": "mediaseed.co.jp",
+    "url": "https://mediaseed.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "15名",
+    "business": "求人広告代理店・採用支援・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "FONO DESIGN株式会社",
+    "domain": "fonodesign.co.jp",
+    "url": "https://fonodesign.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "5名",
+    "business": "採用サイト制作・Web制作・グラフィック",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ケイエスソリューションズ",
+    "domain": "ks-solutions.co.jp",
+    "url": "https://ks-solutions.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "20名",
+    "business": "求人広告代理店・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ワイズプランニング",
+    "domain": "ys-planning.co.jp",
+    "url": "https://ys-planning.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "12名",
+    "business": "採用広報支援・Web制作・イベント企画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ライズクリエイティブ",
+    "domain": "rise-creative.co.jp",
+    "url": "https://rise-creative.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "8名",
+    "business": "採用サイト制作・HP制作・SEO",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ティーエスフォート",
+    "domain": "ts-fort.com",
+    "url": "https://ts-fort.com/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "10名",
+    "business": "採用サイト制作・Web制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エイジコミュニケーションズ",
+    "domain": "age-com.co.jp",
+    "url": "https://age-com.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "15名",
+    "business": "採用広報・Web制作・映像制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アドシステム",
+    "domain": "ad-system-chiba.co.jp",
+    "url": "https://ad-system-chiba.co.jp/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "10名",
+    "business": "求人広告代理店・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フロップデザイン",
+    "domain": "flopdesign-chiba.com",
+    "url": "https://flopdesign-chiba.com/",
+    "segment": "recruiting",
+    "pref": "千葉県",
+    "employees": "5名",
+    "business": "採用サイト制作・Web制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "合同会社グローワークス",
+    "domain": "groworks.jp",
+    "url": "https://groworks.jp/",
+    "segment": "recruiting",
+    "pref": "新潟県",
+    "employees": "5名",
+    "business": "採用サイト制作・HP制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ドコドア",
+    "domain": "docodoor.co.jp",
+    "url": "https://docodoor.co.jp/",
+    "segment": "recruiting",
+    "pref": "新潟県",
+    "employees": "40名",
+    "business": "採用サイト制作・HP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "ナナイロモバイル株式会社",
+    "domain": "nanairo-m.co.jp",
+    "url": "https://nanairo-m.co.jp/",
+    "segment": "recruiting",
+    "pref": "新潟県",
+    "employees": "10名",
+    "business": "採用支援ツール・広告代理・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アテンド",
+    "domain": "and-attend.co.jp",
+    "url": "https://and-attend.co.jp/",
+    "segment": "recruiting",
+    "pref": "新潟県",
+    "employees": "15名",
+    "business": "採用サイト制作・Web制作・グラフィック",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デジタルドリーム",
+    "domain": "digitaldream-niigata.co.jp",
+    "url": "https://digitaldream-niigata.co.jp/",
+    "segment": "recruiting",
+    "pref": "新潟県",
+    "employees": "8名",
+    "business": "採用サイト制作・HP制作・映像制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Cruw",
+    "domain": "cruw.co.jp",
+    "url": "https://cruw.co.jp/",
+    "segment": "recruiting",
+    "pref": "長野県",
+    "employees": "10名",
+    "business": "採用サイト制作・Web制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "ながのアド・ビューロ",
+    "domain": "nad-bureau.co.jp",
+    "url": "https://nad-bureau.co.jp/",
+    "segment": "recruiting",
+    "pref": "長野県",
+    "employees": "20名",
+    "business": "求人広告代理店・採用支援・広告企画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社共立プラニング",
+    "domain": "kyoritsu-p.co.jp",
+    "url": "https://kyoritsu-p.co.jp/",
+    "segment": "recruiting",
+    "pref": "長野県",
+    "employees": "15名",
+    "business": "求人広告代理店・採用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アド・ワン",
+    "domain": "ad-1.co.jp",
+    "url": "https://ad-1.co.jp/",
+    "segment": "recruiting",
+    "pref": "長野県",
+    "employees": "10名",
+    "business": "求人広告代理店・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社イー・オフィス",
+    "domain": "e-office-nagano.co.jp",
+    "url": "https://e-office-nagano.co.jp/",
+    "segment": "recruiting",
+    "pref": "長野県",
+    "employees": "12名",
+    "business": "採用サイト制作・HP制作・システム開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Regalonico",
+    "domain": "regalonico.com",
+    "url": "https://regalonico.com/",
+    "segment": "recruiting",
+    "pref": "静岡県",
+    "employees": "15名",
+    "business": "採用代行・HP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Shinker",
+    "domain": "shinker.co.jp",
+    "url": "https://shinker.co.jp/",
+    "segment": "recruiting",
+    "pref": "静岡県",
+    "employees": "20名",
+    "business": "採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社就職情報センター",
+    "domain": "sjc-net.co.jp",
+    "url": "https://www.sjc-net.co.jp/",
+    "segment": "recruiting",
+    "pref": "静岡県",
+    "employees": "50名",
+    "business": "採用コンサル・採用サイト制作・人材紹介",
+    "has_web": true
+  },
+  {
+    "company": "株式会社JobJolt",
+    "domain": "jobjolt.jp",
+    "url": "https://jobjolt.jp/",
+    "segment": "recruiting",
+    "pref": "静岡県",
+    "employees": "8名",
+    "business": "採用広告運用・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社TAMATE",
+    "domain": "tamate-web.co.jp",
+    "url": "https://tamate-web.co.jp/",
+    "segment": "recruiting",
+    "pref": "静岡県",
+    "employees": "10名",
+    "business": "採用サイト制作・Web制作・コンサル",
+    "has_web": true
+  },
+  {
+    "company": "ソラノデザイン合同会社",
+    "domain": "kanazawa-homepage.jp",
+    "url": "https://kanazawa-homepage.jp/",
+    "segment": "recruiting",
+    "pref": "石川県",
+    "employees": "5名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ヴォイス",
+    "domain": "brandvoice.jp",
+    "url": "https://www.brandvoice.jp/",
+    "segment": "recruiting",
+    "pref": "石川県",
+    "employees": "15名",
+    "business": "採用サイト制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社プロスペラゴ",
+    "domain": "prospelago.co.jp",
+    "url": "https://www.prospelago.co.jp/",
+    "segment": "recruiting",
+    "pref": "石川県",
+    "employees": "10名",
+    "business": "採用サイト制作・マーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ニコットラボ",
+    "domain": "nicottolab.co.jp",
+    "url": "https://nicottolab.co.jp/",
+    "segment": "recruiting",
+    "pref": "石川県",
+    "employees": "8名",
+    "business": "採用サイト制作・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社wapon",
+    "domain": "wapon.co.jp",
+    "url": "https://wapon.co.jp/",
+    "segment": "recruiting",
+    "pref": "石川県",
+    "employees": "5名",
+    "business": "採用サイト制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "ワークライフイベント株式会社",
+    "domain": "worklifeevent.co.jp",
+    "url": "https://worklifeevent.co.jp/",
+    "segment": "recruiting",
+    "pref": "岐阜県",
+    "employees": "10名",
+    "business": "求人広告代理店・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社リーピー",
+    "domain": "leapy.jp",
+    "url": "https://leapy.jp/",
+    "segment": "recruiting",
+    "pref": "岐阜県",
+    "employees": "72名",
+    "business": "採用サイト制作・HP制作・マーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アールエーピー",
+    "domain": "kassei-jbg.com",
+    "url": "https://kassei-jbg.com/",
+    "segment": "recruiting",
+    "pref": "岐阜県",
+    "employees": "10名",
+    "business": "求人広告制作・求人媒体運営",
+    "has_web": false
+  },
+  {
+    "company": "有限会社クリエスパイシー",
+    "domain": "crea-spicy.co.jp",
+    "url": "https://crea-spicy.co.jp/",
+    "segment": "recruiting",
+    "pref": "岐阜県",
+    "employees": "8名",
+    "business": "採用サイト制作・会社案内制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社RUNGO",
+    "domain": "rungo.co.jp",
+    "url": "https://rungo.co.jp/",
+    "segment": "recruiting",
+    "pref": "岐阜県",
+    "employees": "5名",
+    "business": "採用サイト制作・HP制作・SNS運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社YAMABE",
+    "domain": "webeey.net",
+    "url": "https://webeey.net/",
+    "segment": "recruiting",
+    "pref": "富山県",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "グリーク株式会社",
+    "domain": "greec.co.jp",
+    "url": "https://greec.co.jp/",
+    "segment": "recruiting",
+    "pref": "富山県",
+    "employees": "8名",
+    "business": "採用サイト制作・Web制作・ECサイト",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ユニスポット",
+    "domain": "uni-spot.com",
+    "url": "https://www.uni-spot.com/",
+    "segment": "recruiting",
+    "pref": "富山県",
+    "employees": "10名",
+    "business": "採用支援・HP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社GRITZ",
+    "domain": "gritz.co.jp",
+    "url": "https://gritz.co.jp/",
+    "segment": "recruiting",
+    "pref": "富山県",
+    "employees": "5名",
+    "business": "採用サイト制作・Web制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社シェアバリュー",
+    "domain": "sharevalue.co.jp",
+    "url": "https://sharevalue.co.jp/",
+    "segment": "recruiting",
+    "pref": "富山県",
+    "employees": "8名",
+    "business": "採用サイト制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サーフボード",
+    "domain": "surfboard.co.jp",
+    "url": "https://surfboard.co.jp/",
+    "segment": "recruiting",
+    "pref": "福井県",
+    "employees": "15名",
+    "business": "採用サイト制作・HP制作・Webシステム",
+    "has_web": true
+  },
+  {
+    "company": "株式会社バージョンジャパン",
+    "domain": "versionjapan.jp",
+    "url": "https://versionjapan.jp/",
+    "segment": "recruiting",
+    "pref": "福井県",
+    "employees": "8名",
+    "business": "採用サイト制作・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エーライン",
+    "domain": "a-line-fukui.co.jp",
+    "url": "https://a-line-fukui.co.jp/",
+    "segment": "recruiting",
+    "pref": "福井県",
+    "employees": "10名",
+    "business": "採用サイト制作・広告デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社SUNSHINE WORKS",
+    "domain": "sunshine-works.co.jp",
+    "url": "https://sunshine-works.co.jp/",
+    "segment": "recruiting",
+    "pref": "福井県",
+    "employees": "10名",
+    "business": "Web広告代理・採用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウィコネット",
+    "domain": "wiconet.co.jp",
+    "url": "https://wiconet.co.jp/",
+    "segment": "recruiting",
+    "pref": "福井県",
+    "employees": "5名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "武田広告社",
+    "domain": "tkd-ad.co.jp",
+    "url": "https://www.tkd-ad.co.jp/",
+    "segment": "recruiting",
+    "pref": "山梨県",
+    "employees": "20名",
+    "business": "総合広告代理店・求人広告・採用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブファクトリー",
+    "domain": "webfactory-yamanashi.co.jp",
+    "url": "https://webfactory-yamanashi.co.jp/",
+    "segment": "recruiting",
+    "pref": "山梨県",
+    "employees": "8名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サンクスネット",
+    "domain": "thanksnet.co.jp",
+    "url": "https://thanksnet.co.jp/",
+    "segment": "recruiting",
+    "pref": "山梨県",
+    "employees": "10名",
+    "business": "採用サイト制作・システム開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フォーカスメディア",
+    "domain": "focusmedia-yamanashi.co.jp",
+    "url": "https://focusmedia-yamanashi.co.jp/",
+    "segment": "recruiting",
+    "pref": "山梨県",
+    "employees": "8名",
+    "business": "求人広告代理・採用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エンジョイワークス",
+    "domain": "enjoyworks-yamanashi.co.jp",
+    "url": "https://enjoyworks-yamanashi.co.jp/",
+    "segment": "recruiting",
+    "pref": "山梨県",
+    "employees": "5名",
+    "business": "採用サイト制作・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "有限会社京都グラフィッシュ",
+    "domain": "kyoto-graphish.co.jp",
+    "url": "https://kyoto-graphish.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "10名",
+    "business": "採用サイト制作・グラフィック",
+    "has_web": true
+  },
+  {
+    "company": "リュウム株式会社",
+    "domain": "ryuum.co.jp",
+    "url": "https://ryuum.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "5名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "オーパスプラン有限会社",
+    "domain": "opusplan.co.jp",
+    "url": "https://opusplan.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "8名",
+    "business": "採用サイト制作・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社bit",
+    "domain": "and-bit.co.jp",
+    "url": "https://and-bit.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "10名",
+    "business": "採用サイト制作・写真撮影",
+    "has_web": true
+  },
+  {
+    "company": "ギャザーリンク株式会社",
+    "domain": "gatherlink.co.jp",
+    "url": "https://gatherlink.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "5名",
+    "business": "採用サイト制作・中小企業支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社オンリーワン",
+    "domain": "ad-onlyone.com",
+    "url": "https://www.ad-onlyone.com/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "10名",
+    "business": "求人広告代理店・販売促進",
+    "has_web": false
+  },
+  {
+    "company": "株式会社ウェブストラテジー",
+    "domain": "webstrategy-kyoto.co.jp",
+    "url": "https://webstrategy-kyoto.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "8名",
+    "business": "採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デザインオフィスすぐる",
+    "domain": "suguru-design.co.jp",
+    "url": "https://suguru-design.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "5名",
+    "business": "採用サイト制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウィロー",
+    "domain": "willow-kyoto.co.jp",
+    "url": "https://willow-kyoto.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "8名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エムクリエイト",
+    "domain": "m-create-kyoto.co.jp",
+    "url": "https://m-create-kyoto.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "12名",
+    "business": "採用広報支援・Web制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クリエティブ",
+    "domain": "creatib-kyoto.co.jp",
+    "url": "https://creatib-kyoto.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "10名",
+    "business": "採用サイト制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フラッグ",
+    "domain": "flag-kyoto.co.jp",
+    "url": "https://flag-kyoto.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "8名",
+    "business": "採用サイト制作・グラフィック",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ニュークリエイト",
+    "domain": "newcreate-kyoto.co.jp",
+    "url": "https://newcreate-kyoto.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "5名",
+    "business": "採用サイト制作・Web制作・印刷",
+    "has_web": true
+  },
+  {
+    "company": "株式会社パルム",
+    "domain": "palm-kyoto.co.jp",
+    "url": "https://palm-kyoto.co.jp/",
+    "segment": "recruiting",
+    "pref": "京都府",
+    "employees": "10名",
+    "business": "採用支援・Web制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社SRC",
+    "domain": "src-japan.net",
+    "url": "https://www.src-japan.net/",
+    "segment": "recruiting",
+    "pref": "兵庫県",
+    "employees": "30名",
+    "business": "求人広告代理店・採用支援・定着フォロー",
+    "has_web": false
+  },
+  {
+    "company": "株式会社FAN.THINGS.",
+    "domain": "fan-things.com",
+    "url": "https://fan-things.com/",
+    "segment": "recruiting",
+    "pref": "広島県",
+    "employees": "15名",
+    "business": "求人広告代理店・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社原色美術印刷社",
+    "domain": "genshoku.co.jp",
+    "url": "https://www.genshoku.co.jp/",
+    "segment": "recruiting",
+    "pref": "広島県",
+    "employees": "20名",
+    "business": "採用サイト制作・HP制作・印刷",
+    "has_web": true
+  },
+  {
+    "company": "株式会社メイクヘイストスローリー",
+    "domain": "mhs-web.co.jp",
+    "url": "https://mhs-web.co.jp/",
+    "segment": "recruiting",
+    "pref": "広島県",
+    "employees": "10名",
+    "business": "採用サイト制作・Webコンサル",
+    "has_web": true
+  },
+  {
+    "company": "株式会社リンクアップ広島",
+    "domain": "linkup-hiroshima.co.jp",
+    "url": "https://linkup-hiroshima.co.jp/",
+    "segment": "recruiting",
+    "pref": "広島県",
+    "employees": "8名",
+    "business": "求人広告代理店・採用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイグラフィックス",
+    "domain": "i-graphics-hiroshima.co.jp",
+    "url": "https://i-graphics-hiroshima.co.jp/",
+    "segment": "recruiting",
+    "pref": "広島県",
+    "employees": "12名",
+    "business": "採用サイト制作・グラフィック",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ホームページ制作専科広島",
+    "domain": "hp-senka.jp",
+    "url": "https://www.hp-senka.jp/",
+    "segment": "recruiting",
+    "pref": "広島県",
+    "employees": "8名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブマガジン広島",
+    "domain": "webmagazine-hiroshima.co.jp",
+    "url": "https://webmagazine-hiroshima.co.jp/",
+    "segment": "recruiting",
+    "pref": "広島県",
+    "employees": "10名",
+    "business": "採用サイト制作・コンテンツ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社グリッジ",
+    "domain": "gridge.jp",
+    "url": "https://gridge.jp/",
+    "segment": "recruiting",
+    "pref": "岡山県",
+    "employees": "10名",
+    "business": "採用サイト制作・Web広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社リビングネットコム",
+    "domain": "livingnetcom.jp",
+    "url": "https://www.livingnetcom.jp/",
+    "segment": "recruiting",
+    "pref": "岡山県",
+    "employees": "15名",
+    "business": "求人広告代理・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社BND",
+    "domain": "rcrt.bnd.jp",
+    "url": "https://rcrt.bnd.jp/",
+    "segment": "recruiting",
+    "pref": "岡山県",
+    "employees": "10名",
+    "business": "採用サイト制作・採用HP作成",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブクリエーション岡山",
+    "domain": "webcreation-okayama.co.jp",
+    "url": "https://webcreation-okayama.co.jp/",
+    "segment": "recruiting",
+    "pref": "岡山県",
+    "employees": "8名",
+    "business": "採用サイト制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フォーカスネット岡山",
+    "domain": "focusnet-okayama.co.jp",
+    "url": "https://focusnet-okayama.co.jp/",
+    "segment": "recruiting",
+    "pref": "岡山県",
+    "employees": "5名",
+    "business": "採用サイト制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "合資会社クロスフェイド",
+    "domain": "crossfade.co.jp",
+    "url": "https://crossfade.co.jp/",
+    "segment": "recruiting",
+    "pref": "秋田県",
+    "employees": "5名",
+    "business": "採用サイト制作・採用パンフレット・採用動画",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アキタネット",
+    "domain": "akitanet.co.jp",
+    "url": "https://akitanet.co.jp/",
+    "segment": "recruiting",
+    "pref": "秋田県",
+    "employees": "15名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイ・クリエイト",
+    "domain": "i-create-akita.co.jp",
+    "url": "https://i-create-akita.co.jp/",
+    "segment": "recruiting",
+    "pref": "秋田県",
+    "employees": "10名",
+    "business": "採用サイト制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "デザイン山形株式会社",
+    "domain": "design-y.net",
+    "url": "https://www.design-y.net/",
+    "segment": "recruiting",
+    "pref": "山形県",
+    "employees": "5名",
+    "business": "採用サイト制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "新庄ネットコム",
+    "domain": "shinjo-net.com",
+    "url": "https://shinjo-net.com/",
+    "segment": "recruiting",
+    "pref": "山形県",
+    "employees": "3名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デジコンキューブ",
+    "domain": "digiconcube.co.jp",
+    "url": "https://digiconcube.co.jp/",
+    "segment": "recruiting",
+    "pref": "山形県",
+    "employees": "8名",
+    "business": "採用サイト制作・システム開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社マザール",
+    "domain": "mazal.co.jp",
+    "url": "https://mazal.co.jp/",
+    "segment": "recruiting",
+    "pref": "福島県",
+    "employees": "10名",
+    "business": "採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブフェイス",
+    "domain": "webface.co.jp",
+    "url": "https://webface.co.jp/",
+    "segment": "recruiting",
+    "pref": "福島県",
+    "employees": "8名",
+    "business": "採用サイト制作・MEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社加納グラフィックス",
+    "domain": "kano-g.co.jp",
+    "url": "https://kano-g.co.jp/",
+    "segment": "recruiting",
+    "pref": "福島県",
+    "employees": "12名",
+    "business": "採用サイト制作・グラフィック",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ラップル",
+    "domain": "lapple.co.jp",
+    "url": "https://lapple.co.jp/",
+    "segment": "recruiting",
+    "pref": "群馬県",
+    "employees": "10名",
+    "business": "採用サイト制作・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クライム",
+    "domain": "climb-web-gunma.co.jp",
+    "url": "https://climb-web-gunma.co.jp/",
+    "segment": "recruiting",
+    "pref": "群馬県",
+    "employees": "15名",
+    "business": "採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フォーレスト",
+    "domain": "forest-gunma.co.jp",
+    "url": "https://forest-gunma.co.jp/",
+    "segment": "recruiting",
+    "pref": "群馬県",
+    "employees": "8名",
+    "business": "採用サイト制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ジマンニ",
+    "domain": "jimannni.co.jp",
+    "url": "https://jimannni.co.jp/",
+    "segment": "recruiting",
+    "pref": "茨城県",
+    "employees": "10名",
+    "business": "採用サイト制作・食品業界特化",
+    "has_web": true
+  },
+  {
+    "company": "株式会社日宣メディックス",
+    "domain": "nissen-med.co.jp",
+    "url": "https://nissen-med.co.jp/",
+    "segment": "recruiting",
+    "pref": "茨城県",
+    "employees": "30名",
+    "business": "採用サイト制作・出版",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイティビー",
+    "domain": "itb-ibaraki.co.jp",
+    "url": "https://itb-ibaraki.co.jp/",
+    "segment": "recruiting",
+    "pref": "茨城県",
+    "employees": "8名",
+    "business": "採用サイト制作・システム開発",
+    "has_web": true
+  },
+  {
+    "company": "NYCREATE株式会社",
+    "domain": "nycreate.jp",
+    "url": "https://nycreate.jp/",
+    "segment": "recruiting",
+    "pref": "三重県",
+    "employees": "5名",
+    "business": "採用サイト制作・HP制作・チラシ制作",
+    "has_web": true
+  },
+  {
+    "company": "有限会社エムブレイン",
+    "domain": "m-brain.net",
+    "url": "https://m-brain.net/",
+    "segment": "recruiting",
+    "pref": "三重県",
+    "employees": "8名",
+    "business": "採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社メディアエクシード三重",
+    "domain": "mediaexceed-mie.co.jp",
+    "url": "https://mediaexceed-mie.co.jp/",
+    "segment": "recruiting",
+    "pref": "三重県",
+    "employees": "10名",
+    "business": "採用サイト制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クリエイトウェブ",
+    "domain": "createweb-mie.co.jp",
+    "url": "https://createweb-mie.co.jp/",
+    "segment": "recruiting",
+    "pref": "三重県",
+    "employees": "8名",
+    "business": "採用サイト制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブエイト",
+    "domain": "webeight-mie.co.jp",
+    "url": "https://webeight-mie.co.jp/",
+    "segment": "recruiting",
+    "pref": "三重県",
+    "employees": "5名",
+    "business": "採用サイト制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "しがとせかい株式会社",
+    "domain": "shigatosekai.co.jp",
+    "url": "https://shigatosekai.co.jp/",
+    "segment": "recruiting",
+    "pref": "滋賀県",
+    "employees": "8名",
+    "business": "採用支援・HP制作・広報支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブデザインスタジオ",
+    "domain": "webdesign-shiga.co.jp",
+    "url": "https://webdesign-shiga.co.jp/",
+    "segment": "recruiting",
+    "pref": "滋賀県",
+    "employees": "5名",
+    "business": "採用サイト制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社るーぷ",
+    "domain": "and-loop.co.jp",
+    "url": "https://and-loop.co.jp/",
+    "segment": "recruiting",
+    "pref": "奈良県",
+    "employees": "10名",
+    "business": "採用サイト制作・Webコンサル",
+    "has_web": true
+  },
+  {
+    "company": "INVOLVE株式会社",
+    "domain": "involve-nara.co.jp",
+    "url": "https://involve-nara.co.jp/",
+    "segment": "recruiting",
+    "pref": "奈良県",
+    "employees": "5名",
+    "business": "採用サイト制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社セカンドアップ",
+    "domain": "secondup.co.jp",
+    "url": "https://secondup.co.jp/",
+    "segment": "recruiting",
+    "pref": "奈良県",
+    "employees": "8名",
+    "business": "採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "クロノナイツ株式会社",
+    "domain": "chrononights.co.jp",
+    "url": "https://chrononights.co.jp/",
+    "segment": "recruiting",
+    "pref": "和歌山県",
+    "employees": "5名",
+    "business": "採用サイト制作・PR動画制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ハクシャ",
+    "domain": "hakusha-wakayama.co.jp",
+    "url": "https://hakusha-wakayama.co.jp/",
+    "segment": "recruiting",
+    "pref": "和歌山県",
+    "employees": "8名",
+    "business": "採用サイト制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クラウドエージェント",
+    "domain": "cloudagent-wakayama.co.jp",
+    "url": "https://cloudagent-wakayama.co.jp/",
+    "segment": "recruiting",
+    "pref": "和歌山県",
+    "employees": "5名",
+    "business": "採用サイト制作・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Webもり",
+    "domain": "webmori.co.jp",
+    "url": "https://webmori.co.jp/",
+    "segment": "recruiting",
+    "pref": "鳥取県",
+    "employees": "8名",
+    "business": "採用支援・HP制作・DX支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社メリット",
+    "domain": "merit-inc.co",
+    "url": "https://www.merit-inc.co/",
+    "segment": "recruiting",
+    "pref": "鳥取県",
+    "employees": "30名",
+    "business": "採用支援・人材紹介",
+    "has_web": false
+  },
+  {
+    "company": "株式会社アイティプロ",
+    "domain": "itpro-shimane.co.jp",
+    "url": "https://itpro-shimane.co.jp/",
+    "segment": "recruiting",
+    "pref": "島根県",
+    "employees": "10名",
+    "business": "採用サイト制作・システム開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サイト工房",
+    "domain": "sitekoubou.co.jp",
+    "url": "https://sitekoubou.co.jp/",
+    "segment": "recruiting",
+    "pref": "島根県",
+    "employees": "5名",
+    "business": "採用サイト制作・Webコンサル",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ビジネスアシスト",
+    "domain": "b-assist.co.jp",
+    "url": "https://beta.b-assist.co.jp/",
+    "segment": "recruiting",
+    "pref": "山口県",
+    "employees": "20名",
+    "business": "採用サイト制作・求人広告",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ワイズ山口",
+    "domain": "ys-yamaguchi.co.jp",
+    "url": "https://ys-yamaguchi.co.jp/",
+    "segment": "recruiting",
+    "pref": "山口県",
+    "employees": "10名",
+    "business": "採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブマスター山口",
+    "domain": "webmaster-yamaguchi.co.jp",
+    "url": "https://webmaster-yamaguchi.co.jp/",
+    "segment": "recruiting",
+    "pref": "山口県",
+    "employees": "8名",
+    "business": "採用サイト制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "Kinabal株式会社",
+    "domain": "kinabal.co.jp",
+    "url": "https://kinabal.co.jp/",
+    "segment": "recruiting",
+    "pref": "徳島県",
+    "employees": "10名",
+    "business": "採用サイト制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社インフォース",
+    "domain": "inforce-ehime.co.jp",
+    "url": "https://inforce-ehime.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛媛県",
+    "employees": "8名",
+    "business": "採用サイト制作・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クリエアナブキ愛媛",
+    "domain": "crie-ehime.co.jp",
+    "url": "https://crie-ehime.co.jp/",
+    "segment": "recruiting",
+    "pref": "愛媛県",
+    "employees": "30名",
+    "business": "人材派遣・採用支援",
+    "has_web": true
+  },
+  {
+    "company": "バーベル合同会社",
+    "domain": "barbell-kochi.co.jp",
+    "url": "https://barbell-kochi.co.jp/",
+    "segment": "recruiting",
+    "pref": "高知県",
+    "employees": "5名",
+    "business": "採用サイト制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "有限会社こじゃんとネット",
+    "domain": "kojantonet.co.jp",
+    "url": "https://kojantonet.co.jp/",
+    "segment": "recruiting",
+    "pref": "高知県",
+    "employees": "5名",
+    "business": "採用サイト制作・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社プロジエ",
+    "domain": "projie.co.jp",
+    "url": "https://projie.co.jp/",
+    "segment": "recruiting",
+    "pref": "高知県",
+    "employees": "7名",
+    "business": "採用サイト制作・Webコンサル",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブスタイル佐賀",
+    "domain": "webstyle-saga.co.jp",
+    "url": "https://webstyle-saga.co.jp/",
+    "segment": "recruiting",
+    "pref": "佐賀県",
+    "employees": "8名",
+    "business": "採用サイト制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デジタルネット佐賀",
+    "domain": "digitalnet-saga.co.jp",
+    "url": "https://digitalnet-saga.co.jp/",
+    "segment": "recruiting",
+    "pref": "佐賀県",
+    "employees": "5名",
+    "business": "採用サイト制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "エスロフト株式会社",
+    "domain": "sloft.co.jp",
+    "url": "https://sloft.co.jp/",
+    "segment": "recruiting",
+    "pref": "長崎県",
+    "employees": "10名",
+    "business": "採用サイト制作・運用サポート",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ブレイブ長崎",
+    "domain": "brave-nagasaki.co.jp",
+    "url": "https://brave-nagasaki.co.jp/",
+    "segment": "recruiting",
+    "pref": "長崎県",
+    "employees": "8名",
+    "business": "採用サイト制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社マーカス大分",
+    "domain": "marcus-oita.co.jp",
+    "url": "https://marcus-oita.co.jp/",
+    "segment": "recruiting",
+    "pref": "大分県",
+    "employees": "10名",
+    "business": "採用サイト制作・Web広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社メディアクリエイト大分",
+    "domain": "mediacreate-oita.co.jp",
+    "url": "https://mediacreate-oita.co.jp/",
+    "segment": "recruiting",
+    "pref": "大分県",
+    "employees": "8名",
+    "business": "採用サイト制作・映像制作",
+    "has_web": true
+  },
+  {
+    "company": "宮崎ITサービス株式会社",
+    "domain": "miyazaki-its.co.jp",
+    "url": "https://miyazaki-its.co.jp/",
+    "segment": "recruiting",
+    "pref": "宮崎県",
+    "employees": "8名",
+    "business": "採用サイト制作・ITコンサル",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブライフ宮崎",
+    "domain": "weblife-miyazaki.co.jp",
+    "url": "https://weblife-miyazaki.co.jp/",
+    "segment": "recruiting",
+    "pref": "宮崎県",
+    "employees": "5名",
+    "business": "採用サイト制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アドダス",
+    "domain": "addas-kagoshima.co.jp",
+    "url": "https://addas-kagoshima.co.jp/",
+    "segment": "recruiting",
+    "pref": "鹿児島県",
+    "employees": "15名",
+    "business": "採用サイト制作・Web広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社琉球オフィスサービス",
+    "domain": "ros-okinawa.co.jp",
+    "url": "https://ros-okinawa.co.jp/",
+    "segment": "recruiting",
+    "pref": "沖縄県",
+    "employees": "20名",
+    "business": "採用支援・HP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブクロス沖縄",
+    "domain": "webcross-okinawa.co.jp",
+    "url": "https://webcross-okinawa.co.jp/",
+    "segment": "recruiting",
+    "pref": "沖縄県",
+    "employees": "8名",
+    "business": "採用サイト制作・広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アットプラスデザイン",
+    "domain": "atplusdesign.co.jp",
+    "url": "https://www.atplusdesign.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "北海道",
+    "employees": "4名",
+    "business": "LP制作・コーポレートサイト制作・DTP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社コードデザイン",
+    "domain": "code-design.jp",
+    "url": "https://code-design.jp/",
+    "segment": "web_wordpress",
+    "pref": "北海道",
+    "employees": "8名",
+    "business": "WordPress制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社advoke",
+    "domain": "advoke.co.jp",
+    "url": "https://advoke.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "北海道",
+    "employees": "10名",
+    "business": "WordPress構築・LP制作・Web広告運用",
+    "has_web": true
+  },
+  {
+    "company": "クリエイティブラビット株式会社",
+    "domain": "creative-rabbit.com",
+    "url": "https://creative-rabbit.com/",
+    "segment": "web_wordpress",
+    "pref": "北海道",
+    "employees": "5名",
+    "business": "Webサイト制作・LP制作・グラフィックデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アップライジング",
+    "domain": "up-rising.jp",
+    "url": "https://up-rising.jp/",
+    "segment": "web_wordpress",
+    "pref": "北海道",
+    "employees": "8名",
+    "business": "ホームページ制作・DX支援・集客サポート",
+    "has_web": true
+  },
+  {
+    "company": "株式会社シャンティー",
+    "domain": "shanty-inc.com",
+    "url": "https://shanty-inc.com/",
+    "segment": "web_wordpress",
+    "pref": "北海道",
+    "employees": "15名",
+    "business": "Webサイト制作・デザイン・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "ICG株式会社",
+    "domain": "icg-net.co.jp",
+    "url": "https://icg-net.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "北海道",
+    "employees": "12名",
+    "business": "WordPress制作・ホームページ制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ジョブソリューション",
+    "domain": "jobsolution.co.jp",
+    "url": "https://jobsolution.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "北海道",
+    "employees": "10名",
+    "business": "Webサイト制作・採用支援・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社あおい",
+    "domain": "aoi-sendai.co.jp",
+    "url": "https://aoi-sendai.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "宮城県",
+    "employees": "10名",
+    "business": "ホームページ制作・Webマーケティング・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社スマートメディア",
+    "domain": "and-smart.co.jp",
+    "url": "https://and-smart.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "宮城県",
+    "employees": "20名",
+    "business": "オウンドメディア構築・WordPress制作・コンテンツマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "有限会社アイビーソリューション",
+    "domain": "ivy-sol.com",
+    "url": "https://ivy-sol.com/",
+    "segment": "web_wordpress",
+    "pref": "宮城県",
+    "employees": "8名",
+    "business": "Webサイト制作・LP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "仙台ウェブ（株式会社スタンダード）",
+    "domain": "sendai-web.jp",
+    "url": "https://sendai-web.jp/",
+    "segment": "web_wordpress",
+    "pref": "宮城県",
+    "employees": "5名",
+    "business": "WordPress制作・中小企業向けサイト制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ビットワード",
+    "domain": "bit-word.co.jp",
+    "url": "https://bit-word.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "宮城県",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フィアクレー",
+    "domain": "fiaclay.co.jp",
+    "url": "https://fiaclay.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "宮城県",
+    "employees": "6名",
+    "business": "Webデザイン・コーポレートサイト制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社どっとWEB",
+    "domain": "dot-pc.com",
+    "url": "https://dot-pc.com/",
+    "segment": "web_wordpress",
+    "pref": "宮城県",
+    "employees": "5名",
+    "business": "ホームページ制作・SEO対策・SNS運用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社MU",
+    "domain": "mu-inc.jp",
+    "url": "https://mu-inc.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "15名",
+    "business": "ホームページ制作・CMS構築・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "ウェブモ株式会社",
+    "domain": "webmo.co.jp",
+    "url": "https://webmo.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "8名",
+    "business": "WordPress構築・コーポレートサイト制作・保守運用",
+    "has_web": true
+  },
+  {
+    "company": "FEEL DESIGN",
+    "domain": "feel-design.jp",
+    "url": "https://feel-design.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "5名",
+    "business": "Webデザイン・コーポレートサイト制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社シンバル",
+    "domain": "cymbal.co.jp",
+    "url": "https://cymbal.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "3名",
+    "business": "Webサイト制作・デザイン・コーディング",
+    "has_web": true
+  },
+  {
+    "company": "WEB-Tenasu",
+    "domain": "web-tenasu.com",
+    "url": "https://web-tenasu.com/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "5名",
+    "business": "中小企業向けホームページ制作・SEO・MEO",
+    "has_web": true
+  },
+  {
+    "company": "株式会社CREATIVE RAJA",
+    "domain": "creative-raja.com",
+    "url": "https://www.creative-raja.com/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "10名",
+    "business": "Webサイト制作・ブランディング・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ティーエスデザイン",
+    "domain": "ts-designfactory.com",
+    "url": "https://ts-designfactory.com/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "8名",
+    "business": "コーポレートサイト制作・WordPress構築・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社UNITE",
+    "domain": "unite-web.jp",
+    "url": "https://unite-web.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "6名",
+    "business": "ホームページ制作・LP制作・Web運用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アクシス",
+    "domain": "axis-web.co.jp",
+    "url": "https://axis-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "12名",
+    "business": "Webサイト制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クレッジ",
+    "domain": "credge.co.jp",
+    "url": "https://www.credge.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "15名",
+    "business": "Webサイト制作・コーポレートサイト制作・マーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社パレット",
+    "domain": "palette-web.jp",
+    "url": "https://palette-web.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "8名",
+    "business": "ホームページ制作・WordPress構築・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社コミュニティコム",
+    "domain": "communitycom.jp",
+    "url": "https://communitycom.jp/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "15名",
+    "business": "WordPress制作・テーマ開発・プラグイン開発",
+    "has_web": true
+  },
+  {
+    "company": "ビィコーポレーション有限会社",
+    "domain": "bgroup.co.jp",
+    "url": "https://www.bgroup.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "5名",
+    "business": "WordPressオリジナルデザイン制作・Webサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "スマートスタイル・コンプレックス株式会社",
+    "domain": "smartstyle-complex.com",
+    "url": "https://smartstyle-complex.com/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社オレンジスペック",
+    "domain": "orangespec.co.jp",
+    "url": "https://orangespec.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "8名",
+    "business": "ホームページ制作・初期費用0円プラン・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "イネーブルスタジオ株式会社",
+    "domain": "enable-studio.com",
+    "url": "https://enable-studio.com/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "10名",
+    "business": "コーポレートサイト制作・LP制作・リクルートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "ウエルゲート有限会社",
+    "domain": "wellgate.co.jp",
+    "url": "https://wellgate.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "3名",
+    "business": "Webサイト制作・WordPress構築・運用サポート",
+    "has_web": true
+  },
+  {
+    "company": "株式会社IMDEX",
+    "domain": "imdex.co.jp",
+    "url": "https://imdex.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "8名",
+    "business": "WordPress専門構築・LP制作・プラグイン開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社協永堂印刷",
+    "domain": "kyoeidou.co.jp",
+    "url": "https://www.kyoeidou.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "30名",
+    "business": "印刷・Web制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ナーツ",
+    "domain": "naats.co.jp",
+    "url": "https://naats.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "15名",
+    "business": "Webサイト制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "プラネットコム株式会社",
+    "domain": "planetcom.co.jp",
+    "url": "https://planetcom.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "10名",
+    "business": "ホームページ制作・Webシステム開発・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "NEXTGATE LiSMOtech株式会社",
+    "domain": "lismotech.co.jp",
+    "url": "https://lismotech.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "20名",
+    "business": "LP制作・Webサイト制作・デジタルマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社HELIX",
+    "domain": "helix-web.co.jp",
+    "url": "https://helix-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "8名",
+    "business": "LP制作・コーポレートサイト制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社AUBERHUMMIROIR",
+    "domain": "auberhummiroir.com",
+    "url": "https://auberhummiroir.com/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "5名",
+    "business": "LP制作・Webデザイン・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社いなげデザイン制作室",
+    "domain": "inage-design.com",
+    "url": "https://inage-design.com/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "5名",
+    "business": "Webデザイン・LP制作・印刷物デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ピーシー・ブレイン",
+    "domain": "pcbrain.co.jp",
+    "url": "https://pcbrain.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "10名",
+    "business": "WordPress制作・ホームページ制作・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社TOTALソリューション",
+    "domain": "web-total.jp",
+    "url": "https://web-total.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "15名",
+    "business": "コーポレートサイト制作・LP制作・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社JIMOTO Marketing Share Bureau",
+    "domain": "jimoto-msb.co.jp",
+    "url": "https://jimoto-msb.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "8名",
+    "business": "ホームページ制作・地域マーケティング・Web制作",
+    "has_web": true
+  },
+  {
+    "company": "アグリロット",
+    "domain": "agrilot.co.jp",
+    "url": "https://agrilot.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "5名",
+    "business": "WordPress制作・ホームページ制作・CMS構築",
+    "has_web": true
+  },
+  {
+    "company": "ケーネット株式会社",
+    "domain": "knet.co.jp",
+    "url": "https://knet.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "新潟県",
+    "employees": "20名",
+    "business": "Webサイト制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ビットサインテクノス",
+    "domain": "bitsign.co.jp",
+    "url": "https://bitsign.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "新潟県",
+    "employees": "10名",
+    "business": "中小企業向けホームページ制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ドットコム・マーケティング",
+    "domain": "dc-m.co.jp",
+    "url": "https://dc-m.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "新潟県",
+    "employees": "10名",
+    "business": "WordPress制作・ECサイト開発・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "マザーシップ",
+    "domain": "mothership-web.jp",
+    "url": "https://mothership-web.jp/",
+    "segment": "web_wordpress",
+    "pref": "新潟県",
+    "employees": "5名",
+    "business": "WordPress制作・小規模事業者向けサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "インフォメーション株式会社",
+    "domain": "infomation.co.jp",
+    "url": "https://infomation.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "新潟県",
+    "employees": "15名",
+    "business": "Webサイト制作・コーポレートサイト・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "有限会社イー・オフィス",
+    "domain": "e-office.co.jp",
+    "url": "https://e-office.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "長野県",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "N-STYLES株式会社",
+    "domain": "n-styles.com",
+    "url": "https://n-styles.com/",
+    "segment": "web_wordpress",
+    "pref": "長野県",
+    "employees": "10名",
+    "business": "ホームページ制作・Webシステム開発・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フィールドデザイン",
+    "domain": "field-design.jp",
+    "url": "https://field-design.jp/",
+    "segment": "web_wordpress",
+    "pref": "長野県",
+    "employees": "8名",
+    "business": "Webデザイン・コーポレートサイト制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ビー・クス",
+    "domain": "bx-design.co.jp",
+    "url": "https://bx-design.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "長野県",
+    "employees": "10名",
+    "business": "Webサイト制作・コーポレートサイト・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "デイジー株式会社",
+    "domain": "daisy-web.co.jp",
+    "url": "https://daisy-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "長野県",
+    "employees": "6名",
+    "business": "WordPress制作・Webデザイン・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アーティスティックス",
+    "domain": "artisticx.co.jp",
+    "url": "https://artisticx.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "静岡県",
+    "employees": "20名",
+    "business": "Webサイト制作・LP制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社KLEE",
+    "domain": "klee.co.jp",
+    "url": "https://klee.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "静岡県",
+    "employees": "8名",
+    "business": "Webデザイン・コーポレートサイト制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブサクセス",
+    "domain": "web-success.co.jp",
+    "url": "https://web-success.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "静岡県",
+    "employees": "10名",
+    "business": "ホームページ制作・LP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "ルカデザイン合同会社",
+    "domain": "ruka-design.com",
+    "url": "https://ruka-design.com/",
+    "segment": "web_wordpress",
+    "pref": "静岡県",
+    "employees": "5名",
+    "business": "Webデザイン・中小企業向けサイト制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社LEAPH",
+    "domain": "leaph.co.jp",
+    "url": "https://leaph.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "静岡県",
+    "employees": "15名",
+    "business": "コーポレートサイト制作・キャンペーンページ・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "ステイトオブネイチャーデザイン",
+    "domain": "stateofnature.jp",
+    "url": "https://stateofnature.jp/",
+    "segment": "web_wordpress",
+    "pref": "静岡県",
+    "employees": "5名",
+    "business": "Webデザイン・ブランディング・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クレイブ",
+    "domain": "crave-inc.co.jp",
+    "url": "https://crave-inc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "石川県",
+    "employees": "8名",
+    "business": "Webデザイン・コーポレートサイト制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社FURAZOA",
+    "domain": "furazoa.co.jp",
+    "url": "https://furazoa.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "石川県",
+    "employees": "10名",
+    "business": "Webサイト制作・WordPress構築・コンテンツ制作",
+    "has_web": true
+  },
+  {
+    "company": "ソラノデザイン合同会社",
+    "domain": "sorano-design.com",
+    "url": "https://sorano-design.com/",
+    "segment": "web_wordpress",
+    "pref": "石川県",
+    "employees": "3名",
+    "business": "Webデザイン・ホームページ制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "RunLand株式会社",
+    "domain": "runland.co.jp",
+    "url": "https://runland.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "岐阜県",
+    "employees": "8名",
+    "business": "LP制作・コーポレートサイト制作・中小企業向けWeb制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社labo",
+    "domain": "labo-gifu.co.jp",
+    "url": "https://labo-gifu.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "岐阜県",
+    "employees": "10名",
+    "business": "LP制作・採用サイト制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "合同会社ステイプル",
+    "domain": "staple-gifu.com",
+    "url": "https://staple-gifu.com/",
+    "segment": "web_wordpress",
+    "pref": "岐阜県",
+    "employees": "8名",
+    "business": "LP制作・ECサイト制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "WEBSOL",
+    "domain": "websol.jp",
+    "url": "https://websol.jp/",
+    "segment": "web_wordpress",
+    "pref": "岐阜県",
+    "employees": "3名",
+    "business": "企業サイト制作・ECサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社GROW",
+    "domain": "grow-web.jp",
+    "url": "https://grow-web.jp/",
+    "segment": "web_wordpress",
+    "pref": "岐阜県",
+    "employees": "10名",
+    "business": "コーポレートサイト制作・店舗サイト・プロダクトサイト",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アクリアクト",
+    "domain": "acreact.co.jp",
+    "url": "https://acreact.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "岐阜県",
+    "employees": "8名",
+    "business": "Webサイト制作・マーケティング・スマートフォン対策",
+    "has_web": true
+  },
+  {
+    "company": "sober design",
+    "domain": "design-sober.com",
+    "url": "https://design-sober.com/",
+    "segment": "web_wordpress",
+    "pref": "岐阜県",
+    "employees": "3名",
+    "business": "ホームページ制作・Webデザイン・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "有限会社アイテム",
+    "domain": "item-toyama.co.jp",
+    "url": "https://item-toyama.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "富山県",
+    "employees": "8名",
+    "business": "ホームページ制作・WordPress構築・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "富山工房",
+    "domain": "toyama-kobo.jp",
+    "url": "https://toyama-kobo.jp/",
+    "segment": "web_wordpress",
+    "pref": "富山県",
+    "employees": "5名",
+    "business": "WordPress制作・初期費用0円サイト制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "山辺事務機株式会社",
+    "domain": "yamabe-j.co.jp",
+    "url": "https://yamabe-j.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "富山県",
+    "employees": "15名",
+    "business": "CMS搭載ホームページ制作・OA機器・印刷",
+    "has_web": true
+  },
+  {
+    "company": "株式会社インフォライブ",
+    "domain": "infolive.co.jp",
+    "url": "https://infolive.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福井県",
+    "employees": "10名",
+    "business": "Web制作・映像制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社バージョンジャパン",
+    "domain": "versionjapan.com",
+    "url": "https://www.versionjapan.com/",
+    "segment": "web_wordpress",
+    "pref": "福井県",
+    "employees": "20名",
+    "business": "Web制作・多言語対応・SEO・運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エーライン",
+    "domain": "aline.co.jp",
+    "url": "https://aline.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福井県",
+    "employees": "10名",
+    "business": "Web制作・ブランディング・広告デザイン",
+    "has_web": true
+  },
+  {
+    "company": "合同会社ツギ",
+    "domain": "tsugilab.com",
+    "url": "https://tsugilab.com/",
+    "segment": "web_wordpress",
+    "pref": "福井県",
+    "employees": "5名",
+    "business": "ブランディング・Web制作・グラフィックデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社マニュアルズ",
+    "domain": "manuals.co.jp",
+    "url": "https://manuals.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "山梨県",
+    "employees": "8名",
+    "business": "ホームページ制作・グラフィックデザイン・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "Y-DESIGNER",
+    "domain": "y-designer.jp",
+    "url": "https://y-designer.jp/",
+    "segment": "web_wordpress",
+    "pref": "山梨県",
+    "employees": "3名",
+    "business": "WordPress制作・Webデザイン・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "メディアデココンサルティング",
+    "domain": "mediadeco.co.jp",
+    "url": "https://mediadeco.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "山梨県",
+    "employees": "5名",
+    "business": "WordPress制作・スマホ対応サイト・低価格ホームページ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社VAR-C",
+    "domain": "var-c.com",
+    "url": "https://www.var-c.com/",
+    "segment": "web_wordpress",
+    "pref": "山梨県",
+    "employees": "5名",
+    "business": "Webデザイン・ホームページ制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Tratto Brain",
+    "domain": "trattobrain.com",
+    "url": "https://trattobrain.com/",
+    "segment": "web_wordpress",
+    "pref": "京都府",
+    "employees": "15名",
+    "business": "Webサイト制作・Webマーケティング・コンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "inshuuデザイン",
+    "domain": "inshuu.com",
+    "url": "https://inshuu.com/",
+    "segment": "web_wordpress",
+    "pref": "京都府",
+    "employees": "3名",
+    "business": "ホームページ制作・集客支援・中小企業向けWeb制作",
+    "has_web": true
+  },
+  {
+    "company": "有限会社パースアシスタント",
+    "domain": "pers.co.jp",
+    "url": "https://pers.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "京都府",
+    "employees": "5名",
+    "business": "ホームページ制作・WordPress構築・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社cotode",
+    "domain": "cotode.co.jp",
+    "url": "https://cotode.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "京都府",
+    "employees": "8名",
+    "business": "Webサイト制作・デザイン・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブライフ",
+    "domain": "web-life.co.jp",
+    "url": "https://web-life.co.jp/",
+    "segment": "web_studio",
+    "pref": "京都府",
+    "employees": "30名",
+    "business": "BiNDup開発・Webサイト制作・クラウドCMS",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ゴーフィールド",
+    "domain": "gofield.co.jp",
+    "url": "https://gofield.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "京都府",
+    "employees": "15名",
+    "business": "Webサイト制作・Webシステム開発・マーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ポケット",
+    "domain": "and-pocket.com",
+    "url": "https://and-pocket.com/",
+    "segment": "web_wordpress",
+    "pref": "兵庫県",
+    "employees": "10名",
+    "business": "ホームページ制作・Webマーケティング・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社kum",
+    "domain": "kum-web.com",
+    "url": "https://kum-web.com/",
+    "segment": "web_wordpress",
+    "pref": "兵庫県",
+    "employees": "5名",
+    "business": "Webデザイン・ホームページ制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社RIGADEL",
+    "domain": "rigadel.com",
+    "url": "https://rigadel.com/",
+    "segment": "web_wordpress",
+    "pref": "兵庫県",
+    "employees": "8名",
+    "business": "中小企業向けWebマーケティング・ホームページ制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "NOFT Design Works",
+    "domain": "noft-designworks.com",
+    "url": "https://noft-designworks.com/",
+    "segment": "web_wordpress",
+    "pref": "兵庫県",
+    "employees": "5名",
+    "business": "ホームページ制作・LP制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アンドメディア",
+    "domain": "andmedia.co.jp",
+    "url": "https://andmedia.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "兵庫県",
+    "employees": "15名",
+    "business": "Webサイト制作・LP制作・SEO対策・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "合同会社ontheway",
+    "domain": "ontheway-web.com",
+    "url": "https://ontheway-web.com/",
+    "segment": "web_wordpress",
+    "pref": "兵庫県",
+    "employees": "5名",
+    "business": "Webサイト制作・WordPress構築・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ラシン",
+    "domain": "rashin-web.com",
+    "url": "https://rashin-web.com/",
+    "segment": "web_wordpress",
+    "pref": "広島県",
+    "employees": "10名",
+    "business": "中小企業向けホームページ制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "合同会社エムリンクス",
+    "domain": "mlinx.co.jp",
+    "url": "https://mlinx.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "広島県",
+    "employees": "5名",
+    "business": "Webサイト制作・LP制作・SNS運用",
+    "has_web": true
+  },
+  {
+    "company": "マザーハンズ株式会社",
+    "domain": "motherhands.co.jp",
+    "url": "https://motherhands.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "広島県",
+    "employees": "10名",
+    "business": "ホームページ制作・Webデザイン・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社グリッジ",
+    "domain": "gridge.co.jp",
+    "url": "https://gridge.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "岡山県",
+    "employees": "15名",
+    "business": "コーポレートサイト制作・採用サイト・ECサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社きびだんご",
+    "domain": "kibidango.co.jp",
+    "url": "https://kibidango.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "岡山県",
+    "employees": "10名",
+    "business": "Webサイト制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "龍弥デザイン",
+    "domain": "tatsuya-design.com",
+    "url": "https://tatsuya-design.com/",
+    "segment": "web_wordpress",
+    "pref": "岡山県",
+    "employees": "3名",
+    "business": "WordPress制作・小規模サイト制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "HONOKA",
+    "domain": "hgr.jp",
+    "url": "https://hgr.jp/",
+    "segment": "web_wordpress",
+    "pref": "岡山県",
+    "employees": "5名",
+    "business": "WordPress制作・コーポレートサイト・LP制作・ECサイト",
+    "has_web": true
+  },
+  {
+    "company": "RESTA（レスタ）",
+    "domain": "resta-web.com",
+    "url": "https://resta-web.com/",
+    "segment": "web_wordpress",
+    "pref": "岡山県",
+    "employees": "8名",
+    "business": "ホームページ制作・WordPress構築・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ウェブおかやま",
+    "domain": "web-okayama.co.jp",
+    "url": "https://web-okayama.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "岡山県",
+    "employees": "5名",
+    "business": "Webサイト制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ワード",
+    "domain": "word-web.co.jp",
+    "url": "https://word-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "岡山県",
+    "employees": "8名",
+    "business": "Webデザイン・ホームページ制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "アバウトネット株式会社",
+    "domain": "aboutnet.co.jp",
+    "url": "https://aboutnet.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "栃木県",
+    "employees": "8名",
+    "business": "ホームページ制作・中小企業向けサイト制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "有限会社トレンディハウス",
+    "domain": "trendyhouse.co.jp",
+    "url": "https://trendyhouse.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "栃木県",
+    "employees": "5名",
+    "business": "LP制作・ホームページ制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デザインワークス",
+    "domain": "designwork-s.jp",
+    "url": "https://www.designwork-s.jp/",
+    "segment": "web_wordpress",
+    "pref": "栃木県",
+    "employees": "8名",
+    "business": "ホームページ制作・Web制作・広告デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ADesign",
+    "domain": "adesign-inc.com",
+    "url": "https://adesign-inc.com/",
+    "segment": "web_wordpress",
+    "pref": "茨城県",
+    "employees": "10名",
+    "business": "Web制作・SEO対策・WordPress構築・ロゴデザイン",
+    "has_web": true
+  },
+  {
+    "company": "WEBプロダクションMRS",
+    "domain": "mrs-web.co.jp",
+    "url": "https://mrs-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "茨城県",
+    "employees": "8名",
+    "business": "コーポレートサイト制作・LP制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社つくばマルチメディア",
+    "domain": "tsukuba-mm.co.jp",
+    "url": "https://tsukuba-mm.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "茨城県",
+    "employees": "20名",
+    "business": "Webサイト制作・映像制作・マルチメディアコンテンツ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社イーワイネット",
+    "domain": "eynet.co.jp",
+    "url": "https://eynet.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "群馬県",
+    "employees": "8名",
+    "business": "格安ホームページ制作・WordPress構築・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社IMDEX群馬",
+    "domain": "imdex-gunma.co.jp",
+    "url": "https://imdex-gunma.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "群馬県",
+    "employees": "5名",
+    "business": "LP制作・WordPress構築・プラグイン開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社コンダクター",
+    "domain": "conductor.co.jp",
+    "url": "https://conductor.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "秋田県",
+    "employees": "10名",
+    "business": "ホームページ制作・LP制作・ECサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "合同会社あきたこまちネット",
+    "domain": "akitakomachi.net",
+    "url": "https://akitakomachi.net/",
+    "segment": "web_wordpress",
+    "pref": "秋田県",
+    "employees": "5名",
+    "business": "ECサイト運営・Webマーケティング・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "Gazi工房",
+    "domain": "gazi.jp",
+    "url": "https://gazi.jp/",
+    "segment": "web_wordpress",
+    "pref": "山形県",
+    "employees": "3名",
+    "business": "Webサイト制作・WordPress構築・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "ツウィン・グラフィックス株式会社",
+    "domain": "twin-graphics.co.jp",
+    "url": "https://twin-graphics.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "山形県",
+    "employees": "10名",
+    "business": "Webサイト制作・グラフィックデザイン・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エンウィット",
+    "domain": "enwit.co.jp",
+    "url": "https://enwit.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "山形県",
+    "employees": "15名",
+    "business": "ホームページ制作・Webマーケティング・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "合同会社Ceep",
+    "domain": "ceep.co.jp",
+    "url": "https://ceep.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福島県",
+    "employees": "5名",
+    "business": "Web制作・クリエイティブ制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Like-s",
+    "domain": "like-s.co.jp",
+    "url": "https://like-s.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福島県",
+    "employees": "8名",
+    "business": "ホームページ制作・LP制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "有限会社シップス",
+    "domain": "ships-web.co.jp",
+    "url": "https://ships-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福島県",
+    "employees": "8名",
+    "business": "WordPress制作・LP制作・ECサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ナックウェブ",
+    "domain": "nackweb.co.jp",
+    "url": "https://nackweb.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "滋賀県",
+    "employees": "10名",
+    "business": "ホームページ制作・WordPress構築・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "MIYA CREATION",
+    "domain": "miya-creation.com",
+    "url": "https://miya-creation.com/",
+    "segment": "web_wordpress",
+    "pref": "滋賀県",
+    "employees": "3名",
+    "business": "WordPress制作・ブランディング・Web集客支援",
+    "has_web": true
+  },
+  {
+    "company": "Web Design Office スタジオビートル",
+    "domain": "studio-beetle.com",
+    "url": "https://studio-beetle.com/",
+    "segment": "web_wordpress",
+    "pref": "滋賀県",
+    "employees": "5名",
+    "business": "WordPress制作・ビジネス戦略型ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "ジェネヴィスパートナーズ株式会社",
+    "domain": "genev.co.jp",
+    "url": "https://genev.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "奈良県",
+    "employees": "8名",
+    "business": "WordPress制作・Webサイト制作・集客運用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クラウドエージェント",
+    "domain": "cloudagent.co.jp",
+    "url": "https://cloudagent.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "和歌山県",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フューチャイズム",
+    "domain": "futurism.co.jp",
+    "url": "https://futurism.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "島根県",
+    "employees": "5名",
+    "business": "中小企業向けWebサイト制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社スワークス",
+    "domain": "su-works.jp",
+    "url": "https://su-works.jp/",
+    "segment": "web_wordpress",
+    "pref": "山口県",
+    "employees": "10名",
+    "business": "コーポレートサイト制作・採用サイト・LP制作・ECサイト",
+    "has_web": true
+  },
+  {
+    "company": "株式会社SMAクリエイティブ",
+    "domain": "sma-creative.com",
+    "url": "https://sma-creative.com/",
+    "segment": "web_wordpress",
+    "pref": "山口県",
+    "employees": "8名",
+    "business": "WordPress制作・ECサイト構築・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社テンジン",
+    "domain": "tenjin-inc.co.jp",
+    "url": "https://tenjin-inc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "熊本県",
+    "employees": "15名",
+    "business": "Webサイト制作・LP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "SHIN株式会社",
+    "domain": "shin-inc.jp",
+    "url": "https://www.shin-inc.jp/",
+    "segment": "web_wordpress",
+    "pref": "熊本県",
+    "employees": "20名",
+    "business": "ホームページ制作・Web集客・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社つたえる",
+    "domain": "tsutaeru.co.jp",
+    "url": "https://tsutaeru.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "熊本県",
+    "employees": "10名",
+    "business": "WordPress制作・月額プラン対応・中小企業向けサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社CUBE",
+    "domain": "cube-kumamoto.co.jp",
+    "url": "https://cube-kumamoto.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "熊本県",
+    "employees": "8名",
+    "business": "Webサイト制作・Web集客・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "スガイ企画株式会社",
+    "domain": "sugai-kikaku.co.jp",
+    "url": "https://sugai-kikaku.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "鹿児島県",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "Web Clear",
+    "domain": "webclear.jp",
+    "url": "https://webclear.jp/",
+    "segment": "web_wordpress",
+    "pref": "沖縄県",
+    "employees": "5名",
+    "business": "Webサイト制作・LP制作・MEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エムディーエム",
+    "domain": "mdm-inc.jp",
+    "url": "https://mdm-inc.jp/",
+    "segment": "web_wordpress",
+    "pref": "石川県",
+    "employees": "6名",
+    "business": "Webサイト制作・WordPress構築・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社カミナリ",
+    "domain": "kaminari-inc.co.jp",
+    "url": "https://kaminari-inc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "鳥取県",
+    "employees": "8名",
+    "business": "Webサイト制作・デザイン・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ライトスタッフ",
+    "domain": "right-stuff.co.jp",
+    "url": "https://right-stuff.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "鳥取県",
+    "employees": "10名",
+    "business": "Webサイト制作・WordPress構築・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社のびのび色",
+    "domain": "nobinobi-iro.co.jp",
+    "url": "https://nobinobi-iro.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "静岡県",
+    "employees": "5名",
+    "business": "Web集客・ホームページ制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社YOrisoU",
+    "domain": "yorisou.co.jp",
+    "url": "https://yorisou.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "静岡県",
+    "employees": "8名",
+    "business": "集客型ホームページ制作・LP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社インスピレーション",
+    "domain": "inspiration.co.jp",
+    "url": "https://inspiration.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "静岡県",
+    "employees": "10名",
+    "business": "Webデザイン・ブランドサイト制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "エヌケー・テック株式会社",
+    "domain": "nk-tech.co.jp",
+    "url": "https://nk-tech.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福島県",
+    "employees": "15名",
+    "business": "ホームページ制作・LP制作・ECサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "ECサポート株式会社",
+    "domain": "ec-support.co.jp",
+    "url": "https://ec-support.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福島県",
+    "employees": "10名",
+    "business": "ECサイト構築・コーポレートサイト制作・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社リードバック",
+    "domain": "readback.co.jp",
+    "url": "https://readback.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福島県",
+    "employees": "8名",
+    "business": "LP制作・Webサイト制作・デジタルマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Apolemia",
+    "domain": "apole.co.jp",
+    "url": "https://apole.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "8名",
+    "business": "WordPress制作・LP制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "クロッキーワークス",
+    "domain": "croquy-works.com",
+    "url": "https://croquy-works.com/",
+    "segment": "web_wordpress",
+    "pref": "長崎県",
+    "employees": "3名",
+    "business": "WordPress制作・Webサイト制作・低価格プラン対応",
+    "has_web": true
+  },
+  {
+    "company": "株式会社グッドエブリデイ",
+    "domain": "goodeveryday.co.jp",
+    "url": "https://goodeveryday.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "熊本県",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイ・クリエイト",
+    "domain": "i-create.co.jp",
+    "url": "https://i-create.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "秋田県",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "HK.Pro株式会社",
+    "domain": "hk-pro.jp",
+    "url": "https://hk-pro.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "8名",
+    "business": "SEO特化ホームページ制作・Web集客・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ハーモナイズ",
+    "domain": "harmonize.co.jp",
+    "url": "https://harmonize.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "5名",
+    "business": "ホームページ制作・Webデザイン・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "カバズワース",
+    "domain": "kabasworth.com",
+    "url": "https://kabasworth.com/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "3名",
+    "business": "中小企業向けホームページ制作・集客サイト構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社テイクフォー",
+    "domain": "take-4.co.jp",
+    "url": "https://take-4.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "神奈川県",
+    "employees": "10名",
+    "business": "コーポレートサイト制作・LP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "DENSUKE",
+    "domain": "dnsk.jp",
+    "url": "https://dnsk.jp/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "5名",
+    "business": "ホームページ制作・WordPress構築・越谷エリア対応",
+    "has_web": true
+  },
+  {
+    "company": "アソシエートWEB",
+    "domain": "associate777.com",
+    "url": "https://web.associate777.com/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "3名",
+    "business": "WordPress導入ホームページ制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社カモミール",
+    "domain": "chamomile-web.com",
+    "url": "https://chamomile-web.com/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社GIV",
+    "domain": "giv.co.jp",
+    "url": "https://www.giv.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "15名",
+    "business": "ホームページ制作・ECサイト構築・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ネットサービス",
+    "domain": "net-service.co.jp",
+    "url": "https://net-service.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "埼玉県",
+    "employees": "10名",
+    "business": "ホームページ制作・Webシステム開発・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社京葉広告社",
+    "domain": "keiyo-ad.co.jp",
+    "url": "https://keiyo-ad.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "20名",
+    "business": "Web制作・広告・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社NOBU",
+    "domain": "nobu-inc.co.jp",
+    "url": "https://nobu-inc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "8名",
+    "business": "WordPress制作・LP制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "イロドリ",
+    "domain": "irodori-web.com",
+    "url": "https://irodori-web.com/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "3名",
+    "business": "中小企業向けホームページ制作・WordPress構築・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クレヴィア",
+    "domain": "crevia-ts.com",
+    "url": "https://crevia-ts.com/",
+    "segment": "web_wordpress",
+    "pref": "千葉県",
+    "employees": "10名",
+    "business": "ホームページ制作・Webコンサルティング・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デジタルウェブ",
+    "domain": "digitalweb.co.jp",
+    "url": "https://digitalweb.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "宮城県",
+    "employees": "10名",
+    "business": "Webサイト制作・WordPress構築・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ワンナップ",
+    "domain": "oneup-sendai.com",
+    "url": "https://oneup-sendai.com/",
+    "segment": "web_wordpress",
+    "pref": "宮城県",
+    "employees": "5名",
+    "business": "ホームページ制作・Webデザイン・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社オンウェブ",
+    "domain": "onweb.co.jp",
+    "url": "https://onweb.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "宮城県",
+    "employees": "8名",
+    "business": "Webサイト制作・LP制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アットスタイル・ワークス",
+    "domain": "atstyleworks.co.jp",
+    "url": "https://atstyleworks.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "北海道",
+    "employees": "5名",
+    "business": "WordPress制作・テンプレートプラン・低価格ホームページ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フィーカ",
+    "domain": "fika-web.jp",
+    "url": "https://fika-web.jp/",
+    "segment": "web_wordpress",
+    "pref": "北海道",
+    "employees": "3名",
+    "business": "WordPress制作・レスポンシブ対応・ワンストップ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Linデザイン事務所",
+    "domain": "lindesign.co.jp",
+    "url": "https://lindesign.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "兵庫県",
+    "employees": "5名",
+    "business": "ホームページ制作・LP制作・Web広告・SNS運用代行",
+    "has_web": true
+  },
+  {
+    "company": "株式会社カワッタデザイン",
+    "domain": "kawatta-design.com",
+    "url": "https://kawatta-design.com/",
+    "segment": "web_wordpress",
+    "pref": "兵庫県",
+    "employees": "5名",
+    "business": "ホームページ制作・Webデザイン・明石エリア対応",
+    "has_web": true
+  },
+  {
+    "company": "arneデザイン事務所",
+    "domain": "arne-design.com",
+    "url": "https://arne-design.com/",
+    "segment": "web_wordpress",
+    "pref": "兵庫県",
+    "employees": "3名",
+    "business": "ホームページ制作・LP制作・SEO対策・西宮拠点",
+    "has_web": true
+  },
+  {
+    "company": "株式会社マーブル",
+    "domain": "marble-design.net",
+    "url": "https://marble-design.net/",
+    "segment": "web_wordpress",
+    "pref": "京都府",
+    "employees": "5名",
+    "business": "Webデザイン・グラフィックデザイン・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Tukiyomi design",
+    "domain": "tukiyomi.co.jp",
+    "url": "https://tukiyomi.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "京都府",
+    "employees": "5名",
+    "business": "高デザイン品質ホームページ制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "合同会社Filament",
+    "domain": "filament-inc.com",
+    "url": "https://filament-inc.com/",
+    "segment": "web_wordpress",
+    "pref": "京都府",
+    "employees": "5名",
+    "business": "Webデザイン・WordPress構築・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "Plaque株式会社",
+    "domain": "plaque.jp",
+    "url": "https://plaque.jp/",
+    "segment": "web_wordpress",
+    "pref": "広島県",
+    "employees": "5名",
+    "business": "ホームページ制作・LP制作・ブランディング・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サンエイ広島",
+    "domain": "sanei-hiroshima.co.jp",
+    "url": "https://sanei-hiroshima.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "広島県",
+    "employees": "15名",
+    "business": "LP制作・ECサイト制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Syncrise",
+    "domain": "syncrise.co.jp",
+    "url": "https://syncrise.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "広島県",
+    "employees": "10名",
+    "business": "コーポレートサイト制作・LP制作・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社LAB広島",
+    "domain": "lab-hiroshima.co.jp",
+    "url": "https://lab-hiroshima.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "広島県",
+    "employees": "8名",
+    "business": "WordPress制作・ホームページ制作・更新管理",
+    "has_web": true
+  },
+  {
+    "company": "リアサポート",
+    "domain": "arm-ls.com",
+    "url": "https://commit.arm-ls.com/",
+    "segment": "web_wordpress",
+    "pref": "広島県",
+    "employees": "5名",
+    "business": "低価格ホームページ制作・広島県内対応",
+    "has_web": true
+  },
+  {
+    "company": "株式会社マザール",
+    "domain": "mazar.co.jp",
+    "url": "https://mazar.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福島県",
+    "employees": "10名",
+    "business": "地域特化サイト制作・コスト抑えた制作プラン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社システムラボ",
+    "domain": "system-lab.co.jp",
+    "url": "https://system-lab.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "岡山県",
+    "employees": "15名",
+    "business": "中小企業特化Webサイト制作・コーポレートサイト・LP",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ワンオーエス",
+    "domain": "one-os.co.jp",
+    "url": "https://one-os.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "秋田県",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・Webシステム開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社カレンテックス",
+    "domain": "karentex.co.jp",
+    "url": "https://karentex.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "栃木県",
+    "employees": "10名",
+    "business": "WordPress構築・Webサイト制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社フューチャイズム",
+    "domain": "futurism-web.co.jp",
+    "url": "https://futurism-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "島根県",
+    "employees": "5名",
+    "business": "中小企業向けWebサイト制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "アイム株式会社島根",
+    "domain": "aim-shimane.co.jp",
+    "url": "https://aim-shimane.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "島根県",
+    "employees": "15名",
+    "business": "Webサイト制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社リーディット和歌山",
+    "domain": "readit-wakayama.co.jp",
+    "url": "https://readit-wakayama.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "和歌山県",
+    "employees": "10名",
+    "business": "ホームページ制作・Webマーケティング・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クラウドエージェント",
+    "domain": "cloud-agent.co.jp",
+    "url": "https://cloud-agent.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "和歌山県",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "ジェネヴィスパートナーズ株式会社",
+    "domain": "genev-partners.co.jp",
+    "url": "https://genev-partners.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "奈良県",
+    "employees": "8名",
+    "business": "WordPress制作・Webサイト制作・集客運用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社テンジン",
+    "domain": "tenjin-kumamoto.co.jp",
+    "url": "https://tenjin-kumamoto.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "熊本県",
+    "employees": "15名",
+    "business": "Webサイト制作・LP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "トラ丸企画株式会社鹿児島",
+    "domain": "toramaru-kagoshima.co.jp",
+    "url": "https://toramaru-kagoshima.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "鹿児島県",
+    "employees": "8名",
+    "business": "Webサイト制作・LP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイ・クリエイト秋田",
+    "domain": "icreate-akita.co.jp",
+    "url": "https://icreate-akita.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "秋田県",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・デザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エムディーエム",
+    "domain": "mdm-kanazawa.jp",
+    "url": "https://mdm-kanazawa.jp/",
+    "segment": "web_wordpress",
+    "pref": "石川県",
+    "employees": "6名",
+    "business": "Webサイト制作・WordPress構築・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "兵庫ウェブステージ",
+    "domain": "hyogo-webstage.com",
+    "url": "https://hyogo-webstage.com/",
+    "segment": "web_wordpress",
+    "pref": "兵庫県",
+    "employees": "8名",
+    "business": "ホームページ制作・LP制作・中小企業向けWeb制作",
+    "has_web": true
+  },
+  {
+    "company": "ECサポート株式会社福島",
+    "domain": "ec-support-fukushima.co.jp",
+    "url": "https://ec-support-fukushima.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "福島県",
+    "employees": "10名",
+    "business": "ECサイト構築・コーポレートサイト制作・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社シフトブレイン",
+    "domain": "shiftbrain.com",
+    "url": "https://shiftbrain.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "24名",
+    "business": "ブランディング・Webサイトデザイン・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社スピカデザイン",
+    "domain": "spicadesign.jp",
+    "url": "https://spicadesign.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "Webデザイン・コーポレートサイト制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "ドローフォー株式会社",
+    "domain": "drawfour.co.jp",
+    "url": "https://drawfour.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・運用支援",
+    "has_web": true
+  },
+  {
+    "company": "POSSWEB株式会社",
+    "domain": "possweb.co.jp",
+    "url": "https://possweb.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "WordPress・Jimdo企業サイト制作・初心者サポート",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Alfree",
+    "domain": "alfree.co.jp",
+    "url": "https://alfree.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "ホームページ制作・SNSサイト・会員サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社free web hope",
+    "domain": "free-web-hope.com",
+    "url": "https://free-web-hope.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "30名",
+    "business": "LP制作・LPO・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ジオコード",
+    "domain": "geocode.co.jp",
+    "url": "https://www.geocode.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "200名",
+    "business": "Webサイト制作・SEO対策・リスティング広告運用",
+    "has_web": true
+  },
+  {
+    "company": "JetB株式会社",
+    "domain": "jetb.co.jp",
+    "url": "https://jetb.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "40名",
+    "business": "ホームページ制作・Webマーケティング・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Wonder",
+    "domain": "wonder-katsushika.com",
+    "url": "https://www.wonder-katsushika.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "ホームページ制作・Web広告運用・SEO/MEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ブラボーウェブ",
+    "domain": "bravo-web.com",
+    "url": "https://bravo-web.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "ホームページ制作・WordPress構築・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社KOP",
+    "domain": "kop.co.jp",
+    "url": "https://www.kop.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "Webサイト制作・STUDIO制作代行・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社クリマークス",
+    "domain": "climarks.com",
+    "url": "https://www.climarks.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "20名",
+    "business": "コーポレートサイト制作・LP制作・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社AtoZデザイン",
+    "domain": "atoz-design.jp",
+    "url": "https://atoz-design.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "ホームページ制作・LP制作・LLMO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Webの間",
+    "domain": "webnoaida.com",
+    "url": "https://webnoaida.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "コーポレートサイト制作・集客支援・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "Feelbee株式会社",
+    "domain": "feelbe.jp",
+    "url": "https://feelbe.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "Webサイト制作・SEO対策・データ分析改善",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ビードリブン",
+    "domain": "be-driven.co.jp",
+    "url": "https://be-driven.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "Webサイト制作・Webマーケティング・コンテンツ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エンクリエイト",
+    "domain": "encreate.co.jp",
+    "url": "https://encreate.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "WordPress構築・ホームページ制作・SEO設計",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アフラット",
+    "domain": "aflat.co.jp",
+    "url": "https://aflat.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "WordPress制作・ホームページ制作・運用サポート",
+    "has_web": true
+  },
+  {
+    "company": "株式会社シロクロ",
+    "domain": "shirokuro.co.jp",
+    "url": "https://shirokuro.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "WordPress制作・サイト改善・保守運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アクセント",
+    "domain": "accent-web.co.jp",
+    "url": "https://accent-web.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "WordPress構築・ブログ制作・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "Kurumi株式会社",
+    "domain": "kurumi-inc.co.jp",
+    "url": "https://kurumi-inc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "中小企業向けWeb制作・伴走型運用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アスコット",
+    "domain": "ascot-jp.com",
+    "url": "https://ascot-jp.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "中小企業向けホームページ制作・WordPress対応・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社PLUSLIKE",
+    "domain": "pluslike.co.jp",
+    "url": "https://pluslike.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "WordPress・CMS制作・LP制作・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "ツアーオンライン株式会社",
+    "domain": "touronline.co.jp",
+    "url": "https://touronline.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "WordPress制作・コーポレートサイト・ECサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ブーストラボ",
+    "domain": "boostlab.co.jp",
+    "url": "https://boostlab.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "LP制作・ホームページ制作・Webシステム開発",
+    "has_web": true
+  },
+  {
+    "company": "合同会社ALQUEMIST",
+    "domain": "alquemist.co.jp",
+    "url": "https://alquemist.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "LP制作・UI/UXデザイン・Webサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "けだま株式会社",
+    "domain": "kedama.co.jp",
+    "url": "https://kedama.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "ホームページ制作・Webシステム・ECサイト構築",
+    "has_web": true
+  },
+  {
+    "company": "SD WEBWORKS",
+    "domain": "sd-webworks.com",
+    "url": "https://sd-webworks.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "ホームページ制作・WordPress構築・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社APPY",
+    "domain": "appy-website.com",
+    "url": "https://appy-website.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "ホームページ制作・Webデザイン・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "スタジオ・ウミ",
+    "domain": "studioumi.jp",
+    "url": "https://studioumi.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "Webサイト制作・コーポレートサイト・CMS構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社LINICA",
+    "domain": "linica.co.jp",
+    "url": "https://linica.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "Webサイト制作・コンテンツマーケティング・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "Appmart株式会社",
+    "domain": "appmart.co.jp",
+    "url": "https://appmart.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "20名",
+    "business": "ホームページ制作・コンテンツ制作・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社シマヲ",
+    "domain": "shimao.co.jp",
+    "url": "https://shimao.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "ホームページ制作・Webデザイン・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アーティストユニオン",
+    "domain": "artistunion.co.jp",
+    "url": "https://artistunion.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "WordPress制作・レスポンシブデザイン・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ハーツ",
+    "domain": "hearts-web.com",
+    "url": "https://hearts-web.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社SBMコンサルティング",
+    "domain": "sbm-consulting.co.jp",
+    "url": "https://sbm-consulting.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "ホームページ制作・Webコンサルティング・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アメージングデザイン",
+    "domain": "amazingdesign.co.jp",
+    "url": "https://amazingdesign.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "ホームページ制作・Webデザイン・動画制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ドットゼロ",
+    "domain": "dotzero.co.jp",
+    "url": "https://dotzero.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "Webデザイン・グラフィックデザイン・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ビズアップ",
+    "domain": "bizup.jp",
+    "url": "https://bizup.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "20名",
+    "business": "ロゴデザイン・ホームページ制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デジタルトレンズ",
+    "domain": "dgtrends.com",
+    "url": "https://dgtrends.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "50名",
+    "business": "ホームページ制作・Web広告運用・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "ジウ株式会社",
+    "domain": "jiu-inc.co.jp",
+    "url": "https://jiu-inc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "LP制作・コーポレートサイト・ECサイト・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "有限会社タロウズ",
+    "domain": "taros.co.jp",
+    "url": "https://taros.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "WordPress・CMS構築・コーポレートサイト・LP・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "有限会社ダイレクト・クリエイション",
+    "domain": "direct-creation.co.jp",
+    "url": "https://direct-creation.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "中小企業向けWebコンテンツ制作・WordPress構築・運用支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社NAaNA",
+    "domain": "naana.co.jp",
+    "url": "https://naana.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "ホームページ企画制作・WordPress・SEO/Webマーケティング支援",
+    "has_web": true
+  },
+  {
+    "company": "カロアデザイン株式会社",
+    "domain": "caroa.jp",
+    "url": "https://caroa.jp/",
+    "segment": "web_studio",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "STUDIO制作特化・Web集客・デザイン制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社HanamiWEB",
+    "domain": "hanami-web.tokyo.jp",
+    "url": "https://hanami-web.tokyo.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "ノーコード×WordPress制作・ホームページ制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サウンドボード",
+    "domain": "soundboard.co.jp",
+    "url": "https://soundboard.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "WordPressホームページ制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社システムピース",
+    "domain": "systempeace.co.jp",
+    "url": "https://systempeace.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "WordPress制作・自治体サイト・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "アイムアンドカンパニー株式会社",
+    "domain": "imandcompany.co.jp",
+    "url": "https://imandcompany.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "BtoB企業コーポレートサイト・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社セブンデックス",
+    "domain": "sevendex.com",
+    "url": "https://sevendex.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "30名",
+    "business": "UXデザイン・Webサイト制作・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社LIG",
+    "domain": "liginc.co.jp",
+    "url": "https://liginc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "200名",
+    "business": "Webサイト制作・コンテンツ制作・DX支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アスカ企画",
+    "domain": "asuka-kikaku.co.jp",
+    "url": "https://asuka-kikaku.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "デザイン制作・ホームページ制作・DTP",
+    "has_web": true
+  },
+  {
+    "company": "株式会社東京通信社",
+    "domain": "tokyo-tsushinsha.co.jp",
+    "url": "https://tokyo-tsushinsha.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "Webサイト制作・LP制作・CMS構築・クリエイティブ制作",
+    "has_web": true
+  },
+  {
+    "company": "LIVECAST株式会社",
+    "domain": "livecast.co.jp",
+    "url": "https://livecast.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "Webサイト制作・WordPress構築・ノーコード制作",
+    "has_web": true
+  },
+  {
+    "company": "CGマーケティング株式会社",
+    "domain": "cgmarketing.co.jp",
+    "url": "https://cgmarketing.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "Webサイト制作・LP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "デザイアドライン株式会社",
+    "domain": "desireline.co.jp",
+    "url": "https://desireline.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "企業ブランディング・ホームページ制作・Webデザイン",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アウルキャンプ",
+    "domain": "owlcamp.co.jp",
+    "url": "https://owlcamp.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "LP制作・ホームページ制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "インターリンク株式会社",
+    "domain": "interlink-inc.co.jp",
+    "url": "https://interlink-inc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "20名",
+    "business": "コーポレートサイト・LP・ECサイト・SEO対策",
+    "has_web": true
+  },
+  {
+    "company": "アセントウェブ株式会社",
+    "domain": "ascentweb.co.jp",
+    "url": "https://ascentweb.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "Webサイト制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社パイロット",
+    "domain": "pilot-d.co.jp",
+    "url": "https://pilot-d.co.jp/",
+    "segment": "web_studio",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "STUDIO制作・ノーコードWebサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ユルリカ",
+    "domain": "yuruliqa.co.jp",
+    "url": "https://yuruliqa.co.jp/",
+    "segment": "web_studio",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "STUDIO制作・Webデザイン・サイト構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社パラドックス",
+    "domain": "paradox-inc.co.jp",
+    "url": "https://paradox-inc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "50名",
+    "business": "ブランディング・採用サイト・コーポレートサイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社エグゼクティブクリエイション",
+    "domain": "exec-creation.co.jp",
+    "url": "https://exec-creation.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "新規サイト制作・ホームページリニューアル・SNS活用Web戦略",
+    "has_web": true
+  },
+  {
+    "company": "ライド株式会社",
+    "domain": "ride-web.com",
+    "url": "https://ride-web.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "30名",
+    "business": "ホームページ制作・Webマーケティング・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Lead",
+    "domain": "lead-co.jp",
+    "url": "https://lead-co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "ホームページ制作・LP制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社西新宿ドットネット",
+    "domain": "nishishinjuku.net",
+    "url": "https://nishishinjuku.net/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "ホームページ制作・WordPress構築・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社イークル",
+    "domain": "ekule.co.jp",
+    "url": "https://ekule.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "Webサイト制作・LP制作・リスティング広告",
+    "has_web": true
+  },
+  {
+    "company": "株式会社スターキッド",
+    "domain": "starkid.co.jp",
+    "url": "https://starkid.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "ホームページデザイン・Webサイト制作・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社WPMake",
+    "domain": "wpmake.jp",
+    "url": "https://wpmake.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "WordPress制作特化・テーマ開発・カスタマイズ",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アヴァンティ",
+    "domain": "avanti-web.com",
+    "url": "https://avanti-web.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "ホームページ制作・SEO設計・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社インパクト・スリー",
+    "domain": "impact3.co.jp",
+    "url": "https://impact3.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "ホームページ制作・WordPress構築・Web業務代行",
+    "has_web": true
+  },
+  {
+    "company": "株式会社CUBE",
+    "domain": "cube92.net",
+    "url": "https://www.cube92.net/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "Webデザイン・コーディング・システム開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ビエナセレクション",
+    "domain": "viena.co.jp",
+    "url": "https://viena.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "コーポレートサイト制作・ECサイト制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社COAL",
+    "domain": "coal-inc.co.jp",
+    "url": "https://coal-inc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "Webサイト制作・WordPress構築・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社プラカン",
+    "domain": "prakan.co.jp",
+    "url": "https://prakan.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "Webサイト制作・デザイン・コーディング・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社キーメイクス",
+    "domain": "keymakes.co.jp",
+    "url": "https://keymakes.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "LP制作・ホームページ制作・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社サントム",
+    "domain": "santom.co.jp",
+    "url": "https://santom.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "ホームページ企画制作・リニューアル・Webコンサルティング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社CLANE",
+    "domain": "clane.co.jp",
+    "url": "https://clane.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "30名",
+    "business": "コーポレートサイト制作・Webマーケティング・DX支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社デジタルアイデンティティ",
+    "domain": "digital-identity.co.jp",
+    "url": "https://digital-identity.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "100名",
+    "business": "WordPress制作・SEO対策・Web広告運用",
+    "has_web": true
+  },
+  {
+    "company": "オリクション株式会社",
+    "domain": "orixion.co.jp",
+    "url": "https://orixion.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "LP制作・インターネット広告運用・Webマーケティング",
+    "has_web": true
+  },
+  {
+    "company": "TNGC Graphics",
+    "domain": "tngc.jp",
+    "url": "https://tngc.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "コーポレートサイト制作・WordPress構築・保守運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ロフトワーク",
+    "domain": "loftwork.com",
+    "url": "https://loftwork.com/jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "200名",
+    "business": "Webサイト制作・クリエイティブ制作・プロジェクト支援",
+    "has_web": true
+  },
+  {
+    "company": "ONE DESIGN工房",
+    "domain": "one-design.jp",
+    "url": "https://www.one-design.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "Webサイト制作・WordPress構築・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "スモールウェーブ",
+    "domain": "smallwave.net",
+    "url": "https://www.smallwave.net/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "ホームページ制作・WordPress構築・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社グローバルダイン",
+    "domain": "globaldyne.co.jp",
+    "url": "https://globaldyne.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "20名",
+    "business": "ホームページデザイン・UXデザイン・システム開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社コムワーク",
+    "domain": "comwork.co.jp",
+    "url": "https://comwork.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "LP制作・ホームページ制作・Webサイト改善",
+    "has_web": true
+  },
+  {
+    "company": "株式会社グリップスペース",
+    "domain": "grip-space.co.jp",
+    "url": "https://grip-space.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "ホームページ制作・Webデータベース・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ベイジ",
+    "domain": "beigeag.co.jp",
+    "url": "https://beigeag.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "45名",
+    "business": "BtoB Webサイト制作・コーポレートサイト・採用サイト・オウンドメディア",
+    "has_web": true
+  },
+  {
+    "company": "エクスペクト合同会社",
+    "domain": "expect-llc.co.jp",
+    "url": "https://expect-llc.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "WordPress制作・ホームページ制作・Web運用",
+    "has_web": true
+  },
+  {
+    "company": "合同会社しろくまシステムズ",
+    "domain": "shirokuma-systems.co.jp",
+    "url": "https://shirokuma-systems.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "WordPressホームページ制作・中小企業向けWeb制作",
+    "has_web": true
+  },
+  {
+    "company": "ストーンビジュアルシステム株式会社",
+    "domain": "stonevisual.co.jp",
+    "url": "https://stonevisual.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "ホームページ制作・デザイン制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アルキャンプ",
+    "domain": "arucamp.jp",
+    "url": "https://arucamp.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "LP制作・Webサイト制作・Web広告運用",
+    "has_web": true
+  },
+  {
+    "company": "株式会社GoodProductions",
+    "domain": "goodproductions.jp",
+    "url": "https://goodproductions.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "Webサイト制作・コーポレートサイト・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社MIUデザイン",
+    "domain": "miu-design.com",
+    "url": "https://miu-design.com/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "Webデザイン・コーポレートサイト制作・WordPress構築",
+    "has_web": true
+  },
+  {
+    "company": "株式会社ディアイディ",
+    "domain": "di-d.co.jp",
+    "url": "https://di-d.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "Webサイト制作・UI/UXデザイン・ブランディング",
+    "has_web": true
+  },
+  {
+    "company": "株式会社United Code",
+    "domain": "unitedcode.jp",
+    "url": "https://unitedcode.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "10名",
+    "business": "Webサイト制作・WordPress構築・LP制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アイコン",
+    "domain": "aikon.co.jp",
+    "url": "https://aikon.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "15名",
+    "business": "Webサイト制作・コーポレートサイト・採用サイト制作",
+    "has_web": true
+  },
+  {
+    "company": "株式会社LIG",
+    "domain": "lig.co.jp",
+    "url": "https://lig.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "200名",
+    "business": "Webサイト制作・コンテンツマーケティング・デジタルプロダクト開発",
+    "has_web": true
+  },
+  {
+    "company": "株式会社Dads Works",
+    "domain": "dadsworks.co.jp",
+    "url": "https://dadsworks.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "5名",
+    "business": "WordPress制作・ホームページ制作・中小企業向けWeb支援",
+    "has_web": true
+  },
+  {
+    "company": "株式会社アンダースコア",
+    "domain": "under-score.co.jp",
+    "url": "https://under-score.co.jp/",
+    "segment": "web_wordpress",
+    "pref": "東京都",
+    "employees": "8名",
+    "business": "WordPress制作・ホームページ制作・Webデザイン",
+    "has_web": true
   }
 ]
